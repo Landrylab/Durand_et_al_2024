@@ -1,0 +1,2 @@
+nt_seq aa_seq Nham_nt Nham_aa Nmut_codons WT indel STOP STOP_readthrough count_e1_s0 count_e2_s0 count_e3_s0 count_e1_s1 count_e2_s1 count_e3_s1 mean_count fitness1_uncorr fitness2_uncorr fitness3_uncorr sigma1_uncorr sigma2_uncorr sigma3_uncorr fitness sigma
+NA FLVLSLRDP NA 0 NA TRUE FALSE FALSE FALSE 269354 271099 331859 670814 670814 670814 290770.666666667 0.0106802468706539 -0.000265466296097531 -0.0104147805745566 0.0259391672002173 0.023644980043534 0.0225353856053 -0.000974316511715154 0.013809226461563

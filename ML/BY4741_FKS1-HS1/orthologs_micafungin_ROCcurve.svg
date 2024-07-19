@@ -1,0 +1,172 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+  "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns:xlink="http://www.w3.org/1999/xlink" width="108pt" height="108pt" viewBox="0 0 108 108" xmlns="http://www.w3.org/2000/svg" version="1.1">
+ <metadata>
+  <rdf:RDF xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+   <cc:Work>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:date>2024-06-21T10:23:46.669230</dc:date>
+    <dc:format>image/svg+xml</dc:format>
+    <dc:creator>
+     <cc:Agent>
+      <dc:title>Matplotlib v3.8.1, https://matplotlib.org/</dc:title>
+     </cc:Agent>
+    </dc:creator>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <defs>
+  <style type="text/css">*{stroke-linejoin: round; stroke-linecap: butt}</style>
+ </defs>
+ <g id="figure_1">
+  <g id="patch_1">
+   <path d="M 0 108 
+L 108 108 
+L 108 0 
+L 0 0 
+z
+" style="fill: #ffffff"/>
+  </g>
+  <g id="axes_1">
+   <g id="patch_2">
+    <path d="M 32.74375 79.30625 
+L 98.979545 79.30625 
+L 98.979545 28.752 
+L 32.74375 28.752 
+z
+" style="fill: #ffffff"/>
+   </g>
+   <g id="matplotlib.axis_1">
+    <g id="xtick_1">
+     <g id="line2d_1">
+      <defs>
+       <path id="mca43d4051a" d="M 0 0 
+L 0 3.5 
+" style="stroke: #000000; stroke-width: 0.8"/>
+      </defs>
+      <g>
+       <use xlink:href="#mca43d4051a" x="35.754468" y="79.30625" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_1">
+      <text style="font: 6px 'Arial'; text-anchor: middle" x="35.754468" y="88.100937" transform="rotate(-0 35.754468 88.100937)">0.0</text>
+     </g>
+    </g>
+    <g id="xtick_2">
+     <g id="line2d_2">
+      <g>
+       <use xlink:href="#mca43d4051a" x="65.861648" y="79.30625" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_2">
+      <text style="font: 6px 'Arial'; text-anchor: middle" x="65.861648" y="88.100937" transform="rotate(-0 65.861648 88.100937)">0.5</text>
+     </g>
+    </g>
+    <g id="xtick_3">
+     <g id="line2d_3">
+      <g>
+       <use xlink:href="#mca43d4051a" x="95.968827" y="79.30625" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_3">
+      <text style="font: 6px 'Arial'; text-anchor: middle" x="95.968827" y="88.100937" transform="rotate(-0 95.968827 88.100937)">1.0</text>
+     </g>
+    </g>
+    <g id="text_4">
+     <text style="font: 8px 'Arial'; text-anchor: middle" x="65.861648" y="99.019688" transform="rotate(-0 65.861648 99.019688)">False positive rate</text>
+    </g>
+   </g>
+   <g id="matplotlib.axis_2">
+    <g id="ytick_1">
+     <g id="line2d_4">
+      <defs>
+       <path id="mefedd45ec6" d="M 0 0 
+L -3.5 0 
+" style="stroke: #000000; stroke-width: 0.8"/>
+      </defs>
+      <g>
+       <use xlink:href="#mefedd45ec6" x="32.74375" y="77.00833" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_5">
+      <text style="font: 6px 'Arial'; text-anchor: end" x="28.24375" y="79.155673" transform="rotate(-0 28.24375 79.155673)">0.0</text>
+     </g>
+    </g>
+    <g id="ytick_2">
+     <g id="line2d_5">
+      <g>
+       <use xlink:href="#mefedd45ec6" x="32.74375" y="54.029125" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_6">
+      <text style="font: 6px 'Arial'; text-anchor: end" x="28.24375" y="56.176469" transform="rotate(-0 28.24375 56.176469)">0.5</text>
+     </g>
+    </g>
+    <g id="ytick_3">
+     <g id="line2d_6">
+      <g>
+       <use xlink:href="#mefedd45ec6" x="32.74375" y="31.04992" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_7">
+      <text style="font: 6px 'Arial'; text-anchor: end" x="28.24375" y="33.197264" transform="rotate(-0 28.24375 33.197264)">1.0</text>
+     </g>
+    </g>
+    <g id="text_8">
+     <text style="font: 8px 'Arial'; text-anchor: middle" x="14.31375" y="54.029125" transform="rotate(-90 14.31375 54.029125)">True positive rate</text>
+    </g>
+   </g>
+   <g id="line2d_7">
+    <path d="M 35.754468 77.00833 
+L 35.754468 73.725586 
+L 35.754468 60.594612 
+L 37.636167 60.594612 
+L 37.636167 40.898151 
+L 39.517865 40.898151 
+L 39.517865 34.332664 
+L 73.388443 34.332664 
+L 80.915238 34.332664 
+L 84.678635 34.332664 
+L 94.087129 34.332664 
+L 95.968827 34.332664 
+L 95.968827 31.04992 
+" clip-path="url(#pfa5609d997)" style="fill: none; stroke: #228b22; stroke-width: 1.5; stroke-linecap: square"/>
+   </g>
+   <g id="line2d_8">
+    <path d="M 35.754468 77.00833 
+L 95.968827 31.04992 
+" clip-path="url(#pfa5609d997)" style="fill: none; stroke-dasharray: 5.55,2.4; stroke-dashoffset: 0; stroke: #ffa500; stroke-width: 1.5"/>
+   </g>
+   <g id="patch_3">
+    <path d="M 32.74375 79.30625 
+L 32.74375 28.752 
+" style="fill: none; stroke: #000000; stroke-linejoin: miter; stroke-linecap: square"/>
+   </g>
+   <g id="patch_4">
+    <path d="M 98.979545 79.30625 
+L 98.979545 28.752 
+" style="fill: none; stroke: #000000; stroke-linejoin: miter; stroke-linecap: square"/>
+   </g>
+   <g id="patch_5">
+    <path d="M 32.74375 79.30625 
+L 98.979545 79.30625 
+" style="fill: none; stroke: #000000; stroke-linejoin: miter; stroke-linecap: square"/>
+   </g>
+   <g id="patch_6">
+    <path d="M 32.74375 28.752 
+L 98.979545 28.752 
+" style="fill: none; stroke: #000000; stroke-linejoin: miter; stroke-linecap: square"/>
+   </g>
+   <g id="text_9">
+    <text style="font: 8px 'Arial'" transform="translate(46.519148 14.19675)">Micafungin</text>
+    <text style="font: 8px 'Arial'" transform="translate(47.409148 22.752)">AUC: 0.91</text>
+   </g>
+  </g>
+ </g>
+ <defs>
+  <clipPath id="pfa5609d997">
+   <rect x="32.74375" y="28.752" width="66.235795" height="50.55425"/>
+  </clipPath>
+ </defs>
+</svg>

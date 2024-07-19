@@ -1,0 +1,6 @@
+,Total_reads,Reads_no_indels,Reads_no_indels_%,No_indels_acceptable_RC,Acceptable_RC_over_no_indels_%
+input1,206079,204995,99.5,203705,99.4
+input2,181438,179426,98.9,175022,97.5
+b1,227179,226333,99.6,224895,99.4
+b2,125903,125328,99.5,124606,99.4
+b3,228395,227520,99.6,198115,87.1

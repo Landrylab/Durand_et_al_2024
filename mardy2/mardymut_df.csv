@@ -1,0 +1,60 @@
+,first author name,journal,year,species,gene or protein name,drug,mutation,degree of evidence,MIC,strain_ID,strain origin if available,notes,mutation_cerevisiae
+0,Garcia-Effron,Antimicrobial Agents and Chemotherapy,2008,Saccharomyces cerevisiae,Fks1,Caspofungin,P647A,2.0,0.5 μg/mL,BY4742,Lab,"CLSI with YPD, The equivalent in Candida parapsilosis, Candida orthopsilosis, and
+Candida metapsilosis is A660. The authors have the hypothesis that this amino acid is responsible for the low susceptibility to caspofungin, micafungin, and anidulafungin of those organism. In the paper it seems like there is a mixup between P647A and P649A for S. cerevisiae at several places.",P647A
+1,Garcia-Effron,Antimicrobial Agents and Chemotherapy,2008,Saccharomyces cerevisiae,Fks1,Micafungin,P647A,2.0,0.5 μg/mL,BY4742,Lab,"CLSI with YPD, The equivalent in Candida parapsilosis, Candida orthopsilosis, and
+Candida metapsilosis is A660. The authors have the hypothesis that this amino acid is responsible for the low susceptibility to caspofungin, micafungin, and anidulafungin of those organism. In the paper it seems like there is a mixup between P647A and P649A for S. cerevisiae at several places.",P647A
+2,Garcia-Effron,Antimicrobial Agents and Chemotherapy,2008,Saccharomyces cerevisiae,Fks1,Anidulafungin,P647A,2.0,0.5 μg/mL,BY4742,Lab,"CLSI with YPD, The equivalent in Candida parapsilosis, Candida orthopsilosis, and
+Candida metapsilosis is A660. The authors have the hypothesis that this amino acid is responsible for the low susceptibility to caspofungin, micafungin, and anidulafungin of those organism. In the paper it seems like there is a mixup between P647A and P649A for S. cerevisiae at several places.",P647A
+89,Park,Antimicrobial Agents and Chemotherapy,2005,Candida albicans,Fks1,Caspofungin,S645P,1.0,2 μg/mL,Transformant 1,Lab,,S643P
+90,Park,Antimicrobial Agents and Chemotherapy,2005,Candida albicans,Fks1,Caspofungin,S645P,1.0,2 μg/mL,Transformant 2,Lab,,S643P
+91,Park,Antimicrobial Agents and Chemotherapy,2005,Candida albicans,Fks1,Caspofungin,S645P,1.0,2 μg/mL,Transformant 3,Lab,,S643P
+92,Park,Antimicrobial Agents and Chemotherapy,2005,Candida albicans,Fks1,Caspofungin,S645P,1.0,2 μg/mL,Transformant 8,Lab,,S643P
+93,Park,Antimicrobial Agents and Chemotherapy,2005,Candida albicans,Fks1,Caspofungin,S645P,1.0,4 μg/mL,pJAM11 in CAI4-R1,Lab,,S643P
+313,Avramovska,Frontiers in Fungal Biology,2022,Candida albicans,Fks1,Caspofungin,F641C,4.0,Not determined,MH84 (2N) ,Evolved,Looked at FKS1 as candidate gene; MIC values potentially available in mat sup,F639C
+315,Avramovska,Frontiers in Fungal Biology,2022,Candida albicans,Fks1,Caspofungin,S645F,4.0,Not determined,MH128 (4N),Evolved,Looked at FKS1 as candidate gene; MIC values potentially available in mat sup,S643F
+316,Avramovska,Frontiers in Fungal Biology,2022,Candida albicans,Fks1,Caspofungin,S645Y,4.0,Not determined,MH128 (4N),Evolved,Looked at FKS1 as candidate gene; MIC values potentially available in mat sup,S643Y
+317,Avramovska,Frontiers in Fungal Biology,2022,Candida albicans,Fks1,Caspofungin,F641del,4.0,Not determined,MH128 (4N),Evolved,Looked at FKS1 as candidate gene; MIC values potentially available in mat sup,F639del
+448,Ksiezopolska,Current Biology,2021,Candida glabrata,Fks1,Anidulafungin,S629P,4.0,8 μg/mL,TGL00081,Evolved,microbroth dilution,S643P
+486,Ksiezopolska,Current Biology,2021,Candida glabrata,Fks1,Anidulafungin,S629P,4.0,4 μg/mL,TGL00257,Evolved,microbroth dilution,S643P
+487,Ksiezopolska,Current Biology,2021,Candida glabrata,Fks1,Anidulafungin,S629P,4.0,4 μg/mL,TGL00258,Evolved,microbroth dilution,S643P
+721,Avramovska,Frontiers in Fungal Biology,2022,Candida albicans,Fks1,Caspofungin,F641C,4.0,2.5 μg/mL,MH84 (2N),Evolved,both sequenced isolates from two of three sequenced evolved initially-diploid populations were homozygous,F639C
+725,Avramovska,Frontiers in Fungal Biology,2022,Candida albicans,Fks1,Caspofungin,F641del,4.0,2.5 μg/mL,MH128 (4N),Evolved,Five of 12 sequenced tetraploid isolates (two isolates sequenced from six evolved population) had a 3 bp deletion ,F639del
+781,Gardiner,Medical Mycology,2005,Aspergillus fumigatus,Fks1,Caspofungin,S678Y,1.0,4 μg/mL,FKS-S678Y,Unknown,,L642Y
+836,Accoceberry,Journal of Antimicrobial Chemotherapy,2019,Candida lusitaniae,Fks1,Caspofungin,F634V,1.0,1.5 µg/mL,"F1 trp1Δ3', ura3Δ5'",Lab,"MIC medium : RPMI 1640, 2% glucose, pH buffered = 7,0, 0,165M MOPS",F639V
+837,Accoceberry,Journal of Antimicrobial Chemotherapy,2019,Candida lusitaniae,Fks1,Caspofungin,S638P,1.0,>32 µg/mL,"F1 trp1Δ3', ura3Δ5'",Lab,"MIC medium : RPMI 1640, 2% glucose, pH buffered = 7,0, 0,165M MOPS",S643P
+839,Accoceberry,Journal of Antimicrobial Chemotherapy,2019,Candida lusitaniae,Fks1,Caspofungin,F634del,1.0,32 µg/mL (256 fold),"F1 trp1Δ3', ura3Δ5'",Lab,"MIC medium : RPMI 1640, 2% glucose, pH buffered = 7,0, 0,165M MOPS",F639del
+840,Accoceberry,Journal of Antimicrobial Chemotherapy,2019,Candida lusitaniae,Fks1,Caspofungin,P642A,1.0,0.75 µg/mL (6 fold),"F1 trp1Δ3', ura3Δ5'",Lab,"MIC medium : RPMI 1640, 2% glucose, pH buffered = 7,0, 0,165M MOPS",P647A
+889,Ning,Emerging Microbes and Infections,2022,Candida parapsilosis,Fks1,Anidulafungin,S656P,1.0,>64 µg/mL,,Lab,"MIC : CLSI broth microdilution method
+This mutation was originally found in a clinical isolate resistant to all of these treatments",S643P
+890,Ning,Emerging Microbes and Infections,2022,Candida parapsilosis,Fks1,Caspofungin,S656P,1.0,>64 µg/mL,,Lab,"MIC : CLSI broth microdilution method
+This mutation was originally found in a clinical isolate resistant to all of these treatments",S643P
+891,Ning,Emerging Microbes and Infections,2022,Candida parapsilosis,Fks1,Micafungin,S656P,1.0,>64 µg/mL,,Lab,"MIC : CLSI broth microdilution method
+This mutation was originally found in a clinical isolate resistant to all of these treatments",S643P
+893,Ning,Emerging Microbes and Infections,2022,Candida metapsilosis,Fks1,Anidulafungin,S656P,1.0,64 fold,,Lab,"MIC : CLSI broth microdilution method
+This mutation was originally found in a clinical isolate resistant to all of these treatments",S643P
+894,Ning,Emerging Microbes and Infections,2022,Candida metapsilosis,Fks1,Caspofungin,S656P,1.0,64 fold,,Lab,"MIC : CLSI broth microdilution method
+This mutation was originally found in a clinical isolate resistant to all of these treatments",S643P
+895,Ning,Emerging Microbes and Infections,2022,Candida metapsilosis,Fks1,Micafungin,S656P,1.0,512 fold,,Lab,"MIC : CLSI broth microdilution method
+This mutation was originally found in a clinical isolate resistant to all of these treatments",S643P
+1118,Balashov,Antimicrobial Agents and Chemotherapy,2006,Candida albicans,Fks1,Caspofungin,S645P,4.0,>16 µg/mL,"SC5314, M70",Evolved,,S643P
+1119,Balashov,Antimicrobial Agents and Chemotherapy,2006,Candida albicans,Fks1,Caspofungin,S645Y,4.0,>16 µg/mL,"SC5314, M70",Evolved,,S643Y
+1120,Balashov,Antimicrobial Agents and Chemotherapy,2006,Candida albicans,Fks1,Caspofungin,S645F,4.0,>16 µg/mL,"SC5314, M70",Evolved,,S643F
+1121,Balashov,Antimicrobial Agents and Chemotherapy,2006,Candida albicans,Fks1,Caspofungin,F641S,4.0,>16 µg/mL,M70,Evolved,,F639S
+1122,Balashov,Antimicrobial Agents and Chemotherapy,2006,Candida albicans,Fks1,Caspofungin,L644F,4.0,>16 µg/mL,M70,Evolved,,L642F
+1123,Balashov,Antimicrobial Agents and Chemotherapy,2006,Candida albicans,Fks1,Caspofungin,S645C,4.0,>16 µg/mL,M70,Evolved,,S643C
+1124,Balashov,Antimicrobial Agents and Chemotherapy,2006,Candida albicans,Fks1,Micafungin,S645P,4.0,>1 µg/mL,"SC5314, M70",Evolved,,S643P
+1125,Balashov,Antimicrobial Agents and Chemotherapy,2006,Candida albicans,Fks1,Micafungin,S645Y,4.0,>1 µg/mL,"SC5314, M70",Evolved,,S643Y
+1126,Balashov,Antimicrobial Agents and Chemotherapy,2006,Candida albicans,Fks1,Micafungin,S645F,4.0,>1 µg/mL,"SC5314, M70",Evolved,,S643F
+1127,Balashov,Antimicrobial Agents and Chemotherapy,2006,Candida albicans,Fks1,Micafungin,F641S,4.0,>16 µg/mL,M70,Evolved,,F639S
+1128,Balashov,Antimicrobial Agents and Chemotherapy,2006,Candida albicans,Fks1,Micafungin,L644F,4.0,>16 µg/mL,M70,Evolved,,L642F
+1129,Balashov,Antimicrobial Agents and Chemotherapy,2006,Candida albicans,Fks1,Micafungin,S645C,4.0,>16 µg/mL,M70,Evolved,,S643C
+1130,Balashov,Antimicrobial Agents and Chemotherapy,2006,Candida albicans,Fks1,Anidulafungin,S645P,4.0,>0.5 µg/mL,"SC5314, M70",Evolved,,S643P
+1131,Balashov,Antimicrobial Agents and Chemotherapy,2006,Candida albicans,Fks1,Anidulafungin,S645Y,4.0,>0.5 µg/mL,"SC5314, M70",Evolved,,S643Y
+1132,Balashov,Antimicrobial Agents and Chemotherapy,2006,Candida albicans,Fks1,Anidulafungin,S645F,4.0,>0.5 µg/mL,"SC5314, M70",Evolved,,S643F
+1133,Balashov,Antimicrobial Agents and Chemotherapy,2006,Candida albicans,Fks1,Anidulafungin,F641S,4.0,>2 µg/mL,M70,Evolved,,F639S
+1134,Balashov,Antimicrobial Agents and Chemotherapy,2006,Candida albicans,Fks1,Anidulafungin,L644F,4.0,>2 µg/mL,M70,Evolved,,L642F
+1135,Balashov,Antimicrobial Agents and Chemotherapy,2006,Candida albicans,Fks1,Anidulafungin,S645C,4.0,>2 µg/mL,M70,Evolved,,S643C
+1168,Accoceberry,Journal of Antimicrobial Chemotherapy,2019,Candida lusitaniae,Fks1,Caspofungin,F634V,1.0,1.5 µg/mL,CBS 6936,Lab,,F639V
+1169,Accoceberry,Journal of Antimicrobial Chemotherapy,2019,Candida lusitaniae,Fks1,Caspofungin,S638P,1.0,>32 µg/mL,CBS 6936,Lab,,S643P
+1171,Accoceberry,Journal of Antimicrobial Chemotherapy,2019,Candida lusitaniae,Fks1,Caspofungin,F634del,1.0,32 µg/mL,CBS 6936,Lab,,F639del
+1172,Accoceberry,Journal of Antimicrobial Chemotherapy,2019,Candida lusitaniae,Fks1,Caspofungin,P642A,1.0,0.75 µg/mL,CBS 6936,Lab,,P647A

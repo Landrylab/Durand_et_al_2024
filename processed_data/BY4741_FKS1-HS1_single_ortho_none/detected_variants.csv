@@ -1,0 +1,6 @@
+,Filtered_sequenced_variants,Filtered_sequenced_variants_rc,Usable_variants,Covered_variants_%,Usable_variants_rc,Usable_variants_%rc,Unsequenced_variants,Unexpected_variants,Unexpected_variants_rc
+input1,399,203980,313,93.7,200299.0,98.2,18,86,3681.0
+input2,896,177616,315,94.3,171995.0,96.8,18,581,5621.0
+b1,376,225014,306,91.60000000000001,221028.0,98.2,18,70,3986.0
+b2,406,124719,305,91.3,122518.0,98.2,18,101,2201.0
+b3,879,207940,314,94.0,194831.0,93.7,18,565,13109.0

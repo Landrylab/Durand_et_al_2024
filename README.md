@@ -26,7 +26,7 @@ sh Miniconda3-latest-Linux-x86_64.sh
 
 2. Clone this repository.
 
-If you're using the Anaconda navigator or JupyterLab Desktop, open a prompt. If you don't have git installed, run `conda install git`, then `git clone https://github.com/durr1602/DMS.git`.
+If you're using the Anaconda navigator or JupyterLab Desktop, open a prompt. If you don't have git installed, run `conda install git`, then `git clone https://github.com/Landrylab/Durand_et_al_2024.git`.
 
 3. Use it to create a virtual environment with the necessary dependencies and activate it:
 ```

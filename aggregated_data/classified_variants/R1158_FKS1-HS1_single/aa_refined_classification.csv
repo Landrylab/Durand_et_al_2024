@@ -1,0 +1,1006 @@
+,compound,seq_type,Nham_aa,aa_seq,s,cscore,refined_class,sensres
+0,anidulafungin,ortho,1.0,FLILSLRDP,0.0892296658026625,1.0,WT-like,sensitive
+1,anidulafungin,ortho,1.0,FLTLSLRDP,0.2357735953755628,1.0,WT-like,sensitive
+2,anidulafungin,ortho,2.0,FLALSFRDP,0.3841654654610718,1.0,WT-like,sensitive
+3,anidulafungin,ortho,2.0,FLALSIRDP,-0.2606616502476626,1.0,WT-like,sensitive
+4,anidulafungin,ortho,2.0,FLSLSFRDP,1.6049935881583075,1.0,intermediary,resistant
+5,anidulafungin,ortho,2.0,FLTLSFRDP,-0.0641387516179228,1.0,WT-like,sensitive
+6,anidulafungin,ortho,2.0,FLTLSIRDP,-0.3060991808427584,1.0,WT-like,sensitive
+7,anidulafungin,ortho,2.0,FLTLSLKDP,0.1407855116508529,1.0,WT-like,sensitive
+8,anidulafungin,ortho,2.0,FLTLSLRDA,1.918157142367602,1.0,resistant,resistant
+9,anidulafungin,ortho,2.0,FLTLSLVDP,0.0871578107101005,1.0,WT-like,sensitive
+10,anidulafungin,ortho,2.0,FLTLSVRDP,-0.243795358471422,1.0,WT-like,sensitive
+11,anidulafungin,ortho,2.0,FMALSLRDP,1.1265655670125392,1.0,intermediary,resistant
+12,anidulafungin,ortho,2.0,YLILSLRDP,1.7106970866937463,1.0,resistant,resistant
+13,anidulafungin,ortho,2.0,YLTLSLRDP,1.886509444306563,1.0,resistant,resistant
+14,anidulafungin,ortho,3.0,ALTLSFRDP,1.9634330673827047,1.0,resistant,resistant
+15,anidulafungin,ortho,3.0,FLALSFKDP,-0.0259507271363537,1.0,WT-like,sensitive
+16,anidulafungin,ortho,3.0,FLALSFRDA,1.9952669435702164,1.0,resistant,resistant
+17,anidulafungin,ortho,3.0,FLIKSLIDP,-0.0145874045828331,1.0,WT-like,sensitive
+18,anidulafungin,ortho,3.0,FLTHSFRDP,2.044264657761704,1.0,resistant,resistant
+19,anidulafungin,ortho,3.0,FLTLSAKDP,-0.2375334239021738,1.0,WT-like,sensitive
+20,anidulafungin,ortho,3.0,FLTLSFKDP,0.0417635825899769,1.0,WT-like,sensitive
+21,anidulafungin,ortho,3.0,FLTLSFRDT,0.4458873312593725,1.0,WT-like,sensitive
+22,anidulafungin,ortho,3.0,FLTLSIKDP,0.0034385299470005,1.0,WT-like,sensitive
+23,anidulafungin,ortho,3.0,YLALSFRDP,1.993193935296098,1.0,resistant,resistant
+24,anidulafungin,ortho,3.0,YLILSFRDP,1.955658647292132,1.0,resistant,resistant
+25,anidulafungin,ortho,3.0,YLILSIRDP,1.8918028312059103,1.0,resistant,resistant
+26,anidulafungin,ortho,3.0,YLTLSFRDP,1.9731710550040689,1.0,resistant,resistant
+27,anidulafungin,ortho,3.0,YLTLSIRDP,1.8777355527017,1.0,resistant,resistant
+28,anidulafungin,ortho,4.0,FLALNIKDP,0.4982269665804848,1.0,WT-like,sensitive
+29,anidulafungin,ortho,4.0,FLALNLSDS,2.0783189288167536,1.0,resistant,resistant
+30,anidulafungin,ortho,4.0,FLTLNLADS,2.0498947950714435,1.0,resistant,resistant
+31,anidulafungin,ortho,4.0,FLTLNLSDS,2.075039596581267,1.0,resistant,resistant
+32,anidulafungin,ortho,4.0,FLTLSFENP,0.1861536468865379,1.0,WT-like,sensitive
+33,anidulafungin,ortho,4.0,SLTLSFRDV,1.9441738162948083,1.0,resistant,resistant
+34,anidulafungin,ortho,4.0,YLALSFKDP,1.890267007519841,1.0,resistant,resistant
+35,anidulafungin,ortho,4.0,YLTLSFKDP,1.9637622645995527,1.0,resistant,resistant
+36,anidulafungin,ortho,4.0,YLTLSFRDA,2.040216955102218,1.0,resistant,resistant
+37,anidulafungin,ortho,4.0,YLTLSFRDV,1.856206796251917,1.0,resistant,resistant
+38,anidulafungin,ortho,4.0,YLTLSFSDP,2.001115680905716,1.0,resistant,resistant
+39,anidulafungin,ortho,4.0,YLTLSIKDP,1.675555653864954,1.0,resistant,resistant
+40,anidulafungin,ortho,4.0,YLTRSFRDP,1.6140932638366934,1.0,intermediary,resistant
+41,anidulafungin,ortho,5.0,ALALNIKDP,-0.4329670910931253,1.0,WT-like,sensitive
+42,anidulafungin,ortho,5.0,FLTSSFSSP,1.968606867873492,1.0,resistant,resistant
+43,anidulafungin,ortho,5.0,YLTLAFRDS,1.9958905332410743,1.0,resistant,resistant
+44,anidulafungin,ortho,6.0,YLTRAFRDS,1.8946083583423168,1.0,resistant,resistant
+45,anidulafungin,ortho,7.0,AICSDLRED,1.6605435762209453,1.0,resistant,resistant
+46,anidulafungin,ortho,7.0,LQIRPLIAP,2.0411571446455703,1.0,resistant,resistant
+47,anidulafungin,ortho,7.0,LQVKPMIKP,2.0473273377235253,1.0,resistant,resistant
+48,anidulafungin,ortho,7.0,VLTLLVTQH,1.6591048121321808,1.0,resistant,resistant
+49,anidulafungin,single,0.0,FLVLSLRDP,-0.0293047631202615,1.0,WT-like,sensitive
+50,anidulafungin,single,1.0,*LVLSLRDP,-0.0896258055723933,1.0,WT-like,sensitive
+51,anidulafungin,single,1.0,DLVLSLRDP,1.6043250452797198,3.0,intermediary,resistant
+52,anidulafungin,single,1.0,ELVLSLRDP,1.5101359470071205,2.0,intermediary,resistant
+53,anidulafungin,single,1.0,FAVLSLRDP,1.4434491817149913,1.0,intermediary,resistant
+54,anidulafungin,single,1.0,FCVLSLRDP,-0.0888151061559454,1.0,WT-like,sensitive
+55,anidulafungin,single,1.0,FEVLSLRDP,0.9964087828459802,1.0,intermediary,resistant
+56,anidulafungin,single,1.0,FFVLSLRDP,0.4794345868653038,1.0,WT-like,sensitive
+57,anidulafungin,single,1.0,FGVLSLRDP,1.5215216873173434,1.0,intermediary,resistant
+58,anidulafungin,single,1.0,FHVLSLRDP,1.6043250452797198,2.0,intermediary,resistant
+59,anidulafungin,single,1.0,FIVLSLRDP,0.0728904785000041,1.0,WT-like,sensitive
+60,anidulafungin,single,1.0,FKVLSLRDP,0.1429255740489166,1.0,WT-like,sensitive
+61,anidulafungin,single,1.0,FL*LSLRDP,0.3976293091048271,1.0,WT-like,sensitive
+62,anidulafungin,single,1.0,FLALSLRDP,1.079131437959251,2.0,intermediary,resistant
+63,anidulafungin,single,1.0,FLCLSLRDP,0.0020792251871784,1.0,WT-like,sensitive
+64,anidulafungin,single,1.0,FLDLSLRDP,-0.4094557061859947,1.0,WT-like,sensitive
+65,anidulafungin,single,1.0,FLELSLRDP,0.1224052584950272,1.0,WT-like,sensitive
+66,anidulafungin,single,1.0,FLFLSLRDP,1.1662075021619152,2.0,intermediary,resistant
+67,anidulafungin,single,1.0,FLHLSLRDP,1.5101359470071205,2.0,intermediary,resistant
+68,anidulafungin,single,1.0,FLILSLRDP,-0.1955824908375703,1.0,WT-like,sensitive
+69,anidulafungin,single,1.0,FLKLSLRDP,1.767367141082355,1.0,resistant,resistant
+70,anidulafungin,single,1.0,FLLLSLRDP,0.1147570977431173,1.0,WT-like,sensitive
+71,anidulafungin,single,1.0,FLMLSLRDP,-0.1307496443318385,1.0,WT-like,sensitive
+72,anidulafungin,single,1.0,FLNLSLRDP,-0.061627055875232,1.0,WT-like,sensitive
+73,anidulafungin,single,1.0,FLPLSLRDP,1.0660425773582058,1.0,intermediary,resistant
+74,anidulafungin,single,1.0,FLQLSLRDP,-0.1144185686495626,1.0,WT-like,sensitive
+75,anidulafungin,single,1.0,FLRLSLRDP,1.8228490741112116,1.0,resistant,resistant
+76,anidulafungin,single,1.0,FLSLSLRDP,1.4760841615260374,1.0,intermediary,resistant
+77,anidulafungin,single,1.0,FLTLSLRDP,1.097773360782306,2.0,intermediary,resistant
+78,anidulafungin,single,1.0,FLV*SLRDP,0.1598898205662218,1.0,WT-like,sensitive
+79,anidulafungin,single,1.0,FLVASLRDP,1.5544883482369147,2.0,intermediary,resistant
+80,anidulafungin,single,1.0,FLVDSLRDP,-0.1338126808676782,1.0,WT-like,sensitive
+81,anidulafungin,single,1.0,FLVFSLRDP,1.7384545376827003,2.0,resistant,resistant
+82,anidulafungin,single,1.0,FLVISLRDP,-0.146268690100763,1.0,WT-like,sensitive
+83,anidulafungin,single,1.0,FLVL*LRDP,1.7703077719160314,3.0,resistant,resistant
+84,anidulafungin,single,1.0,FLVLALRDP,0.2009997999580082,1.0,WT-like,sensitive
+85,anidulafungin,single,1.0,FLVLCLRDP,1.3938785789606116,2.0,intermediary,resistant
+86,anidulafungin,single,1.0,FLVLELRDP,1.7083407894909752,2.0,resistant,resistant
+87,anidulafungin,single,1.0,FLVLFLRDP,1.971661913673004,1.0,resistant,resistant
+88,anidulafungin,single,1.0,FLVLGLRDP,0.7398951490433816,1.0,WT-like,sensitive
+89,anidulafungin,single,1.0,FLVLHLRDP,1.900828590942909,2.0,resistant,resistant
+90,anidulafungin,single,1.0,FLVLILRDP,1.918957482425929,1.0,resistant,resistant
+91,anidulafungin,single,1.0,FLVLKLRDP,2.141797114400488,1.0,resistant,resistant
+92,anidulafungin,single,1.0,FLVLLLRDP,1.8502561298720184,1.0,resistant,resistant
+93,anidulafungin,single,1.0,FLVLMLRDP,1.8136117730272816,1.0,resistant,resistant
+94,anidulafungin,single,1.0,FLVLNLRDP,2.033182201589005,1.0,resistant,resistant
+95,anidulafungin,single,1.0,FLVLPLRDP,2.0733837294094446,1.0,resistant,resistant
+96,anidulafungin,single,1.0,FLVLQLRDP,1.994826988731001,1.0,resistant,resistant
+97,anidulafungin,single,1.0,FLVLRLRDP,2.089478985787849,1.0,resistant,resistant
+98,anidulafungin,single,1.0,FLVLS*RDP,0.114729150453271,1.0,WT-like,sensitive
+99,anidulafungin,single,1.0,FLVLSARDP,-0.19484837883816356,1.0,WT-like,sensitive
+100,anidulafungin,single,1.0,FLVLSDRDP,-0.1162209877216435,1.0,WT-like,sensitive
+101,anidulafungin,single,1.0,FLVLSFRDP,0.5024384061337042,1.0,WT-like,sensitive
+102,anidulafungin,single,1.0,FLVLSHRDP,1.9833428230935144,1.0,resistant,resistant
+103,anidulafungin,single,1.0,FLVLSIRDP,0.0025850158083651,1.0,WT-like,sensitive
+104,anidulafungin,single,1.0,FLVLSL*DP,0.2833779333386146,1.0,WT-like,sensitive
+105,anidulafungin,single,1.0,FLVLSLCDP,0.7424470723911065,1.0,WT-like,sensitive
+106,anidulafungin,single,1.0,FLVLSLGDP,1.7852451468715356,1.0,resistant,resistant
+107,anidulafungin,single,1.0,FLVLSLHDP,0.1061771190214755,1.0,WT-like,sensitive
+108,anidulafungin,single,1.0,FLVLSLIDP,1.4006359069828545,2.0,intermediary,resistant
+109,anidulafungin,single,1.0,FLVLSLKDP,0.0803396472912871,1.0,WT-like,sensitive
+110,anidulafungin,single,1.0,FLVLSLLDP,1.3436633950320571,1.0,intermediary,resistant
+111,anidulafungin,single,1.0,FLVLSLMDP,0.2130947538143663,1.0,WT-like,sensitive
+112,anidulafungin,single,1.0,FLVLSLNDP,0.6415577026111388,1.0,WT-like,sensitive
+113,anidulafungin,single,1.0,FLVLSLPDP,0.0553523462787504,1.0,WT-like,sensitive
+114,anidulafungin,single,1.0,FLVLSLQDP,0.4465615040311432,1.0,WT-like,sensitive
+115,anidulafungin,single,1.0,FLVLSLR*P,0.0593269549762156,1.0,WT-like,sensitive
+116,anidulafungin,single,1.0,FLVLSLRAP,1.269517305114605,1.0,intermediary,resistant
+117,anidulafungin,single,1.0,FLVLSLRCP,2.028206127720768,1.0,resistant,resistant
+118,anidulafungin,single,1.0,FLVLSLRD*,0.501256148967852,1.0,WT-like,sensitive
+119,anidulafungin,single,1.0,FLVLSLRDC,2.1252057162708384,3.0,resistant,resistant
+120,anidulafungin,single,1.0,FLVLSLRDD,1.9444820830590943,1.0,resistant,resistant
+121,anidulafungin,single,1.0,FLVLSLRDE,1.8175008337627168,3.0,resistant,resistant
+122,anidulafungin,single,1.0,FLVLSLRDF,1.932461335316561,1.0,resistant,resistant
+123,anidulafungin,single,1.0,FLVLSLRDG,1.9722172321852016,1.0,resistant,resistant
+124,anidulafungin,single,1.0,FLVLSLRDH,0.7780471632424423,2.0,WT-like,sensitive
+125,anidulafungin,single,1.0,FLVLSLRDI,1.9587140573096928,1.0,resistant,resistant
+126,anidulafungin,single,1.0,FLVLSLRDK,1.961714606061572,1.0,resistant,resistant
+127,anidulafungin,single,1.0,FLVLSLRDL,1.950472128660509,1.0,resistant,resistant
+128,anidulafungin,single,1.0,FLVLSLRDM,2.0003482966144515,1.0,resistant,resistant
+129,anidulafungin,single,1.0,FLVLSLRDR,1.6577956264698683,1.0,resistant,resistant
+130,anidulafungin,single,1.0,FLVLSLRDS,1.7528631828396448,1.0,resistant,resistant
+131,anidulafungin,single,1.0,FLVLSLRDT,1.9806489117135224,1.0,resistant,resistant
+132,anidulafungin,single,1.0,FLVLSLRDV,1.9441640422848248,1.0,resistant,resistant
+133,anidulafungin,single,1.0,FLVLSLRDY,2.065631144853062,2.0,resistant,resistant
+134,anidulafungin,single,1.0,FLVLSLREP,1.606102365276966,1.0,intermediary,resistant
+135,anidulafungin,single,1.0,FLVLSLRFP,1.9622972827621088,1.0,resistant,resistant
+136,anidulafungin,single,1.0,FLVLSLRGP,2.3788924918353325,1.0,resistant,resistant
+137,anidulafungin,single,1.0,FLVLSLRHP,1.9139035193527751,1.0,resistant,resistant
+138,anidulafungin,single,1.0,FLVLSLRIP,1.2499641220982094,2.0,intermediary,resistant
+139,anidulafungin,single,1.0,FLVLSLRKP,1.2856942194839251,2.0,intermediary,resistant
+140,anidulafungin,single,1.0,FLVLSLRLP,1.1038071500237874,1.0,intermediary,resistant
+141,anidulafungin,single,1.0,FLVLSLRMP,1.7328297253658058,1.0,resistant,resistant
+142,anidulafungin,single,1.0,FLVLSLRNP,1.511251396866893,1.0,intermediary,resistant
+143,anidulafungin,single,1.0,FLVLSLRPP,1.9752333799721127,1.0,resistant,resistant
+144,anidulafungin,single,1.0,FLVLSLRQP,1.4120890746487753,1.0,intermediary,resistant
+145,anidulafungin,single,1.0,FLVLSLRRP,2.0371778643623504,1.0,resistant,resistant
+146,anidulafungin,single,1.0,FLVLSLRSP,1.9699456099115475,1.0,resistant,resistant
+147,anidulafungin,single,1.0,FLVLSLRTP,1.9631866171787882,1.0,resistant,resistant
+148,anidulafungin,single,1.0,FLVLSLRVP,2.00506066415732,1.0,resistant,resistant
+149,anidulafungin,single,1.0,FLVLSLRWP,1.85553346848922,1.0,resistant,resistant
+150,anidulafungin,single,1.0,FLVLSLRYP,1.979432759211756,1.0,resistant,resistant
+151,anidulafungin,single,1.0,FLVLSLSDP,1.2499641220982094,1.0,intermediary,resistant
+152,anidulafungin,single,1.0,FLVLSLTDP,0.0507723006719294,1.0,WT-like,sensitive
+153,anidulafungin,single,1.0,FLVLSLVDP,0.1656995572424071,1.0,WT-like,sensitive
+154,anidulafungin,single,1.0,FLVLSLWDP,-0.0030297555114948,1.0,WT-like,sensitive
+155,anidulafungin,single,1.0,FLVLSMRDP,0.3581832899461297,1.0,WT-like,sensitive
+156,anidulafungin,single,1.0,FLVLSNRDP,0.3608507412377109,1.0,WT-like,sensitive
+157,anidulafungin,single,1.0,FLVLSPRDP,-0.1226149996636175,1.0,WT-like,sensitive
+158,anidulafungin,single,1.0,FLVLSQRDP,2.1318642768859006,2.0,resistant,resistant
+159,anidulafungin,single,1.0,FLVLSRRDP,1.9694783439084675,1.0,resistant,resistant
+160,anidulafungin,single,1.0,FLVLSSRDP,1.5544883482369147,1.0,intermediary,resistant
+161,anidulafungin,single,1.0,FLVLSTRDP,-0.0139456587769388,1.0,WT-like,sensitive
+162,anidulafungin,single,1.0,FLVLSVRDP,0.09663146547480175,1.0,WT-like,sensitive
+163,anidulafungin,single,1.0,FLVLSYRDP,0.0639294401661572,1.0,WT-like,sensitive
+164,anidulafungin,single,1.0,FLVLTLRDP,1.7414502051219158,1.0,resistant,resistant
+165,anidulafungin,single,1.0,FLVLVLRDP,1.4223907364118313,1.0,intermediary,resistant
+166,anidulafungin,single,1.0,FLVLWLRDP,1.6043250452797198,2.0,intermediary,resistant
+167,anidulafungin,single,1.0,FLVLYLRDP,2.046552022887005,1.0,resistant,resistant
+168,anidulafungin,single,1.0,FLVMSLRDP,-0.1022052293952888,1.0,WT-like,sensitive
+169,anidulafungin,single,1.0,FLVNSLRDP,1.3436633950320571,2.0,intermediary,resistant
+170,anidulafungin,single,1.0,FLVPSLRDP,0.3414823297122862,1.0,WT-like,sensitive
+171,anidulafungin,single,1.0,FLVQSLRDP,0.5502875261579374,1.0,WT-like,sensitive
+172,anidulafungin,single,1.0,FLVRSLRDP,0.6363012615524734,1.0,WT-like,sensitive
+173,anidulafungin,single,1.0,FLVSSLRDP,0.5980278171525677,1.0,WT-like,sensitive
+174,anidulafungin,single,1.0,FLVTSLRDP,0.15535297020127825,1.0,WT-like,sensitive
+175,anidulafungin,single,1.0,FLVVSLRDP,0.7002428601184776,1.0,WT-like,sensitive
+176,anidulafungin,single,1.0,FLVWSLRDP,1.8434919727687555,2.0,resistant,resistant
+177,anidulafungin,single,1.0,FLVYSLRDP,2.3231327108052184,1.0,resistant,resistant
+178,anidulafungin,single,1.0,FLYLSLRDP,0.4252389496485804,1.0,WT-like,sensitive
+179,anidulafungin,single,1.0,FMVLSLRDP,0.4266263804937387,1.0,WT-like,sensitive
+180,anidulafungin,single,1.0,FPVLSLRDP,-0.0493277826263653,1.0,WT-like,sensitive
+181,anidulafungin,single,1.0,FQVLSLRDP,0.138295070296005,1.0,WT-like,sensitive
+182,anidulafungin,single,1.0,FRVLSLRDP,1.667561012177918,1.0,resistant,resistant
+183,anidulafungin,single,1.0,FSVLSLRDP,1.7625960063811046,1.0,resistant,resistant
+184,anidulafungin,single,1.0,FTVLSLRDP,1.7537363361172025,2.0,resistant,resistant
+185,anidulafungin,single,1.0,FVVLSLRDP,0.575116712735083,1.0,WT-like,sensitive
+186,anidulafungin,single,1.0,FWVLSLRDP,1.4122263773286072,2.0,intermediary,resistant
+187,anidulafungin,single,1.0,FYVLSLRDP,1.0054595579169092,1.0,intermediary,resistant
+188,anidulafungin,single,1.0,HLVLSLRDP,1.618117010600128,2.0,intermediary,resistant
+189,anidulafungin,single,1.0,ILVLSLRDP,1.4518477545087436,3.0,intermediary,resistant
+190,anidulafungin,single,1.0,KLVLSLRDP,2.013151051106403,1.0,resistant,resistant
+191,anidulafungin,single,1.0,LLVLSLRDP,0.2575494509385614,1.0,WT-like,sensitive
+192,anidulafungin,single,1.0,MLVLSLRDP,-0.0610206269141346,1.0,WT-like,sensitive
+193,anidulafungin,single,1.0,NLVLSLRDP,1.977198109469436,1.0,resistant,resistant
+194,anidulafungin,single,1.0,PLVLSLRDP,1.740048221384996,1.0,resistant,resistant
+195,anidulafungin,single,1.0,QLVLSLRDP,-0.0497656898170117,1.0,WT-like,sensitive
+196,anidulafungin,single,1.0,RLVLSLRDP,1.993114940070129,1.0,resistant,resistant
+197,anidulafungin,single,1.0,SLVLSLRDP,2.1219703659054687,1.0,resistant,resistant
+198,anidulafungin,single,1.0,VLVLSLRDP,1.963966200839733,1.0,resistant,resistant
+199,anidulafungin,single,1.0,WLVLSLRDP,1.4777928874350377,2.0,intermediary,resistant
+200,anidulafungin,single,1.0,YLVLSLRDP,1.888452741731864,1.0,resistant,resistant
+201,caspofungin,ortho,1.0,FLILSLRDP,-0.0986318920911311,1.0,WT-like,sensitive
+202,caspofungin,ortho,1.0,FLTLSLRDP,0.0551898351202018,1.0,WT-like,sensitive
+203,caspofungin,ortho,2.0,FLALSFRDP,0.2257950147947729,1.0,WT-like,sensitive
+204,caspofungin,ortho,2.0,FLALSIRDP,-0.209285221776756,1.0,WT-like,sensitive
+205,caspofungin,ortho,2.0,FLSLSFRDP,1.384861892889437,1.0,intermediary,resistant
+206,caspofungin,ortho,2.0,FLTLSFRDP,0.0274075856466253,1.0,WT-like,sensitive
+207,caspofungin,ortho,2.0,FLTLSIRDP,-0.0111477858628323,1.0,WT-like,sensitive
+208,caspofungin,ortho,2.0,FLTLSLKDP,0.1904240187236325,1.0,WT-like,sensitive
+209,caspofungin,ortho,2.0,FLTLSLRDA,1.7727829410077949,1.0,resistant,resistant
+210,caspofungin,ortho,2.0,FLTLSLVDP,0.0779210828283774,1.0,WT-like,sensitive
+211,caspofungin,ortho,2.0,FLTLSVRDP,0.1577886670231809,1.0,WT-like,sensitive
+212,caspofungin,ortho,2.0,FMALSLRDP,0.4558059714608993,1.0,WT-like,sensitive
+213,caspofungin,ortho,2.0,YLILSLRDP,1.7949079049833063,1.0,resistant,resistant
+214,caspofungin,ortho,2.0,YLTLSLRDP,1.9116713088449493,1.0,resistant,resistant
+215,caspofungin,ortho,3.0,ALTLSFRDP,1.9134124873725464,1.0,resistant,resistant
+216,caspofungin,ortho,3.0,FLALSFKDP,0.0358107564542018,1.0,WT-like,sensitive
+217,caspofungin,ortho,3.0,FLALSFRDA,1.8727585238607884,1.0,resistant,resistant
+218,caspofungin,ortho,3.0,FLIKSLIDP,-0.0642336467751314,1.0,WT-like,sensitive
+219,caspofungin,ortho,3.0,FLTHSFRDP,1.9704823724496288,1.0,resistant,resistant
+220,caspofungin,ortho,3.0,FLTLSAKDP,0.1999507792153774,1.0,WT-like,sensitive
+221,caspofungin,ortho,3.0,FLTLSFKDP,0.2471411275654558,1.0,WT-like,sensitive
+222,caspofungin,ortho,3.0,FLTLSFRDT,0.1029003863266513,1.0,WT-like,sensitive
+223,caspofungin,ortho,3.0,FLTLSIKDP,0.0583351431569125,1.0,WT-like,sensitive
+224,caspofungin,ortho,3.0,YLALSFRDP,1.8810311753362623,1.0,resistant,resistant
+225,caspofungin,ortho,3.0,YLILSFRDP,1.8960223983378133,1.0,resistant,resistant
+226,caspofungin,ortho,3.0,YLILSIRDP,1.8823422631869229,1.0,resistant,resistant
+227,caspofungin,ortho,3.0,YLTLSFRDP,1.941511676289524,1.0,resistant,resistant
+228,caspofungin,ortho,3.0,YLTLSIRDP,1.8874143872784888,1.0,resistant,resistant
+229,caspofungin,ortho,4.0,FLALNIKDP,0.1985947677474173,1.0,WT-like,sensitive
+230,caspofungin,ortho,4.0,FLALNLSDS,1.934699200613173,1.0,resistant,resistant
+231,caspofungin,ortho,4.0,FLTLNLADS,1.914699102019598,1.0,resistant,resistant
+232,caspofungin,ortho,4.0,FLTLNLSDS,1.8938947063501523,1.0,resistant,resistant
+233,caspofungin,ortho,4.0,FLTLSFENP,1.1160556078212327,1.0,intermediary,resistant
+234,caspofungin,ortho,4.0,SLTLSFRDV,1.903930440367072,1.0,resistant,resistant
+235,caspofungin,ortho,4.0,YLALSFKDP,1.86333237596263,1.0,resistant,resistant
+236,caspofungin,ortho,4.0,YLTLSFKDP,1.8679675518828496,1.0,resistant,resistant
+237,caspofungin,ortho,4.0,YLTLSFRDA,1.956463424883383,1.0,resistant,resistant
+238,caspofungin,ortho,4.0,YLTLSFRDV,1.7719026435086562,1.0,resistant,resistant
+239,caspofungin,ortho,4.0,YLTLSFSDP,1.929691368068755,1.0,resistant,resistant
+240,caspofungin,ortho,4.0,YLTLSIKDP,1.778673952964002,1.0,resistant,resistant
+241,caspofungin,ortho,4.0,YLTRSFRDP,1.969896307673538,1.0,resistant,resistant
+242,caspofungin,ortho,5.0,ALALNIKDP,1.9597574881981303,1.0,resistant,resistant
+243,caspofungin,ortho,5.0,FLTSSFSSP,1.966918911936192,1.0,resistant,resistant
+244,caspofungin,ortho,5.0,YLTLAFRDS,1.869296222697563,1.0,resistant,resistant
+245,caspofungin,ortho,6.0,YLTRAFRDS,1.8879558555195868,1.0,resistant,resistant
+246,caspofungin,ortho,7.0,AICSDLRED,1.4386645473889752,1.0,intermediary,resistant
+247,caspofungin,ortho,7.0,LQIRPLIAP,1.9248511317286456,1.0,resistant,resistant
+248,caspofungin,ortho,7.0,LQVKPMIKP,1.9740367333395057,1.0,resistant,resistant
+249,caspofungin,ortho,7.0,VLTLLVTQH,1.4540137575294212,1.0,intermediary,resistant
+250,caspofungin,single,0.0,FLVLSLRDP,0.0,1.0,WT-like,sensitive
+251,caspofungin,single,1.0,*LVLSLRDP,0.0322380849423111,1.0,WT-like,sensitive
+252,caspofungin,single,1.0,DLVLSLRDP,1.445891717307084,3.0,intermediary,resistant
+253,caspofungin,single,1.0,ELVLSLRDP,0.9478869046109866,2.0,intermediary,resistant
+254,caspofungin,single,1.0,FAVLSLRDP,0.9013146008480186,1.0,intermediary,resistant
+255,caspofungin,single,1.0,FCVLSLRDP,0.0616174606211101,1.0,WT-like,sensitive
+256,caspofungin,single,1.0,FEVLSLRDP,0.1598192854299454,1.0,WT-like,sensitive
+257,caspofungin,single,1.0,FFVLSLRDP,0.4918694319540582,1.0,WT-like,sensitive
+258,caspofungin,single,1.0,FGVLSLRDP,0.5982329872753193,1.0,WT-like,sensitive
+259,caspofungin,single,1.0,FHVLSLRDP,1.6993376811978356,2.0,resistant,resistant
+260,caspofungin,single,1.0,FIVLSLRDP,0.1673347915130594,1.0,WT-like,sensitive
+261,caspofungin,single,1.0,FKVLSLRDP,0.258898545978331,1.0,WT-like,sensitive
+262,caspofungin,single,1.0,FL*LSLRDP,-0.1079522491426523,1.0,WT-like,sensitive
+263,caspofungin,single,1.0,FLALSLRDP,1.0330346459682571,2.0,intermediary,resistant
+264,caspofungin,single,1.0,FLCLSLRDP,0.3024151449046877,1.0,WT-like,sensitive
+265,caspofungin,single,1.0,FLDLSLRDP,-0.0230282177026506,1.0,WT-like,sensitive
+266,caspofungin,single,1.0,FLELSLRDP,-0.1403157756205431,1.0,WT-like,sensitive
+267,caspofungin,single,1.0,FLFLSLRDP,0.878269504332699,2.0,intermediary,resistant
+268,caspofungin,single,1.0,FLHLSLRDP,1.6751501140307123,2.0,resistant,resistant
+269,caspofungin,single,1.0,FLILSLRDP,0.0310586243158375,1.0,WT-like,sensitive
+270,caspofungin,single,1.0,FLKLSLRDP,1.5190184024454263,1.0,intermediary,resistant
+271,caspofungin,single,1.0,FLLLSLRDP,-0.0813140222463792,1.0,WT-like,sensitive
+272,caspofungin,single,1.0,FLMLSLRDP,0.0901691547220129,1.0,WT-like,sensitive
+273,caspofungin,single,1.0,FLNLSLRDP,-0.218141489734297,1.0,WT-like,sensitive
+274,caspofungin,single,1.0,FLPLSLRDP,1.71066332094387,1.0,resistant,resistant
+275,caspofungin,single,1.0,FLQLSLRDP,0.0417777303249782,1.0,WT-like,sensitive
+276,caspofungin,single,1.0,FLRLSLRDP,1.6976984591311304,1.0,resistant,resistant
+277,caspofungin,single,1.0,FLSLSLRDP,0.6580173277237289,1.0,WT-like,sensitive
+278,caspofungin,single,1.0,FLTLSLRDP,1.148246785973816,2.0,intermediary,resistant
+279,caspofungin,single,1.0,FLV*SLRDP,0.2647495155872907,1.0,WT-like,sensitive
+280,caspofungin,single,1.0,FLVASLRDP,1.46199575125717,2.0,intermediary,resistant
+281,caspofungin,single,1.0,FLVDSLRDP,0.0032076302514278,1.0,WT-like,sensitive
+282,caspofungin,single,1.0,FLVFSLRDP,1.1586746471160825,2.0,intermediary,resistant
+283,caspofungin,single,1.0,FLVISLRDP,0.0333592360158176,1.0,WT-like,sensitive
+284,caspofungin,single,1.0,FLVL*LRDP,1.6993376811978356,3.0,resistant,resistant
+285,caspofungin,single,1.0,FLVLALRDP,0.0785550919125899,1.0,WT-like,sensitive
+286,caspofungin,single,1.0,FLVLCLRDP,1.0206105735612785,2.0,intermediary,resistant
+287,caspofungin,single,1.0,FLVLELRDP,1.3117841522483074,2.0,intermediary,resistant
+288,caspofungin,single,1.0,FLVLFLRDP,1.8917756979693623,1.0,resistant,resistant
+289,caspofungin,single,1.0,FLVLGLRDP,0.1932285112390368,1.0,WT-like,sensitive
+290,caspofungin,single,1.0,FLVLHLRDP,1.6751501140307123,2.0,resistant,resistant
+291,caspofungin,single,1.0,FLVLILRDP,1.833863494403495,1.0,resistant,resistant
+292,caspofungin,single,1.0,FLVLKLRDP,1.9303629937977504,1.0,resistant,resistant
+293,caspofungin,single,1.0,FLVLLLRDP,1.708104468955525,1.0,resistant,resistant
+294,caspofungin,single,1.0,FLVLMLRDP,1.717633796939391,1.0,resistant,resistant
+295,caspofungin,single,1.0,FLVLNLRDP,1.9322449808331048,1.0,resistant,resistant
+296,caspofungin,single,1.0,FLVLPLRDP,1.6066281735788266,1.0,intermediary,resistant
+297,caspofungin,single,1.0,FLVLQLRDP,1.923672707260623,1.0,resistant,resistant
+298,caspofungin,single,1.0,FLVLRLRDP,1.9848052669978,1.0,resistant,resistant
+299,caspofungin,single,1.0,FLVLS*RDP,-0.0129722489942392,1.0,WT-like,sensitive
+300,caspofungin,single,1.0,FLVLSARDP,-0.12366430618212376,1.0,WT-like,sensitive
+301,caspofungin,single,1.0,FLVLSDRDP,0.1079281697081082,1.0,WT-like,sensitive
+302,caspofungin,single,1.0,FLVLSFRDP,0.7499699614351734,1.0,intermediary,resistant
+303,caspofungin,single,1.0,FLVLSHRDP,1.897926383155575,1.0,resistant,resistant
+304,caspofungin,single,1.0,FLVLSIRDP,0.0156155921314558,1.0,WT-like,sensitive
+305,caspofungin,single,1.0,FLVLSL*DP,0.4592138431299832,1.0,WT-like,sensitive
+306,caspofungin,single,1.0,FLVLSLCDP,0.7292113618947238,1.0,intermediary,resistant
+307,caspofungin,single,1.0,FLVLSLGDP,1.6075902087577134,1.0,intermediary,resistant
+308,caspofungin,single,1.0,FLVLSLHDP,-0.4103482177388633,1.0,WT-like,sensitive
+309,caspofungin,single,1.0,FLVLSLIDP,1.445891717307084,2.0,intermediary,resistant
+310,caspofungin,single,1.0,FLVLSLKDP,0.3066398097418119,1.0,WT-like,sensitive
+311,caspofungin,single,1.0,FLVLSLLDP,0.7292113618947238,1.0,intermediary,resistant
+312,caspofungin,single,1.0,FLVLSLMDP,-0.101046851877826,1.0,WT-like,sensitive
+313,caspofungin,single,1.0,FLVLSLNDP,0.6367568877526066,1.0,WT-like,sensitive
+314,caspofungin,single,1.0,FLVLSLPDP,0.2591152841745938,1.0,WT-like,sensitive
+315,caspofungin,single,1.0,FLVLSLQDP,0.2502383600190176,1.0,WT-like,sensitive
+316,caspofungin,single,1.0,FLVLSLR*P,0.2752861015538423,1.0,WT-like,sensitive
+317,caspofungin,single,1.0,FLVLSLRAP,1.3577042997245954,1.0,intermediary,resistant
+318,caspofungin,single,1.0,FLVLSLRCP,1.9297150586644904,1.0,resistant,resistant
+319,caspofungin,single,1.0,FLVLSLRD*,0.0455455934775346,1.0,WT-like,sensitive
+320,caspofungin,single,1.0,FLVLSLRDC,1.5410425489719357,3.0,intermediary,resistant
+321,caspofungin,single,1.0,FLVLSLRDD,1.8964996949613029,1.0,resistant,resistant
+322,caspofungin,single,1.0,FLVLSLRDE,1.3117841522483074,3.0,intermediary,resistant
+323,caspofungin,single,1.0,FLVLSLRDF,1.856449373198244,1.0,resistant,resistant
+324,caspofungin,single,1.0,FLVLSLRDG,1.7323269269790642,1.0,resistant,resistant
+325,caspofungin,single,1.0,FLVLSLRDH,1.0731000982394812,2.0,intermediary,resistant
+326,caspofungin,single,1.0,FLVLSLRDI,1.89633258969012,1.0,resistant,resistant
+327,caspofungin,single,1.0,FLVLSLRDK,1.78917436036585,1.0,resistant,resistant
+328,caspofungin,single,1.0,FLVLSLRDL,1.8381738100619127,1.0,resistant,resistant
+329,caspofungin,single,1.0,FLVLSLRDM,1.9087506839317216,1.0,resistant,resistant
+330,caspofungin,single,1.0,FLVLSLRDR,1.3492282453490891,1.0,intermediary,resistant
+331,caspofungin,single,1.0,FLVLSLRDS,1.6386517767771482,1.0,resistant,resistant
+332,caspofungin,single,1.0,FLVLSLRDT,1.8818739434235494,1.0,resistant,resistant
+333,caspofungin,single,1.0,FLVLSLRDV,1.8946431089349298,1.0,resistant,resistant
+334,caspofungin,single,1.0,FLVLSLRDY,2.03380190539784,2.0,resistant,resistant
+335,caspofungin,single,1.0,FLVLSLREP,1.7473541311621523,1.0,resistant,resistant
+336,caspofungin,single,1.0,FLVLSLRFP,1.9016342658850989,1.0,resistant,resistant
+337,caspofungin,single,1.0,FLVLSLRGP,0.8974328605068226,1.0,intermediary,resistant
+338,caspofungin,single,1.0,FLVLSLRHP,1.9027930569789009,1.0,resistant,resistant
+339,caspofungin,single,1.0,FLVLSLRIP,1.4471862644662004,2.0,intermediary,resistant
+340,caspofungin,single,1.0,FLVLSLRKP,1.6307188324599131,2.0,resistant,resistant
+341,caspofungin,single,1.0,FLVLSLRLP,1.4187711514549366,1.0,intermediary,resistant
+342,caspofungin,single,1.0,FLVLSLRMP,1.9579380836593183,1.0,resistant,resistant
+343,caspofungin,single,1.0,FLVLSLRNP,1.2890019479290928,1.0,intermediary,resistant
+344,caspofungin,single,1.0,FLVLSLRPP,1.9249084246518668,1.0,resistant,resistant
+345,caspofungin,single,1.0,FLVLSLRQP,1.8179648971334004,1.0,resistant,resistant
+346,caspofungin,single,1.0,FLVLSLRRP,1.9279831253474575,1.0,resistant,resistant
+347,caspofungin,single,1.0,FLVLSLRSP,1.809257679089489,1.0,resistant,resistant
+348,caspofungin,single,1.0,FLVLSLRTP,1.8170461165040424,1.0,resistant,resistant
+349,caspofungin,single,1.0,FLVLSLRVP,1.9214856177120958,1.0,resistant,resistant
+350,caspofungin,single,1.0,FLVLSLRWP,2.0194213156338723,1.0,resistant,resistant
+351,caspofungin,single,1.0,FLVLSLRYP,1.918948071659029,1.0,resistant,resistant
+352,caspofungin,single,1.0,FLVLSLSDP,1.1586746471160825,1.0,intermediary,resistant
+353,caspofungin,single,1.0,FLVLSLTDP,0.1336520712154576,1.0,WT-like,sensitive
+354,caspofungin,single,1.0,FLVLSLVDP,0.2188108136855828,1.0,WT-like,sensitive
+355,caspofungin,single,1.0,FLVLSLWDP,0.0878189851453175,1.0,WT-like,sensitive
+356,caspofungin,single,1.0,FLVLSMRDP,0.002937532099503,1.0,WT-like,sensitive
+357,caspofungin,single,1.0,FLVLSNRDP,0.3321587830502797,1.0,WT-like,sensitive
+358,caspofungin,single,1.0,FLVLSPRDP,0.15132983912289238,1.0,WT-like,sensitive
+359,caspofungin,single,1.0,FLVLSQRDP,0.9469815635883502,2.0,intermediary,resistant
+360,caspofungin,single,1.0,FLVLSRRDP,1.928807723642041,1.0,resistant,resistant
+361,caspofungin,single,1.0,FLVLSSRDP,1.273246102703891,1.0,intermediary,resistant
+362,caspofungin,single,1.0,FLVLSTRDP,0.2370079513854279,1.0,WT-like,sensitive
+363,caspofungin,single,1.0,FLVLSVRDP,-0.0607602680888746,1.0,WT-like,sensitive
+364,caspofungin,single,1.0,FLVLSYRDP,0.2209778319450543,1.0,WT-like,sensitive
+365,caspofungin,single,1.0,FLVLTLRDP,1.680388337865213,1.0,resistant,resistant
+366,caspofungin,single,1.0,FLVLVLRDP,1.329998357967318,1.0,intermediary,resistant
+367,caspofungin,single,1.0,FLVLWLRDP,1.3855887159144815,2.0,intermediary,resistant
+368,caspofungin,single,1.0,FLVLYLRDP,1.9212298315107768,1.0,resistant,resistant
+369,caspofungin,single,1.0,FLVMSLRDP,-0.0700230775690848,1.0,WT-like,sensitive
+370,caspofungin,single,1.0,FLVNSLRDP,1.1482467859738164,2.0,intermediary,resistant
+371,caspofungin,single,1.0,FLVPSLRDP,0.534726797228408,1.0,WT-like,sensitive
+372,caspofungin,single,1.0,FLVQSLRDP,-0.071856039766704,1.0,WT-like,sensitive
+373,caspofungin,single,1.0,FLVRSLRDP,1.5410152783917974,1.0,intermediary,resistant
+374,caspofungin,single,1.0,FLVSSLRDP,1.0750365812414078,1.0,intermediary,resistant
+375,caspofungin,single,1.0,FLVTSLRDP,0.2367995345938827,1.0,WT-like,sensitive
+376,caspofungin,single,1.0,FLVVSLRDP,0.7118648119390714,1.0,intermediary,resistant
+377,caspofungin,single,1.0,FLVWSLRDP,0.8370780055675656,2.0,intermediary,resistant
+378,caspofungin,single,1.0,FLVYSLRDP,0.9577357066714304,1.0,intermediary,resistant
+379,caspofungin,single,1.0,FLYLSLRDP,0.4899013970186452,1.0,WT-like,sensitive
+380,caspofungin,single,1.0,FMVLSLRDP,0.2173759343892345,1.0,WT-like,sensitive
+381,caspofungin,single,1.0,FPVLSLRDP,0.4845475949665734,1.0,WT-like,sensitive
+382,caspofungin,single,1.0,FQVLSLRDP,0.2484667804504485,1.0,WT-like,sensitive
+383,caspofungin,single,1.0,FRVLSLRDP,1.7055074341602543,1.0,resistant,resistant
+384,caspofungin,single,1.0,FSVLSLRDP,1.1227473585622452,1.0,intermediary,resistant
+385,caspofungin,single,1.0,FTVLSLRDP,1.190384335457344,2.0,intermediary,resistant
+386,caspofungin,single,1.0,FVVLSLRDP,0.6519765661921034,1.0,WT-like,sensitive
+387,caspofungin,single,1.0,FWVLSLRDP,1.1428286016892866,2.0,intermediary,resistant
+388,caspofungin,single,1.0,FYVLSLRDP,0.3697962461443411,1.0,WT-like,sensitive
+389,caspofungin,single,1.0,HLVLSLRDP,1.3117841522483074,2.0,intermediary,resistant
+390,caspofungin,single,1.0,ILVLSLRDP,1.6832083571381158,3.0,resistant,resistant
+391,caspofungin,single,1.0,KLVLSLRDP,1.926378515530612,1.0,resistant,resistant
+392,caspofungin,single,1.0,LLVLSLRDP,1.753911201743844,1.0,resistant,resistant
+393,caspofungin,single,1.0,MLVLSLRDP,0.2696012112844557,1.0,WT-like,sensitive
+394,caspofungin,single,1.0,NLVLSLRDP,1.9301473255584995,1.0,resistant,resistant
+395,caspofungin,single,1.0,PLVLSLRDP,1.6102651055770247,1.0,intermediary,resistant
+396,caspofungin,single,1.0,QLVLSLRDP,1.8990139818211045,1.0,resistant,resistant
+397,caspofungin,single,1.0,RLVLSLRDP,1.92616790886262,1.0,resistant,resistant
+398,caspofungin,single,1.0,SLVLSLRDP,1.3449413925046922,1.0,intermediary,resistant
+399,caspofungin,single,1.0,VLVLSLRDP,1.889149111408631,1.0,resistant,resistant
+400,caspofungin,single,1.0,WLVLSLRDP,1.3117841522483074,2.0,intermediary,resistant
+401,caspofungin,single,1.0,YLVLSLRDP,1.870288998234552,1.0,resistant,resistant
+402,dox,ortho,1.0,FLILSLRDP,-0.0144166546728705,1.0,WT-like,sensitive
+403,dox,ortho,1.0,FLTLSLRDP,0.0031883080125026,1.0,WT-like,sensitive
+404,dox,ortho,2.0,FLALSFRDP,-0.0064585801092984,1.0,WT-like,sensitive
+405,dox,ortho,2.0,FLALSIRDP,-0.055069675688956,1.0,WT-like,sensitive
+406,dox,ortho,2.0,FLSLSFRDP,0.0254341427898416,1.0,WT-like,sensitive
+407,dox,ortho,2.0,FLTLSFRDP,-0.0385080789136447,1.0,WT-like,sensitive
+408,dox,ortho,2.0,FLTLSIRDP,0.0172072423663545,1.0,WT-like,sensitive
+409,dox,ortho,2.0,FLTLSLKDP,-0.1359278927012928,1.0,slightly deleterious,sensitive
+410,dox,ortho,2.0,FLTLSLRDA,-0.0175001341228177,1.0,WT-like,sensitive
+411,dox,ortho,2.0,FLTLSLVDP,-0.0043295848532848,1.0,WT-like,sensitive
+412,dox,ortho,2.0,FLTLSVRDP,-0.0011361429575284,1.0,WT-like,sensitive
+413,dox,ortho,2.0,FMALSLRDP,0.0128334617990593,1.0,WT-like,sensitive
+414,dox,ortho,2.0,YLILSLRDP,0.0308396935440606,1.0,WT-like,sensitive
+415,dox,ortho,2.0,YLTLSLRDP,0.0431473874712019,1.0,WT-like,sensitive
+416,dox,ortho,3.0,ALTLSFRDP,-0.0171093456155854,1.0,WT-like,sensitive
+417,dox,ortho,3.0,FLALSFKDP,0.0129242737032705,1.0,WT-like,sensitive
+418,dox,ortho,3.0,FLALSFRDA,0.0071975088885745,1.0,WT-like,sensitive
+419,dox,ortho,3.0,FLIKSLIDP,-0.0193644070381447,1.0,WT-like,sensitive
+420,dox,ortho,3.0,FLTHSFRDP,0.0152419756659797,1.0,WT-like,sensitive
+421,dox,ortho,3.0,FLTLSAKDP,-0.0067772987456641,1.0,WT-like,sensitive
+422,dox,ortho,3.0,FLTLSFKDP,0.0206330151074079,1.0,WT-like,sensitive
+423,dox,ortho,3.0,FLTLSFRDT,-0.0207556103113838,1.0,WT-like,sensitive
+424,dox,ortho,3.0,FLTLSIKDP,-0.0136105275891782,1.0,WT-like,sensitive
+425,dox,ortho,3.0,YLALSFRDP,5.930673542435192e-05,1.0,WT-like,sensitive
+426,dox,ortho,3.0,YLILSFRDP,-0.0221272069094158,1.0,WT-like,sensitive
+427,dox,ortho,3.0,YLILSIRDP,-0.0396935412364514,1.0,WT-like,sensitive
+428,dox,ortho,3.0,YLTLSFRDP,0.0139712673205632,1.0,WT-like,sensitive
+429,dox,ortho,3.0,YLTLSIRDP,0.0184018608326837,1.0,WT-like,sensitive
+430,dox,ortho,4.0,FLALNIKDP,0.0472856559224436,1.0,WT-like,sensitive
+431,dox,ortho,4.0,FLALNLSDS,-0.0001849578969889,1.0,WT-like,sensitive
+432,dox,ortho,4.0,FLTLNLADS,-0.0052523704298475,1.0,WT-like,sensitive
+433,dox,ortho,4.0,FLTLNLSDS,-0.0013826789594426,1.0,WT-like,sensitive
+434,dox,ortho,4.0,FLTLSFENP,0.002126384956252,1.0,WT-like,sensitive
+435,dox,ortho,4.0,SLTLSFRDV,0.0025505581236344,1.0,WT-like,sensitive
+436,dox,ortho,4.0,YLALSFKDP,-0.0052829812378359,1.0,WT-like,sensitive
+437,dox,ortho,4.0,YLTLSFKDP,0.0014972221185329,1.0,WT-like,sensitive
+438,dox,ortho,4.0,YLTLSFRDA,-0.0186356746560921,1.0,WT-like,sensitive
+439,dox,ortho,4.0,YLTLSFRDV,-0.1207631340373243,1.0,slightly deleterious,sensitive
+440,dox,ortho,4.0,YLTLSFSDP,0.0188375992663299,1.0,WT-like,sensitive
+441,dox,ortho,4.0,YLTLSIKDP,0.0149006120297421,1.0,WT-like,sensitive
+442,dox,ortho,4.0,YLTRSFRDP,0.0168771784528323,1.0,WT-like,sensitive
+443,dox,ortho,5.0,ALALNIKDP,0.0885528373583905,1.0,WT-like,sensitive
+444,dox,ortho,5.0,FLTSSFSSP,-0.0147726417309318,1.0,WT-like,sensitive
+445,dox,ortho,5.0,YLTLAFRDS,-0.0137119553732675,1.0,WT-like,sensitive
+446,dox,ortho,6.0,YLTRAFRDS,-0.017731916771833,1.0,WT-like,sensitive
+447,dox,ortho,7.0,AICSDLRED,-0.2229152667702097,1.0,slightly deleterious,sensitive
+448,dox,ortho,7.0,LQIRPLIAP,-0.0071634858703787,1.0,WT-like,sensitive
+449,dox,ortho,7.0,LQVKPMIKP,-0.0055886156273199,1.0,WT-like,sensitive
+450,dox,ortho,7.0,VLTLLVTQH,-0.3190203860681685,1.0,slightly deleterious,sensitive
+451,dox,single,0.0,FLVLSLRDP,0.0,1.0,WT-like,sensitive
+452,dox,single,1.0,*LVLSLRDP,-1.309896313581337,1.0,deleterious,sensitive
+453,dox,single,1.0,DLVLSLRDP,-0.3507135544235086,3.0,slightly deleterious,sensitive
+454,dox,single,1.0,ELVLSLRDP,-0.2172267621713952,2.0,slightly deleterious,sensitive
+455,dox,single,1.0,FAVLSLRDP,-0.2748883825106003,1.0,slightly deleterious,sensitive
+456,dox,single,1.0,FCVLSLRDP,-0.0028172624542678,1.0,WT-like,sensitive
+457,dox,single,1.0,FEVLSLRDP,0.0042874947839587,1.0,WT-like,sensitive
+458,dox,single,1.0,FFVLSLRDP,-0.0945504921579075,1.0,slightly deleterious,sensitive
+459,dox,single,1.0,FGVLSLRDP,-0.0048878232505052,1.0,WT-like,sensitive
+460,dox,single,1.0,FHVLSLRDP,0.2632429419343598,2.0,WT-like,sensitive
+461,dox,single,1.0,FIVLSLRDP,-0.0684029966320656,1.0,slightly deleterious,sensitive
+462,dox,single,1.0,FKVLSLRDP,-1.2537951498992077,1.0,deleterious,sensitive
+463,dox,single,1.0,FL*LSLRDP,-1.130247317693212,1.0,deleterious,sensitive
+464,dox,single,1.0,FLALSLRDP,-0.7100835069233558,2.0,slightly deleterious,sensitive
+465,dox,single,1.0,FLCLSLRDP,-0.0456292083433838,1.0,WT-like,sensitive
+466,dox,single,1.0,FLDLSLRDP,0.0334159629198421,1.0,WT-like,sensitive
+467,dox,single,1.0,FLELSLRDP,0.0146057768433058,1.0,WT-like,sensitive
+468,dox,single,1.0,FLFLSLRDP,-0.415951238810013,2.0,slightly deleterious,sensitive
+469,dox,single,1.0,FLHLSLRDP,0.1336167289951201,2.0,WT-like,sensitive
+470,dox,single,1.0,FLILSLRDP,0.0039638368329532,1.0,WT-like,sensitive
+471,dox,single,1.0,FLKLSLRDP,-0.2773315641690844,1.0,slightly deleterious,sensitive
+472,dox,single,1.0,FLLLSLRDP,-0.0070887042023781,1.0,WT-like,sensitive
+473,dox,single,1.0,FLMLSLRDP,0.0110824883837132,1.0,WT-like,sensitive
+474,dox,single,1.0,FLNLSLRDP,0.0086621612283534,1.0,WT-like,sensitive
+475,dox,single,1.0,FLPLSLRDP,-0.07658603189644575,1.0,slightly deleterious,sensitive
+476,dox,single,1.0,FLQLSLRDP,-0.0093675008595442,1.0,WT-like,sensitive
+477,dox,single,1.0,FLRLSLRDP,-0.18326118479709258,1.0,slightly deleterious,sensitive
+478,dox,single,1.0,FLSLSLRDP,0.0077495204810831,1.0,WT-like,sensitive
+479,dox,single,1.0,FLTLSLRDP,-0.4740742489104964,2.0,slightly deleterious,sensitive
+480,dox,single,1.0,FLV*SLRDP,-1.0272340737439647,1.0,deleterious,sensitive
+481,dox,single,1.0,FLVASLRDP,-0.3095782203543963,2.0,slightly deleterious,sensitive
+482,dox,single,1.0,FLVDSLRDP,0.0065960759575136,1.0,WT-like,sensitive
+483,dox,single,1.0,FLVFSLRDP,-0.3093361538801233,2.0,slightly deleterious,sensitive
+484,dox,single,1.0,FLVISLRDP,-0.0259875103221661,1.0,WT-like,sensitive
+485,dox,single,1.0,FLVL*LRDP,0.1480033079082772,3.0,WT-like,sensitive
+486,dox,single,1.0,FLVLALRDP,0.0516542088362303,1.0,WT-like,sensitive
+487,dox,single,1.0,FLVLCLRDP,-0.8645490351246304,2.0,deleterious,sensitive
+488,dox,single,1.0,FLVLELRDP,0.1266244723996776,2.0,WT-like,sensitive
+489,dox,single,1.0,FLVLFLRDP,-0.0087626452088438,1.0,WT-like,sensitive
+490,dox,single,1.0,FLVLGLRDP,-0.0025168990784304,1.0,WT-like,sensitive
+491,dox,single,1.0,FLVLHLRDP,-0.0879807456796381,2.0,slightly deleterious,sensitive
+492,dox,single,1.0,FLVLILRDP,-0.0369542481668642,1.0,WT-like,sensitive
+493,dox,single,1.0,FLVLKLRDP,0.0568390361057378,1.0,WT-like,sensitive
+494,dox,single,1.0,FLVLLLRDP,0.0049959905472213,1.0,WT-like,sensitive
+495,dox,single,1.0,FLVLMLRDP,0.0071150841134366,1.0,WT-like,sensitive
+496,dox,single,1.0,FLVLNLRDP,-0.0246017607402929,1.0,WT-like,sensitive
+497,dox,single,1.0,FLVLPLRDP,-0.0397708839664886,1.0,WT-like,sensitive
+498,dox,single,1.0,FLVLQLRDP,0.0120590219732058,1.0,WT-like,sensitive
+499,dox,single,1.0,FLVLRLRDP,0.0298500939834762,1.0,WT-like,sensitive
+500,dox,single,1.0,FLVLS*RDP,-1.2598585963986733,1.0,deleterious,sensitive
+501,dox,single,1.0,FLVLSARDP,-0.0056678720627158004,1.0,WT-like,sensitive
+502,dox,single,1.0,FLVLSDRDP,0.008308574958721,1.0,WT-like,sensitive
+503,dox,single,1.0,FLVLSFRDP,-0.098130727628693,1.0,slightly deleterious,sensitive
+504,dox,single,1.0,FLVLSHRDP,0.0134821552869926,1.0,WT-like,sensitive
+505,dox,single,1.0,FLVLSIRDP,0.010805064315145,1.0,WT-like,sensitive
+506,dox,single,1.0,FLVLSL*DP,-1.0748545915327223,1.0,deleterious,sensitive
+507,dox,single,1.0,FLVLSLCDP,-0.0075972726249726,1.0,WT-like,sensitive
+508,dox,single,1.0,FLVLSLGDP,-0.14016880693187878,1.0,slightly deleterious,sensitive
+509,dox,single,1.0,FLVLSLHDP,-0.0209652515711463,1.0,WT-like,sensitive
+510,dox,single,1.0,FLVLSLIDP,-0.1238432928259392,2.0,slightly deleterious,sensitive
+511,dox,single,1.0,FLVLSLKDP,-0.0421587706048649,1.0,WT-like,sensitive
+512,dox,single,1.0,FLVLSLLDP,-0.1799520074151567,1.0,slightly deleterious,sensitive
+513,dox,single,1.0,FLVLSLMDP,0.0052177635429466,1.0,WT-like,sensitive
+514,dox,single,1.0,FLVLSLNDP,-0.0019605931140661,1.0,WT-like,sensitive
+515,dox,single,1.0,FLVLSLPDP,-0.0194723494257694,1.0,WT-like,sensitive
+516,dox,single,1.0,FLVLSLQDP,0.033131643904806,1.0,WT-like,sensitive
+517,dox,single,1.0,FLVLSLR*P,-1.287939380788948,1.0,deleterious,sensitive
+518,dox,single,1.0,FLVLSLRAP,-0.5590738548808502,1.0,slightly deleterious,sensitive
+519,dox,single,1.0,FLVLSLRCP,-0.0582454445010068,1.0,WT-like,sensitive
+520,dox,single,1.0,FLVLSLRD*,-1.2673065719073249,1.0,deleterious,sensitive
+521,dox,single,1.0,FLVLSLRDC,-0.2531031180949708,3.0,slightly deleterious,sensitive
+522,dox,single,1.0,FLVLSLRDD,-0.0088267457257641,1.0,WT-like,sensitive
+523,dox,single,1.0,FLVLSLRDE,-0.2531031180949708,3.0,slightly deleterious,sensitive
+524,dox,single,1.0,FLVLSLRDF,0.0070815388153703,1.0,WT-like,sensitive
+525,dox,single,1.0,FLVLSLRDG,-0.0643617768030474,1.0,WT-like,sensitive
+526,dox,single,1.0,FLVLSLRDH,-0.60199667002366,2.0,slightly deleterious,sensitive
+527,dox,single,1.0,FLVLSLRDI,0.0033596048397014,1.0,WT-like,sensitive
+528,dox,single,1.0,FLVLSLRDK,-0.0847125163750335,1.0,slightly deleterious,sensitive
+529,dox,single,1.0,FLVLSLRDL,0.0036150637780989,1.0,WT-like,sensitive
+530,dox,single,1.0,FLVLSLRDM,0.0115262945496234,1.0,WT-like,sensitive
+531,dox,single,1.0,FLVLSLRDR,-0.3507135544235086,1.0,slightly deleterious,sensitive
+532,dox,single,1.0,FLVLSLRDS,-0.15603962435321111,1.0,slightly deleterious,sensitive
+533,dox,single,1.0,FLVLSLRDT,-0.009905694034282046,1.0,WT-like,sensitive
+534,dox,single,1.0,FLVLSLRDV,0.02749070983011255,1.0,WT-like,sensitive
+535,dox,single,1.0,FLVLSLRDY,0.0333411671746453,2.0,WT-like,sensitive
+536,dox,single,1.0,FLVLSLREP,-0.0019452639346016,1.0,WT-like,sensitive
+537,dox,single,1.0,FLVLSLRFP,-0.0372558143508526,1.0,WT-like,sensitive
+538,dox,single,1.0,FLVLSLRGP,-0.1559264577360786,1.0,slightly deleterious,sensitive
+539,dox,single,1.0,FLVLSLRHP,-0.0322559622170363,1.0,WT-like,sensitive
+540,dox,single,1.0,FLVLSLRIP,-0.3448144236414648,2.0,slightly deleterious,sensitive
+541,dox,single,1.0,FLVLSLRKP,-0.2531031180949708,2.0,slightly deleterious,sensitive
+542,dox,single,1.0,FLVLSLRLP,0.0074181502179723,1.0,WT-like,sensitive
+543,dox,single,1.0,FLVLSLRMP,0.0407233978441039,1.0,WT-like,sensitive
+544,dox,single,1.0,FLVLSLRNP,0.000256372158854,1.0,WT-like,sensitive
+545,dox,single,1.0,FLVLSLRPP,0.0243613826426177,1.0,WT-like,sensitive
+546,dox,single,1.0,FLVLSLRQP,0.0187159989484283,1.0,WT-like,sensitive
+547,dox,single,1.0,FLVLSLRRP,0.029640185336677848,1.0,WT-like,sensitive
+548,dox,single,1.0,FLVLSLRSP,-0.1238432928259392,1.0,slightly deleterious,sensitive
+549,dox,single,1.0,FLVLSLRTP,-0.08783173098218726,1.0,slightly deleterious,sensitive
+550,dox,single,1.0,FLVLSLRVP,0.00970181934400725,1.0,WT-like,sensitive
+551,dox,single,1.0,FLVLSLRWP,0.0533746323307679,1.0,WT-like,sensitive
+552,dox,single,1.0,FLVLSLRYP,0.0042972644920666,1.0,WT-like,sensitive
+553,dox,single,1.0,FLVLSLSDP,-0.1238432928259392,1.0,slightly deleterious,sensitive
+554,dox,single,1.0,FLVLSLTDP,-0.03032422802037615,1.0,WT-like,sensitive
+555,dox,single,1.0,FLVLSLVDP,-0.0390119287540307,1.0,WT-like,sensitive
+556,dox,single,1.0,FLVLSLWDP,-0.0403650739358811,1.0,WT-like,sensitive
+557,dox,single,1.0,FLVLSMRDP,-0.0325942336395761,1.0,WT-like,sensitive
+558,dox,single,1.0,FLVLSNRDP,0.0051384439599106,1.0,WT-like,sensitive
+559,dox,single,1.0,FLVLSPRDP,-0.0694344178201731,1.0,slightly deleterious,sensitive
+560,dox,single,1.0,FLVLSQRDP,-0.0321319872794453,2.0,WT-like,sensitive
+561,dox,single,1.0,FLVLSRRDP,-0.0109354597195454,1.0,WT-like,sensitive
+562,dox,single,1.0,FLVLSSRDP,-0.2155545983724333,1.0,slightly deleterious,sensitive
+563,dox,single,1.0,FLVLSTRDP,-0.0067866587095813,1.0,WT-like,sensitive
+564,dox,single,1.0,FLVLSVRDP,-0.01329694408309595,1.0,WT-like,sensitive
+565,dox,single,1.0,FLVLSYRDP,-0.0078142059762035,1.0,WT-like,sensitive
+566,dox,single,1.0,FLVLTLRDP,-0.2131921914770191,1.0,slightly deleterious,sensitive
+567,dox,single,1.0,FLVLVLRDP,-0.023174351039282302,1.0,WT-like,sensitive
+568,dox,single,1.0,FLVLWLRDP,-0.1593191985335335,2.0,slightly deleterious,sensitive
+569,dox,single,1.0,FLVLYLRDP,-0.0019409635080803,1.0,WT-like,sensitive
+570,dox,single,1.0,FLVMSLRDP,0.0304679331813114,1.0,WT-like,sensitive
+571,dox,single,1.0,FLVNSLRDP,-0.419859093310863,2.0,slightly deleterious,sensitive
+572,dox,single,1.0,FLVPSLRDP,-0.1271985771673263,1.0,slightly deleterious,sensitive
+573,dox,single,1.0,FLVQSLRDP,0.0248153931786587,1.0,WT-like,sensitive
+574,dox,single,1.0,FLVRSLRDP,-0.0624248573312331,1.0,WT-like,sensitive
+575,dox,single,1.0,FLVSSLRDP,0.03354411877791605,1.0,WT-like,sensitive
+576,dox,single,1.0,FLVTSLRDP,-0.0386299260801205,1.0,WT-like,sensitive
+577,dox,single,1.0,FLVVSLRDP,-0.9307292862253967,1.0,deleterious,sensitive
+578,dox,single,1.0,FLVWSLRDP,-0.4763551122235843,2.0,slightly deleterious,sensitive
+579,dox,single,1.0,FLVYSLRDP,0.0481524503065057,1.0,WT-like,sensitive
+580,dox,single,1.0,FLYLSLRDP,-0.8243052049950536,1.0,deleterious,sensitive
+581,dox,single,1.0,FMVLSLRDP,-0.0004453986090812,1.0,WT-like,sensitive
+582,dox,single,1.0,FPVLSLRDP,-0.0973017584599883,1.0,slightly deleterious,sensitive
+583,dox,single,1.0,FQVLSLRDP,-0.0081026034603391,1.0,WT-like,sensitive
+584,dox,single,1.0,FRVLSLRDP,-0.0469685102207009,1.0,WT-like,sensitive
+585,dox,single,1.0,FSVLSLRDP,0.0012645135611844,1.0,WT-like,sensitive
+586,dox,single,1.0,FTVLSLRDP,-0.3264794886729986,2.0,slightly deleterious,sensitive
+587,dox,single,1.0,FVVLSLRDP,-0.0958585348091555,1.0,slightly deleterious,sensitive
+588,dox,single,1.0,FWVLSLRDP,-0.2050734315886472,2.0,slightly deleterious,sensitive
+589,dox,single,1.0,FYVLSLRDP,-0.1295211049655415,1.0,slightly deleterious,sensitive
+590,dox,single,1.0,HLVLSLRDP,-0.2615694505013685,2.0,slightly deleterious,sensitive
+591,dox,single,1.0,ILVLSLRDP,-0.1238432928259392,3.0,slightly deleterious,sensitive
+592,dox,single,1.0,KLVLSLRDP,0.0114816807017496,1.0,WT-like,sensitive
+593,dox,single,1.0,LLVLSLRDP,-0.0039151359747396,1.0,WT-like,sensitive
+594,dox,single,1.0,MLVLSLRDP,0.0024133624209501,1.0,WT-like,sensitive
+595,dox,single,1.0,NLVLSLRDP,-0.0156574901826474,1.0,WT-like,sensitive
+596,dox,single,1.0,PLVLSLRDP,-0.33441520754669934,1.0,slightly deleterious,sensitive
+597,dox,single,1.0,QLVLSLRDP,0.0093734796604489,1.0,WT-like,sensitive
+598,dox,single,1.0,RLVLSLRDP,-0.0148546036692374,1.0,WT-like,sensitive
+599,dox,single,1.0,SLVLSLRDP,-0.05765212769820619,1.0,WT-like,sensitive
+600,dox,single,1.0,VLVLSLRDP,-0.0400988173593321,1.0,WT-like,sensitive
+601,dox,single,1.0,WLVLSLRDP,-0.5241218156023391,2.0,slightly deleterious,sensitive
+602,dox,single,1.0,YLVLSLRDP,-0.0594190235041614,1.0,WT-like,sensitive
+603,micafungin,ortho,1.0,FLILSLRDP,0.1498376765327445,1.0,WT-like,sensitive
+604,micafungin,ortho,1.0,FLTLSLRDP,-0.0252150401482986,1.0,WT-like,sensitive
+605,micafungin,ortho,2.0,FLALSFRDP,0.2255503518635744,1.0,WT-like,sensitive
+606,micafungin,ortho,2.0,FLALSIRDP,-0.4174151038347686,1.0,WT-like,sensitive
+607,micafungin,ortho,2.0,FLSLSFRDP,1.562976115015994,1.0,intermediary,resistant
+608,micafungin,ortho,2.0,FLTLSFRDP,0.291870083948142,1.0,WT-like,sensitive
+609,micafungin,ortho,2.0,FLTLSIRDP,0.1349092700051799,1.0,WT-like,sensitive
+610,micafungin,ortho,2.0,FLTLSLKDP,0.4355955211233466,1.0,WT-like,sensitive
+611,micafungin,ortho,2.0,FLTLSLRDA,1.7071681723720158,1.0,intermediary,resistant
+612,micafungin,ortho,2.0,FLTLSLVDP,0.5446858082855299,1.0,WT-like,sensitive
+613,micafungin,ortho,2.0,FLTLSVRDP,0.1481228413987878,1.0,WT-like,sensitive
+614,micafungin,ortho,2.0,FMALSLRDP,0.0267020251253855,1.0,WT-like,sensitive
+615,micafungin,ortho,2.0,YLILSLRDP,1.4305872480787063,1.0,intermediary,resistant
+616,micafungin,ortho,2.0,YLTLSLRDP,1.7720967860605013,1.0,intermediary,resistant
+617,micafungin,ortho,3.0,ALTLSFRDP,2.095755073446651,1.0,resistant,resistant
+618,micafungin,ortho,3.0,FLALSFKDP,-0.0750267111505615,1.0,WT-like,sensitive
+619,micafungin,ortho,3.0,FLALSFRDA,2.08820372898112,1.0,resistant,resistant
+620,micafungin,ortho,3.0,FLIKSLIDP,0.0112079081788025,1.0,WT-like,sensitive
+621,micafungin,ortho,3.0,FLTHSFRDP,2.119549351474239,1.0,resistant,resistant
+622,micafungin,ortho,3.0,FLTLSAKDP,-0.1308184814190245,1.0,WT-like,sensitive
+623,micafungin,ortho,3.0,FLTLSFKDP,0.2848275742260331,1.0,WT-like,sensitive
+624,micafungin,ortho,3.0,FLTLSFRDT,0.3933201395063903,1.0,WT-like,sensitive
+625,micafungin,ortho,3.0,FLTLSIKDP,-0.2276919608817542,1.0,WT-like,sensitive
+626,micafungin,ortho,3.0,YLALSFRDP,2.0747087143330365,1.0,resistant,resistant
+627,micafungin,ortho,3.0,YLILSFRDP,2.0302120837973376,1.0,resistant,resistant
+628,micafungin,ortho,3.0,YLILSIRDP,1.76457527062622,1.0,intermediary,resistant
+629,micafungin,ortho,3.0,YLTLSFRDP,2.067014498743569,1.0,resistant,resistant
+630,micafungin,ortho,3.0,YLTLSIRDP,1.7876986354604212,1.0,intermediary,resistant
+631,micafungin,ortho,4.0,FLALNIKDP,0.2190888601272529,1.0,WT-like,sensitive
+632,micafungin,ortho,4.0,FLALNLSDS,2.1611647175435604,1.0,resistant,resistant
+633,micafungin,ortho,4.0,FLTLNLADS,2.165598601480319,1.0,resistant,resistant
+634,micafungin,ortho,4.0,FLTLNLSDS,2.194021661970653,1.0,resistant,resistant
+635,micafungin,ortho,4.0,FLTLSFENP,0.9580147984739972,1.0,intermediary,resistant
+636,micafungin,ortho,4.0,SLTLSFRDV,2.106363656535472,1.0,resistant,resistant
+637,micafungin,ortho,4.0,YLALSFKDP,2.052912285064499,1.0,resistant,resistant
+638,micafungin,ortho,4.0,YLTLSFKDP,2.062812588909817,1.0,resistant,resistant
+639,micafungin,ortho,4.0,YLTLSFRDA,2.1073052962041063,1.0,resistant,resistant
+640,micafungin,ortho,4.0,YLTLSFRDV,1.9324168269030408,1.0,resistant,resistant
+641,micafungin,ortho,4.0,YLTLSFSDP,2.118173857623008,1.0,resistant,resistant
+642,micafungin,ortho,4.0,YLTLSIKDP,1.7132155470470036,1.0,intermediary,resistant
+643,micafungin,ortho,4.0,YLTRSFRDP,2.1540652538499843,1.0,resistant,resistant
+644,micafungin,ortho,5.0,ALALNIKDP,1.8836919699548864,1.0,intermediary,resistant
+645,micafungin,ortho,5.0,FLTSSFSSP,2.075215536565425,1.0,resistant,resistant
+646,micafungin,ortho,5.0,YLTLAFRDS,2.0869262558553405,1.0,resistant,resistant
+647,micafungin,ortho,6.0,YLTRAFRDS,2.0575058209156016,1.0,resistant,resistant
+648,micafungin,ortho,7.0,AICSDLRED,1.7091433202976738,1.0,intermediary,resistant
+649,micafungin,ortho,7.0,LQIRPLIAP,2.1426962329109704,1.0,resistant,resistant
+650,micafungin,ortho,7.0,LQVKPMIKP,2.13494616035801,1.0,resistant,resistant
+651,micafungin,ortho,7.0,VLTLLVTQH,1.6513801087778088,1.0,intermediary,resistant
+652,micafungin,single,0.0,FLVLSLRDP,-0.02005111844785255,1.0,WT-like,sensitive
+653,micafungin,single,1.0,*LVLSLRDP,0.1002764978790438,1.0,WT-like,sensitive
+654,micafungin,single,1.0,DLVLSLRDP,1.3726551319575997,3.0,intermediary,resistant
+655,micafungin,single,1.0,ELVLSLRDP,0.9690537403838572,2.0,intermediary,resistant
+656,micafungin,single,1.0,FAVLSLRDP,0.7170569840358353,1.0,WT-like,sensitive
+657,micafungin,single,1.0,FCVLSLRDP,-0.1188741810750644,1.0,WT-like,sensitive
+658,micafungin,single,1.0,FEVLSLRDP,0.3168336867086823,1.0,WT-like,sensitive
+659,micafungin,single,1.0,FFVLSLRDP,0.544785084219491,1.0,WT-like,sensitive
+660,micafungin,single,1.0,FGVLSLRDP,0.9948842850287092,1.0,intermediary,resistant
+661,micafungin,single,1.0,FHVLSLRDP,1.881077990049551,2.0,intermediary,resistant
+662,micafungin,single,1.0,FIVLSLRDP,-0.1284009443877143,1.0,WT-like,sensitive
+663,micafungin,single,1.0,FKVLSLRDP,-0.0137481067574332,1.0,WT-like,sensitive
+664,micafungin,single,1.0,FL*LSLRDP,0.087885504639926,1.0,WT-like,sensitive
+665,micafungin,single,1.0,FLALSLRDP,1.1674162834740338,2.0,intermediary,resistant
+666,micafungin,single,1.0,FLCLSLRDP,0.1531159612559585,1.0,WT-like,sensitive
+667,micafungin,single,1.0,FLDLSLRDP,-0.1305497550523231,1.0,WT-like,sensitive
+668,micafungin,single,1.0,FLELSLRDP,-0.1243586494022377,1.0,WT-like,sensitive
+669,micafungin,single,1.0,FLFLSLRDP,1.001650934588931,2.0,intermediary,resistant
+670,micafungin,single,1.0,FLHLSLRDP,1.5957909567009128,2.0,intermediary,resistant
+671,micafungin,single,1.0,FLILSLRDP,-0.0931220399207646,1.0,WT-like,sensitive
+672,micafungin,single,1.0,FLKLSLRDP,1.6822246444901376,1.0,intermediary,resistant
+673,micafungin,single,1.0,FLLLSLRDP,-0.0146230325463536,1.0,WT-like,sensitive
+674,micafungin,single,1.0,FLMLSLRDP,0.0600283245078128,1.0,WT-like,sensitive
+675,micafungin,single,1.0,FLNLSLRDP,-0.2408831454131101,1.0,WT-like,sensitive
+676,micafungin,single,1.0,FLPLSLRDP,0.7876828159993835,1.0,intermediary,resistant
+677,micafungin,single,1.0,FLQLSLRDP,-0.0229001158624588,1.0,WT-like,sensitive
+678,micafungin,single,1.0,FLRLSLRDP,1.8442800446118495,1.0,intermediary,resistant
+679,micafungin,single,1.0,FLSLSLRDP,-0.17059197563335,1.0,WT-like,sensitive
+680,micafungin,single,1.0,FLTLSLRDP,1.290817330906235,2.0,intermediary,resistant
+681,micafungin,single,1.0,FLV*SLRDP,0.3445239232503472,1.0,WT-like,sensitive
+682,micafungin,single,1.0,FLVASLRDP,1.6268665610035753,2.0,intermediary,resistant
+683,micafungin,single,1.0,FLVDSLRDP,0.0643924840089544,1.0,WT-like,sensitive
+684,micafungin,single,1.0,FLVFSLRDP,1.590468511466384,2.0,intermediary,resistant
+685,micafungin,single,1.0,FLVISLRDP,-0.0195645846018541,1.0,WT-like,sensitive
+686,micafungin,single,1.0,FLVL*LRDP,1.881077990049551,3.0,intermediary,resistant
+687,micafungin,single,1.0,FLVLALRDP,-0.1893872209518265,1.0,WT-like,sensitive
+688,micafungin,single,1.0,FLVLCLRDP,0.7955530061569857,2.0,intermediary,resistant
+689,micafungin,single,1.0,FLVLELRDP,1.4477699372893085,2.0,intermediary,resistant
+690,micafungin,single,1.0,FLVLFLRDP,1.9676072516170828,1.0,resistant,resistant
+691,micafungin,single,1.0,FLVLGLRDP,0.0130813493229247,1.0,WT-like,sensitive
+692,micafungin,single,1.0,FLVLHLRDP,2.01873479545926,2.0,resistant,resistant
+693,micafungin,single,1.0,FLVLILRDP,1.9454046898179853,1.0,resistant,resistant
+694,micafungin,single,1.0,FLVLKLRDP,2.191201735296454,1.0,resistant,resistant
+695,micafungin,single,1.0,FLVLLLRDP,1.4164385525790224,1.0,intermediary,resistant
+696,micafungin,single,1.0,FLVLMLRDP,1.7019041015224814,1.0,intermediary,resistant
+697,micafungin,single,1.0,FLVLNLRDP,2.037584721851152,1.0,resistant,resistant
+698,micafungin,single,1.0,FLVLPLRDP,1.9131400054329766,1.0,resistant,resistant
+699,micafungin,single,1.0,FLVLQLRDP,2.076502975895317,1.0,resistant,resistant
+700,micafungin,single,1.0,FLVLRLRDP,2.160261320339389,1.0,resistant,resistant
+701,micafungin,single,1.0,FLVLS*RDP,0.1118032595547147,1.0,WT-like,sensitive
+702,micafungin,single,1.0,FLVLSARDP,-0.1313644301049293,1.0,WT-like,sensitive
+703,micafungin,single,1.0,FLVLSDRDP,0.0139931568595124,1.0,WT-like,sensitive
+704,micafungin,single,1.0,FLVLSFRDP,0.6100208448196729,1.0,WT-like,sensitive
+705,micafungin,single,1.0,FLVLSHRDP,2.0419846145298672,1.0,resistant,resistant
+706,micafungin,single,1.0,FLVLSIRDP,-0.1631259593043375,1.0,WT-like,sensitive
+707,micafungin,single,1.0,FLVLSL*DP,0.5037979598800739,1.0,WT-like,sensitive
+708,micafungin,single,1.0,FLVLSLCDP,1.6462373968195727,1.0,intermediary,resistant
+709,micafungin,single,1.0,FLVLSLGDP,1.9770288910329072,1.0,resistant,resistant
+710,micafungin,single,1.0,FLVLSLHDP,0.078018061380267,1.0,WT-like,sensitive
+711,micafungin,single,1.0,FLVLSLIDP,1.4781624077569426,2.0,intermediary,resistant
+712,micafungin,single,1.0,FLVLSLKDP,0.301001310065524,1.0,WT-like,sensitive
+713,micafungin,single,1.0,FLVLSLLDP,0.8615135975059898,1.0,intermediary,resistant
+714,micafungin,single,1.0,FLVLSLMDP,1.4067957380990408,1.0,intermediary,resistant
+715,micafungin,single,1.0,FLVLSLNDP,2.0307560930359148,1.0,resistant,resistant
+716,micafungin,single,1.0,FLVLSLPDP,1.5820779923143302,1.0,intermediary,resistant
+717,micafungin,single,1.0,FLVLSLQDP,2.1174802898056884,1.0,resistant,resistant
+718,micafungin,single,1.0,FLVLSLR*P,-0.1526134423182541,1.0,WT-like,sensitive
+719,micafungin,single,1.0,FLVLSLRAP,-0.0012716415109736,1.0,WT-like,sensitive
+720,micafungin,single,1.0,FLVLSLRCP,1.5467913223523655,1.0,intermediary,resistant
+721,micafungin,single,1.0,FLVLSLRD*,0.4077950741233571,1.0,WT-like,sensitive
+722,micafungin,single,1.0,FLVLSLRDC,1.6268665610035753,3.0,intermediary,resistant
+723,micafungin,single,1.0,FLVLSLRDD,2.011619152703997,1.0,resistant,resistant
+724,micafungin,single,1.0,FLVLSLRDE,1.4477699372893085,3.0,intermediary,resistant
+725,micafungin,single,1.0,FLVLSLRDF,1.9673550300225369,1.0,resistant,resistant
+726,micafungin,single,1.0,FLVLSLRDG,1.5556068811726482,1.0,intermediary,resistant
+727,micafungin,single,1.0,FLVLSLRDH,1.3528577353851636,2.0,intermediary,resistant
+728,micafungin,single,1.0,FLVLSLRDI,1.9806337688317548,1.0,resistant,resistant
+729,micafungin,single,1.0,FLVLSLRDK,1.843977751821361,1.0,intermediary,resistant
+730,micafungin,single,1.0,FLVLSLRDL,1.8415330222977115,1.0,intermediary,resistant
+731,micafungin,single,1.0,FLVLSLRDM,2.0446737835596247,1.0,resistant,resistant
+732,micafungin,single,1.0,FLVLSLRDR,1.3833050682217642,1.0,intermediary,resistant
+733,micafungin,single,1.0,FLVLSLRDS,1.459594918634072,1.0,intermediary,resistant
+734,micafungin,single,1.0,FLVLSLRDT,1.9820000807874467,1.0,resistant,resistant
+735,micafungin,single,1.0,FLVLSLRDV,1.9004410379375556,1.0,intermediary,resistant
+736,micafungin,single,1.0,FLVLSLRDY,1.9082570568239088,2.0,resistant,resistant
+737,micafungin,single,1.0,FLVLSLREP,0.0293394684632763,1.0,WT-like,sensitive
+738,micafungin,single,1.0,FLVLSLRFP,1.0872453908251147,1.0,intermediary,resistant
+739,micafungin,single,1.0,FLVLSLRGP,0.9904303340297252,1.0,intermediary,resistant
+740,micafungin,single,1.0,FLVLSLRHP,1.706328860392296,1.0,intermediary,resistant
+741,micafungin,single,1.0,FLVLSLRIP,1.5957909567009128,2.0,intermediary,resistant
+742,micafungin,single,1.0,FLVLSLRKP,1.4437786807491793,2.0,intermediary,resistant
+743,micafungin,single,1.0,FLVLSLRLP,-0.1267666667661229,1.0,WT-like,sensitive
+744,micafungin,single,1.0,FLVLSLRMP,1.1181647594730713,1.0,intermediary,resistant
+745,micafungin,single,1.0,FLVLSLRNP,-0.1343809423125908,1.0,WT-like,sensitive
+746,micafungin,single,1.0,FLVLSLRPP,2.0688854549751587,1.0,resistant,resistant
+747,micafungin,single,1.0,FLVLSLRQP,-0.0320996020609054,1.0,WT-like,sensitive
+748,micafungin,single,1.0,FLVLSLRRP,2.133947818043371,1.0,resistant,resistant
+749,micafungin,single,1.0,FLVLSLRSP,1.4743911707429551,1.0,intermediary,resistant
+750,micafungin,single,1.0,FLVLSLRTP,2.035522044233126,1.0,resistant,resistant
+751,micafungin,single,1.0,FLVLSLRVP,2.1113400062954777,1.0,resistant,resistant
+752,micafungin,single,1.0,FLVLSLRWP,0.6665072125951423,1.0,WT-like,sensitive
+753,micafungin,single,1.0,FLVLSLRYP,1.9182381254279592,1.0,resistant,resistant
+754,micafungin,single,1.0,FLVLSLSDP,1.881077990049551,1.0,intermediary,resistant
+755,micafungin,single,1.0,FLVLSLTDP,1.509379170483895,1.0,intermediary,resistant
+756,micafungin,single,1.0,FLVLSLVDP,0.2709280323749437,1.0,WT-like,sensitive
+757,micafungin,single,1.0,FLVLSLWDP,1.6610733467899246,1.0,intermediary,resistant
+758,micafungin,single,1.0,FLVLSMRDP,-0.0449818663283161,1.0,WT-like,sensitive
+759,micafungin,single,1.0,FLVLSNRDP,0.3102349575222771,1.0,WT-like,sensitive
+760,micafungin,single,1.0,FLVLSPRDP,0.18135888001476935,1.0,WT-like,sensitive
+761,micafungin,single,1.0,FLVLSQRDP,1.0752468254643344,2.0,intermediary,resistant
+762,micafungin,single,1.0,FLVLSRRDP,2.0444338762442142,1.0,resistant,resistant
+763,micafungin,single,1.0,FLVLSSRDP,1.4477699372893085,1.0,intermediary,resistant
+764,micafungin,single,1.0,FLVLSTRDP,-0.1848231674262386,1.0,WT-like,sensitive
+765,micafungin,single,1.0,FLVLSVRDP,-0.13488360201315924,1.0,WT-like,sensitive
+766,micafungin,single,1.0,FLVLSYRDP,0.2683874618459081,1.0,WT-like,sensitive
+767,micafungin,single,1.0,FLVLTLRDP,1.2983285916376544,1.0,intermediary,resistant
+768,micafungin,single,1.0,FLVLVLRDP,0.24055563490875215,1.0,WT-like,sensitive
+769,micafungin,single,1.0,FLVLWLRDP,1.7992401889981862,2.0,intermediary,resistant
+770,micafungin,single,1.0,FLVLYLRDP,2.0807431138707746,1.0,resistant,resistant
+771,micafungin,single,1.0,FLVMSLRDP,-0.0827617258228849,1.0,WT-like,sensitive
+772,micafungin,single,1.0,FLVNSLRDP,1.063972313576383,2.0,intermediary,resistant
+773,micafungin,single,1.0,FLVPSLRDP,0.610745675568495,1.0,WT-like,sensitive
+774,micafungin,single,1.0,FLVQSLRDP,-0.005909486453471,1.0,WT-like,sensitive
+775,micafungin,single,1.0,FLVRSLRDP,1.0070033412322734,1.0,intermediary,resistant
+776,micafungin,single,1.0,FLVSSLRDP,0.7782961384163017,1.0,intermediary,resistant
+777,micafungin,single,1.0,FLVTSLRDP,0.19672079305771606,1.0,WT-like,sensitive
+778,micafungin,single,1.0,FLVVSLRDP,0.7182858184463626,1.0,WT-like,sensitive
+779,micafungin,single,1.0,FLVWSLRDP,0.8879017486136266,2.0,intermediary,resistant
+780,micafungin,single,1.0,FLVYSLRDP,1.0100823304668711,1.0,intermediary,resistant
+781,micafungin,single,1.0,FLYLSLRDP,0.5406181057532327,1.0,WT-like,sensitive
+782,micafungin,single,1.0,FMVLSLRDP,-0.0716481054025761,1.0,WT-like,sensitive
+783,micafungin,single,1.0,FPVLSLRDP,0.0946317285092432,1.0,WT-like,sensitive
+784,micafungin,single,1.0,FQVLSLRDP,-0.0040954518889568,1.0,WT-like,sensitive
+785,micafungin,single,1.0,FRVLSLRDP,0.4711512532527906,1.0,WT-like,sensitive
+786,micafungin,single,1.0,FSVLSLRDP,0.9913973935427274,1.0,intermediary,resistant
+787,micafungin,single,1.0,FTVLSLRDP,1.2669604141617037,2.0,intermediary,resistant
+788,micafungin,single,1.0,FVVLSLRDP,0.6646946550708237,1.0,WT-like,sensitive
+789,micafungin,single,1.0,FWVLSLRDP,1.2612855072869134,2.0,intermediary,resistant
+790,micafungin,single,1.0,FYVLSLRDP,0.2334790194396361,1.0,WT-like,sensitive
+791,micafungin,single,1.0,HLVLSLRDP,1.4477699372893085,2.0,intermediary,resistant
+792,micafungin,single,1.0,ILVLSLRDP,1.5957909567009128,3.0,intermediary,resistant
+793,micafungin,single,1.0,KLVLSLRDP,2.122744686995917,1.0,resistant,resistant
+794,micafungin,single,1.0,LLVLSLRDP,0.0802518498499842,1.0,WT-like,sensitive
+795,micafungin,single,1.0,MLVLSLRDP,0.0389743375511637,1.0,WT-like,sensitive
+796,micafungin,single,1.0,NLVLSLRDP,2.115338964974681,1.0,resistant,resistant
+797,micafungin,single,1.0,PLVLSLRDP,1.797200858518044,1.0,intermediary,resistant
+798,micafungin,single,1.0,QLVLSLRDP,0.0193241323978221,1.0,WT-like,sensitive
+799,micafungin,single,1.0,RLVLSLRDP,2.112369253186209,1.0,resistant,resistant
+800,micafungin,single,1.0,SLVLSLRDP,1.5967248763420507,1.0,intermediary,resistant
+801,micafungin,single,1.0,VLVLSLRDP,2.0333035296154405,1.0,resistant,resistant
+802,micafungin,single,1.0,WLVLSLRDP,1.4477699372893085,2.0,intermediary,resistant
+803,micafungin,single,1.0,YLVLSLRDP,1.8558270558489696,1.0,intermediary,resistant
+804,none,ortho,1.0,FLILSLRDP,-0.0081100548779797,1.0,WT-like,sensitive
+805,none,ortho,1.0,FLTLSLRDP,-0.0081176734824208,1.0,WT-like,sensitive
+806,none,ortho,2.0,FLALSFRDP,0.0108627688216913,1.0,WT-like,sensitive
+807,none,ortho,2.0,FLALSIRDP,-0.0076937836910846,1.0,WT-like,sensitive
+808,none,ortho,2.0,FLSLSFRDP,0.0160141372515495,1.0,WT-like,sensitive
+809,none,ortho,2.0,FLTLSFRDP,-0.0276463399710161,1.0,WT-like,sensitive
+810,none,ortho,2.0,FLTLSIRDP,0.009835971032344,1.0,WT-like,sensitive
+811,none,ortho,2.0,FLTLSLKDP,-0.0503188331271278,1.0,WT-like,sensitive
+812,none,ortho,2.0,FLTLSLRDA,0.0121159156241819,1.0,WT-like,sensitive
+813,none,ortho,2.0,FLTLSLVDP,0.0264255762340233,1.0,WT-like,sensitive
+814,none,ortho,2.0,FLTLSVRDP,0.0303124912788279,1.0,WT-like,sensitive
+815,none,ortho,2.0,FMALSLRDP,0.0124781029173919,1.0,WT-like,sensitive
+816,none,ortho,2.0,YLILSLRDP,0.077273433666317,1.0,WT-like,sensitive
+817,none,ortho,2.0,YLTLSLRDP,0.0305954799811152,1.0,WT-like,sensitive
+818,none,ortho,3.0,ALTLSFRDP,0.0110376043865146,1.0,WT-like,sensitive
+819,none,ortho,3.0,FLALSFKDP,0.012208721875547,1.0,WT-like,sensitive
+820,none,ortho,3.0,FLALSFRDA,0.0250068692093283,1.0,WT-like,sensitive
+821,none,ortho,3.0,FLIKSLIDP,0.0127528786927641,1.0,WT-like,sensitive
+822,none,ortho,3.0,FLTHSFRDP,0.0303399196516906,1.0,WT-like,sensitive
+823,none,ortho,3.0,FLTLSAKDP,0.01603926245936,1.0,WT-like,sensitive
+824,none,ortho,3.0,FLTLSFKDP,0.0509045088777486,1.0,WT-like,sensitive
+825,none,ortho,3.0,FLTLSFRDT,-0.0174307975876376,1.0,WT-like,sensitive
+826,none,ortho,3.0,FLTLSIKDP,-0.0018218619328121,1.0,WT-like,sensitive
+827,none,ortho,3.0,YLALSFRDP,0.0018122970498429,1.0,WT-like,sensitive
+828,none,ortho,3.0,YLILSFRDP,0.0051553291291727,1.0,WT-like,sensitive
+829,none,ortho,3.0,YLILSIRDP,0.0185444358935548,1.0,WT-like,sensitive
+830,none,ortho,3.0,YLTLSFRDP,0.0327364731677803,1.0,WT-like,sensitive
+831,none,ortho,3.0,YLTLSIRDP,0.0390117997713956,1.0,WT-like,sensitive
+832,none,ortho,4.0,FLALNIKDP,0.0105263080387008,1.0,WT-like,sensitive
+833,none,ortho,4.0,FLALNLSDS,-0.0117446983036271,1.0,WT-like,sensitive
+834,none,ortho,4.0,FLTLNLADS,-0.0129791605001978,1.0,WT-like,sensitive
+835,none,ortho,4.0,FLTLNLSDS,0.0198884562765399,1.0,WT-like,sensitive
+836,none,ortho,4.0,FLTLSFENP,0.0349884983683567,1.0,WT-like,sensitive
+837,none,ortho,4.0,SLTLSFRDV,0.0174394957135494,1.0,WT-like,sensitive
+838,none,ortho,4.0,YLALSFKDP,0.007467113684685,1.0,WT-like,sensitive
+839,none,ortho,4.0,YLTLSFKDP,0.0265578342853847,1.0,WT-like,sensitive
+840,none,ortho,4.0,YLTLSFRDA,-0.0273849442697064,1.0,WT-like,sensitive
+841,none,ortho,4.0,YLTLSFRDV,-0.0666931604883562,1.0,slightly deleterious,sensitive
+842,none,ortho,4.0,YLTLSFSDP,0.0353924271329058,1.0,WT-like,sensitive
+843,none,ortho,4.0,YLTLSIKDP,0.0042836785981142,1.0,WT-like,sensitive
+844,none,ortho,4.0,YLTRSFRDP,0.0505892391687749,1.0,WT-like,sensitive
+845,none,ortho,5.0,ALALNIKDP,0.0931446715042426,1.0,WT-like,sensitive
+846,none,ortho,5.0,FLTSSFSSP,-0.025966522190661,1.0,WT-like,sensitive
+847,none,ortho,5.0,YLTLAFRDS,0.0177297792420941,1.0,WT-like,sensitive
+848,none,ortho,6.0,YLTRAFRDS,0.0191257098242904,1.0,WT-like,sensitive
+849,none,ortho,7.0,AICSDLRED,-0.0623509872591551,1.0,slightly deleterious,sensitive
+850,none,ortho,7.0,LQIRPLIAP,0.0350740269125778,1.0,WT-like,sensitive
+851,none,ortho,7.0,LQVKPMIKP,0.0238645226105699,1.0,WT-like,sensitive
+852,none,ortho,7.0,VLTLLVTQH,-0.0799229351676362,1.0,slightly deleterious,sensitive
+853,none,single,0.0,FLVLSLRDP,0.00010517384385265,1.0,WT-like,sensitive
+854,none,single,1.0,*LVLSLRDP,-0.2655430290497462,1.0,slightly deleterious,sensitive
+855,none,single,1.0,DLVLSLRDP,-0.3174705144933654,3.0,slightly deleterious,sensitive
+856,none,single,1.0,ELVLSLRDP,-0.3722902949787522,2.0,slightly deleterious,sensitive
+857,none,single,1.0,FAVLSLRDP,-0.04414030016308615,1.0,WT-like,sensitive
+858,none,single,1.0,FCVLSLRDP,0.0111306125901476,1.0,WT-like,sensitive
+859,none,single,1.0,FEVLSLRDP,0.0446571038384528,1.0,WT-like,sensitive
+860,none,single,1.0,FFVLSLRDP,0.0315668085704229,1.0,WT-like,sensitive
+861,none,single,1.0,FGVLSLRDP,-0.0182712689319551,1.0,WT-like,sensitive
+862,none,single,1.0,FHVLSLRDP,0.0049237542370836,2.0,WT-like,sensitive
+863,none,single,1.0,FIVLSLRDP,-0.0127432253527512,1.0,WT-like,sensitive
+864,none,single,1.0,FKVLSLRDP,-0.5678042404174415,1.0,slightly deleterious,sensitive
+865,none,single,1.0,FL*LSLRDP,-0.250301438506268,1.0,slightly deleterious,sensitive
+866,none,single,1.0,FLALSLRDP,-0.2260653057590314,2.0,slightly deleterious,sensitive
+867,none,single,1.0,FLCLSLRDP,0.0146020063806092,1.0,WT-like,sensitive
+868,none,single,1.0,FLDLSLRDP,0.0144416935721846,1.0,WT-like,sensitive
+869,none,single,1.0,FLELSLRDP,-0.0333802121793905,1.0,WT-like,sensitive
+870,none,single,1.0,FLFLSLRDP,-0.2474123360184793,2.0,slightly deleterious,sensitive
+871,none,single,1.0,FLHLSLRDP,0.0049237542370836,2.0,WT-like,sensitive
+872,none,single,1.0,FLILSLRDP,0.0166726888545182,1.0,WT-like,sensitive
+873,none,single,1.0,FLKLSLRDP,-0.0548643939585216,1.0,slightly deleterious,sensitive
+874,none,single,1.0,FLLLSLRDP,0.0109417347020882,1.0,WT-like,sensitive
+875,none,single,1.0,FLMLSLRDP,0.033695641448631,1.0,WT-like,sensitive
+876,none,single,1.0,FLNLSLRDP,0.0099005501515621,1.0,WT-like,sensitive
+877,none,single,1.0,FLPLSLRDP,0.03297244163419795,1.0,WT-like,sensitive
+878,none,single,1.0,FLQLSLRDP,0.0158046617161851,1.0,WT-like,sensitive
+879,none,single,1.0,FLRLSLRDP,-0.020604502215119447,1.0,WT-like,sensitive
+880,none,single,1.0,FLSLSLRDP,0.0086400181791751,1.0,WT-like,sensitive
+881,none,single,1.0,FLTLSLRDP,-0.0921890136687706,2.0,slightly deleterious,sensitive
+882,none,single,1.0,FLV*SLRDP,-0.2541645002520446,1.0,slightly deleterious,sensitive
+883,none,single,1.0,FLVASLRDP,-0.2169094840668318,2.0,slightly deleterious,sensitive
+884,none,single,1.0,FLVDSLRDP,0.0090195201447011,1.0,WT-like,sensitive
+885,none,single,1.0,FLVFSLRDP,-0.0290555709903283,2.0,WT-like,sensitive
+886,none,single,1.0,FLVISLRDP,-0.0125689990971082,1.0,WT-like,sensitive
+887,none,single,1.0,FLVL*LRDP,0.2267569925409992,3.0,WT-like,sensitive
+888,none,single,1.0,FLVLALRDP,0.0608138707187205,1.0,WT-like,sensitive
+889,none,single,1.0,FLVLCLRDP,-0.0567470129374718,2.0,slightly deleterious,sensitive
+890,none,single,1.0,FLVLELRDP,0.1330924871558243,2.0,WT-like,sensitive
+891,none,single,1.0,FLVLFLRDP,-0.0154526852444183,1.0,WT-like,sensitive
+892,none,single,1.0,FLVLGLRDP,0.0187717481517146,1.0,WT-like,sensitive
+893,none,single,1.0,FLVLHLRDP,-0.0871453582455012,2.0,slightly deleterious,sensitive
+894,none,single,1.0,FLVLILRDP,-0.0348977633559824,1.0,WT-like,sensitive
+895,none,single,1.0,FLVLKLRDP,0.0437930300053967,1.0,WT-like,sensitive
+896,none,single,1.0,FLVLLLRDP,-0.0247958651652342,1.0,WT-like,sensitive
+897,none,single,1.0,FLVLMLRDP,0.0046366860820483,1.0,WT-like,sensitive
+898,none,single,1.0,FLVLNLRDP,0.0134568713327456,1.0,WT-like,sensitive
+899,none,single,1.0,FLVLPLRDP,0.0529971732367785,1.0,WT-like,sensitive
+900,none,single,1.0,FLVLQLRDP,0.0006036997716827,1.0,WT-like,sensitive
+901,none,single,1.0,FLVLRLRDP,0.0308623979499846,1.0,WT-like,sensitive
+902,none,single,1.0,FLVLS*RDP,-0.2535251111790195,1.0,slightly deleterious,sensitive
+903,none,single,1.0,FLVLSARDP,0.011320729886190749,1.0,WT-like,sensitive
+904,none,single,1.0,FLVLSDRDP,0.028254823745714,1.0,WT-like,sensitive
+905,none,single,1.0,FLVLSFRDP,-0.0615286731549115,1.0,slightly deleterious,sensitive
+906,none,single,1.0,FLVLSHRDP,0.0084401355385856,1.0,WT-like,sensitive
+907,none,single,1.0,FLVLSIRDP,0.0026175498074777,1.0,WT-like,sensitive
+908,none,single,1.0,FLVLSL*DP,-0.1899997155492219,1.0,slightly deleterious,sensitive
+909,none,single,1.0,FLVLSLCDP,0.0574875565444051,1.0,WT-like,sensitive
+910,none,single,1.0,FLVLSLGDP,-0.03960123247265495,1.0,WT-like,sensitive
+911,none,single,1.0,FLVLSLHDP,-0.0090936504154581,1.0,WT-like,sensitive
+912,none,single,1.0,FLVLSLIDP,-0.1248403715842468,2.0,slightly deleterious,sensitive
+913,none,single,1.0,FLVLSLKDP,0.0170147164874881,1.0,WT-like,sensitive
+914,none,single,1.0,FLVLSLLDP,-0.071552045990648,1.0,slightly deleterious,sensitive
+915,none,single,1.0,FLVLSLMDP,-0.0278850922406043,1.0,WT-like,sensitive
+916,none,single,1.0,FLVLSLNDP,-0.0204068897639124,1.0,WT-like,sensitive
+917,none,single,1.0,FLVLSLPDP,-0.0718691158925633,1.0,slightly deleterious,sensitive
+918,none,single,1.0,FLVLSLQDP,-0.0079472216496696,1.0,WT-like,sensitive
+919,none,single,1.0,FLVLSLR*P,-0.2789733845282324,1.0,slightly deleterious,sensitive
+920,none,single,1.0,FLVLSLRAP,-0.1861506223162416,1.0,slightly deleterious,sensitive
+921,none,single,1.0,FLVLSLRCP,0.0026478756552539,1.0,WT-like,sensitive
+922,none,single,1.0,FLVLSLRD*,-0.2169094840668318,1.0,slightly deleterious,sensitive
+923,none,single,1.0,FLVLSLRDC,0.5243987030902715,3.0,WT-like,sensitive
+924,none,single,1.0,FLVLSLRDD,-0.0165946037878302,1.0,WT-like,sensitive
+925,none,single,1.0,FLVLSLRDE,-0.2239702437573408,3.0,slightly deleterious,sensitive
+926,none,single,1.0,FLVLSLRDF,-0.0143304382549033,1.0,WT-like,sensitive
+927,none,single,1.0,FLVLSLRDG,-0.0211719347610098,1.0,WT-like,sensitive
+928,none,single,1.0,FLVLSLRDH,-0.2169094840668318,2.0,slightly deleterious,sensitive
+929,none,single,1.0,FLVLSLRDI,-0.0440956108162669,1.0,WT-like,sensitive
+930,none,single,1.0,FLVLSLRDK,-0.0043725994271073,1.0,WT-like,sensitive
+931,none,single,1.0,FLVLSLRDL,0.0049237542370836,1.0,WT-like,sensitive
+932,none,single,1.0,FLVLSLRDM,0.0072622590359168,1.0,WT-like,sensitive
+933,none,single,1.0,FLVLSLRDR,-0.0992434879377915,1.0,slightly deleterious,sensitive
+934,none,single,1.0,FLVLSLRDS,-0.1104068385806301,1.0,slightly deleterious,sensitive
+935,none,single,1.0,FLVLSLRDT,-0.0009480082130667502,1.0,WT-like,sensitive
+936,none,single,1.0,FLVLSLRDV,-0.0257288718697908,1.0,WT-like,sensitive
+937,none,single,1.0,FLVLSLRDY,0.1330924871558244,2.0,WT-like,sensitive
+938,none,single,1.0,FLVLSLREP,-0.0099616627050493,1.0,WT-like,sensitive
+939,none,single,1.0,FLVLSLRFP,-0.0097823968034219,1.0,WT-like,sensitive
+940,none,single,1.0,FLVLSLRGP,-0.0920914831684844,1.0,slightly deleterious,sensitive
+941,none,single,1.0,FLVLSLRHP,-0.0063908214656572,1.0,WT-like,sensitive
+942,none,single,1.0,FLVLSLRIP,-0.4211863060908783,2.0,slightly deleterious,sensitive
+943,none,single,1.0,FLVLSLRKP,-0.2496502285555054,2.0,slightly deleterious,sensitive
+944,none,single,1.0,FLVLSLRLP,0.0250591742878902,1.0,WT-like,sensitive
+945,none,single,1.0,FLVLSLRMP,0.0188406300033644,1.0,WT-like,sensitive
+946,none,single,1.0,FLVLSLRNP,-0.0100687792214884,1.0,WT-like,sensitive
+947,none,single,1.0,FLVLSLRPP,0.01633495699657095,1.0,WT-like,sensitive
+948,none,single,1.0,FLVLSLRQP,0.0201567905445294,1.0,WT-like,sensitive
+949,none,single,1.0,FLVLSLRRP,0.02622294404799095,1.0,WT-like,sensitive
+950,none,single,1.0,FLVLSLRSP,-0.3631623214081127,1.0,slightly deleterious,sensitive
+951,none,single,1.0,FLVLSLRTP,-0.131912899690901,1.0,slightly deleterious,sensitive
+952,none,single,1.0,FLVLSLRVP,0.0087041884919902,1.0,WT-like,sensitive
+953,none,single,1.0,FLVLSLRWP,0.0738116894676191,1.0,WT-like,sensitive
+954,none,single,1.0,FLVLSLRYP,-0.0041572017746891,1.0,WT-like,sensitive
+955,none,single,1.0,FLVLSLSDP,-0.0921890136687705,1.0,slightly deleterious,sensitive
+956,none,single,1.0,FLVLSLTDP,-0.00426320492642455,1.0,WT-like,sensitive
+957,none,single,1.0,FLVLSLVDP,-0.0224165967795283,1.0,WT-like,sensitive
+958,none,single,1.0,FLVLSLWDP,-0.0159803884093315,1.0,WT-like,sensitive
+959,none,single,1.0,FLVLSMRDP,0.0028951753611199,1.0,WT-like,sensitive
+960,none,single,1.0,FLVLSNRDP,-0.0284120758244666,1.0,WT-like,sensitive
+961,none,single,1.0,FLVLSPRDP,-0.04680708579419675,1.0,WT-like,sensitive
+962,none,single,1.0,FLVLSQRDP,0.1270855737520458,2.0,WT-like,sensitive
+963,none,single,1.0,FLVLSRRDP,-0.0001593902566696,1.0,WT-like,sensitive
+964,none,single,1.0,FLVLSSRDP,-0.0921890136687705,1.0,slightly deleterious,sensitive
+965,none,single,1.0,FLVLSTRDP,0.003405866920991,1.0,WT-like,sensitive
+966,none,single,1.0,FLVLSVRDP,0.01901039862685575,1.0,WT-like,sensitive
+967,none,single,1.0,FLVLSYRDP,-0.0084978208862477,1.0,WT-like,sensitive
+968,none,single,1.0,FLVLTLRDP,-0.05000042344289955,1.0,WT-like,sensitive
+969,none,single,1.0,FLVLVLRDP,-0.0051803910448368,1.0,WT-like,sensitive
+970,none,single,1.0,FLVLWLRDP,0.1126075592678535,2.0,WT-like,sensitive
+971,none,single,1.0,FLVLYLRDP,-0.0224934659608437,1.0,WT-like,sensitive
+972,none,single,1.0,FLVMSLRDP,0.0146200311547659,1.0,WT-like,sensitive
+973,none,single,1.0,FLVNSLRDP,-0.5101570741606211,2.0,slightly deleterious,sensitive
+974,none,single,1.0,FLVPSLRDP,0.0049237542370836,1.0,WT-like,sensitive
+975,none,single,1.0,FLVQSLRDP,0.0169251241352571,1.0,WT-like,sensitive
+976,none,single,1.0,FLVRSLRDP,-0.03446966200782975,1.0,WT-like,sensitive
+977,none,single,1.0,FLVSSLRDP,0.0848502990809372,1.0,WT-like,sensitive
+978,none,single,1.0,FLVTSLRDP,0.04472934576942075,1.0,WT-like,sensitive
+979,none,single,1.0,FLVVSLRDP,-0.0707295696274555,1.0,slightly deleterious,sensitive
+980,none,single,1.0,FLVWSLRDP,-0.1090365934955771,2.0,slightly deleterious,sensitive
+981,none,single,1.0,FLVYSLRDP,0.1608310266056692,1.0,WT-like,sensitive
+982,none,single,1.0,FLYLSLRDP,-0.2239702437573408,1.0,slightly deleterious,sensitive
+983,none,single,1.0,FMVLSLRDP,0.0125029130889569,1.0,WT-like,sensitive
+984,none,single,1.0,FPVLSLRDP,-0.0564869301889879,1.0,slightly deleterious,sensitive
+985,none,single,1.0,FQVLSLRDP,-0.0083293872400956,1.0,WT-like,sensitive
+986,none,single,1.0,FRVLSLRDP,-0.015842622917231,1.0,WT-like,sensitive
+987,none,single,1.0,FSVLSLRDP,-0.0197549925687583,1.0,WT-like,sensitive
+988,none,single,1.0,FTVLSLRDP,-0.13284956272513415,2.0,slightly deleterious,sensitive
+989,none,single,1.0,FVVLSLRDP,0.010301558028239,1.0,WT-like,sensitive
+990,none,single,1.0,FWVLSLRDP,-0.1425676638429355,2.0,slightly deleterious,sensitive
+991,none,single,1.0,FYVLSLRDP,-0.1084582021387522,1.0,slightly deleterious,sensitive
+992,none,single,1.0,HLVLSLRDP,-0.2005916485257011,2.0,slightly deleterious,sensitive
+993,none,single,1.0,ILVLSLRDP,-0.0921890136687705,3.0,slightly deleterious,sensitive
+994,none,single,1.0,KLVLSLRDP,0.0214623697835589,1.0,WT-like,sensitive
+995,none,single,1.0,LLVLSLRDP,0.0131074879627406,1.0,WT-like,sensitive
+996,none,single,1.0,MLVLSLRDP,0.0215525042103253,1.0,WT-like,sensitive
+997,none,single,1.0,NLVLSLRDP,-0.0017986904426759,1.0,WT-like,sensitive
+998,none,single,1.0,PLVLSLRDP,-0.30158826218796814,1.0,slightly deleterious,sensitive
+999,none,single,1.0,QLVLSLRDP,0.0259359524435894,1.0,WT-like,sensitive
+1000,none,single,1.0,RLVLSLRDP,0.0047799399806595,1.0,WT-like,sensitive
+1001,none,single,1.0,SLVLSLRDP,-0.008383144000803849,1.0,WT-like,sensitive
+1002,none,single,1.0,VLVLSLRDP,-0.0086805516092441,1.0,WT-like,sensitive
+1003,none,single,1.0,WLVLSLRDP,-0.3466736098881623,2.0,slightly deleterious,sensitive
+1004,none,single,1.0,YLVLSLRDP,-0.0338797869460318,1.0,WT-like,sensitive

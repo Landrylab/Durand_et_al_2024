@@ -1,5 +1,5 @@
 # Analysis of FKS hotspots DMS
-Repo containing all scripts related to the analysis of deep mutational scanning data for the hotspots of FKS1 and FKS2 (and other related experiments)
+Companion repo for [this preprint](https://www.biorxiv.org/content/10.1101/2024.07.21.604487). Contains all scripts related to the analysis of deep mutational scanning data for the hotspots of FKS1 and FKS2 (and other related experiments).
 
 ## Installation instructions
 
@@ -26,7 +26,7 @@ sh Miniconda3-latest-Linux-x86_64.sh
 
 2. Clone this repository.
 
-If you're using the Anaconda navigator or JupyterLab Desktop, open a prompt. If you don't have git installed, run `conda install git`, then `git clone https://github.com/Landrylab/Durand_et_al_2024.git`.
+If you're using the Anaconda navigator or JupyterLab Desktop, open a prompt. If you don't have git installed, run `conda install git`, then `git clone https://github.com/durr1602/Durand_et_al_2024.git`.
 
 3. Use it to create a virtual environment with the necessary dependencies and activate it:
 ```
@@ -73,7 +73,7 @@ A [python script](dimsum_scripts/novaseq_run2_single_selection_loop_expdesign.py
 Additionally, all experimental design files contain the constant regions to trim (see steps below), the number of mitotic generations and the selection time over two successive rounds of selection (each one stopped when the culture reached an optical density at 595 nm of approximately 1).
 
 ### Run the DiMSum pipeline
-Since the samples were already demultiplexed, we skipped step 0 of the DiMSum pipeline. The pipeline was run for all samples using [this notebook](dimsum_scripts/dimsum-latest.py). For each of the 60 experiments, the following steps were performed:
+Since the samples were already demultiplexed, we skipped step 0 of the DiMSum pipeline. The pipeline was run for all samples using [this script](dimsum_scripts/dimsum-latest.py). For each of the 60 experiments, the following steps were performed:
 1. FastQC on raw reads
 2. Trim constant regions using [Cutadapt v2.4](https://cutadapt.readthedocs.io/en/stable/) with the following parameters:
     1. --cutadapt5First = the 30 bp immediately upstream of the modified locus (before F639)
@@ -105,12 +105,12 @@ The master dataframe generated in the previous step was used to [classify varian
 Single mutants to be renconstructed are selected across the range of fitness effects + based on previous reports in the literature using [this notebook](select_mutants_for_reconstruction.ipynb).
 
 ## Validations
-Validation assays were performed in the lab by recreating 29 single mutants in the hotspot 1 of FKS1. Growth curves were anlyzed and transformed using [this notebook](growth_curves/20240129_validations_test3.ipynb). In this notebook, data were also correlated with DMS scores and a linear regression model helped infer the scores of mutants missing from the NNK dataset.
+2 validation assays were performed in the lab, #1 by recreating 29 single mutants in the hotspot 1 of FKS1. Growth curves were anlyzed and transformed using [this notebook](growth_curves/20240129_validations_test3.ipynb). In this notebook, data were also correlated with DMS scores and a linear regression model helped infer the scores of mutants missing from the NNK dataset, #2 by recreating 13 single mutants outside the hotspots of FKS1. Growth curves were analyzed and transformed using [this notebook](growth_curves/20250210_more_mutants.ipynb).
 
 ## Generate heatmaps and mappable data
-DMS data and inferred DMS scores (see above, section on validations) were pooled to generate heatmaps. We used [this template notebook](heatmaps_template.ipynb) and [this driver notebook](heatmaps_driver.ipynb).
+DMS data and inferred DMS scores (see above, section on validations) were pooled to generate heatmaps. We used [this template notebook](heatmaps_template.ipynb) and [this driver notebook](heatmaps_driver.ipynb) to generate heatmaps.
 
-Ultimately, the same data were used to [generate defattr files](chimera.ipynb) for ChimeraX to map the proportion of resistant mutants on Fks1 and Fks2 structures.
+The same data were used to [generate defattr files](chimera.ipynb) for ChimeraX. These files allow to map the scores onto the structures of Fks1 and Fks2.
 
 ## Diagnostics analyses
 Analyses of data obtained from preliminary sequencing runs (MiSeq and iSeq):
@@ -125,16 +125,18 @@ General diagnostics using [this notebook](diagnostics_scripts/diagnostics_master
 Assessment of replicability using [this notebook](diagnostics_scripts/replicability.ipynb).
 
 ## Machine-learning assisted prediction of resistance
-This section was largely developed by M. Giguere. Some scripts and dataframes were imported from his repo, then edited by me (R. Durand).
+This section was initially developed by M. Giguere and adapted by me (R. Durand).
 
-The approach is to use a random forest classifier, use a combination of hotspot positions + aminoacid properties as training set, then predict resistance to a specific drug. 2 assays can be performed from [the same notebook](ML/Predict_orthologs.ipynb). In both, the model is trained on all single mutants from Fks1-HS1 (replicate observations are related to synonymous variants).
+The approach is to use a random forest classifier, use a combination of hotspot positions + [aminoacid properties](data/general_use/aminoAcidProperties.txt) as training set, then predict resistance to a specific drug.
+
+Initially, 2 assays could be performed from [the same notebook](ML/Predict_orthologs.ipynb). In both, the model is trained on all single mutants from Fks1-HS1 (replicate observations are related to synonymous variants).
 
 **Assay 1**. Predict resistance for all WT orthologs (the ones spiked in the NNK libraries, for which we have DMS data). These hotspot sequences range in Hamming distance from 2 to 7 residues away from *S. cerevisiae* WT.
 
 **Assay 2**. Predict resistance for all mutants reported in the literature (Fks1-HS1 or Fks2-HS1). These hotspot sequences are all single mutants *in their native genomic context* (but again will have a Hamming distance of up to 7 residues away from *S. cerevisiae* WT).
 
-For the latter, A. Pageau generated [a list](mardy2/Fks_mutated_hotspot_seq_210624.csv) of the entire hotspot sequences corresponding to these mutants, so that the species-dependent genetic background of the mutation (at least at the hotspot level) is included.
+For the latter, A. Pageau had generated [a list](mardy2/Fks_mutated_hotspot_seq_210624.csv) of the entire hotspot sequences corresponding to these mutants, so that the species-dependent genetic background of the mutation (at least at the hotspot level) is included. Ultimately, this assay 2 **was removed during revisions of the manuscript** because it was too complex and because the quality of the testing set was not high enough that we could reliably intrepret accuracy.
 
-The notebook will also plot the SHAP values for the 5 features contributing the most to the model.
+The notebook will also plot the SHAP values for features contributing the most to the model.
 
 For all this, MG wrote 2 additional notebooks to [generate the confusion matrix](ML/Make_cmatrix.ipynb) and the [ROC curve](ML/Make_ROCcurve.ipynb).

@@ -1,0 +1,1406 @@
+,compound,seq_type,Nham_aa,aa_seq,nt_seq,s,cscore,label,rclass
+0,anidulafungin,WT,0.0,FLVLSLRDP,tttttagttttatctttgagagatcca,0.4558678590721465,1.0,1.0,WT-like
+1,anidulafungin,ortho,0.0,FLVLSLRDP,tttttggttttgtctttgagagatcca,0.1027648355064516,1.0,1.0,WT-like
+2,anidulafungin,ortho,1.0,FLILSLRDP,tttttgattttgtctttgagagatcca,0.0892296658026625,1.0,1.0,WT-like
+3,anidulafungin,ortho,1.0,FLTLSLRDP,tttttgactttgtctttgagagatcca,0.2357735953755628,1.0,1.0,WT-like
+4,anidulafungin,ortho,2.0,FLALSFRDP,tttttggctttgtcttttagagatcca,0.3841654654610718,1.0,1.0,WT-like
+5,anidulafungin,ortho,2.0,FLALSIRDP,tttttggctttgtctattagagatcca,-0.2606616502476626,1.0,1.0,WT-like
+6,anidulafungin,ortho,2.0,FLSLSFRDP,tttttgtctttgtcttttagagatcca,1.6049935881583075,1.0,2.0,intermediary
+7,anidulafungin,ortho,2.0,FLTLSFRDP,tttttgactttgtcttttagagatcca,-0.0641387516179228,1.0,1.0,WT-like
+8,anidulafungin,ortho,2.0,FLTLSIRDP,tttttgactttgtctattagagatcca,-0.3060991808427584,1.0,1.0,WT-like
+9,anidulafungin,ortho,2.0,FLTLSLKDP,tttttgactttgtctttgaaagatcca,0.1407855116508529,1.0,1.0,WT-like
+10,anidulafungin,ortho,2.0,FLTLSLRDA,tttttgactttgtctttgagagatgct,1.918157142367602,1.0,0.0,resistant
+11,anidulafungin,ortho,2.0,FLTLSLVDP,tttttgactttgtctttggttgatcca,0.0871578107101005,1.0,1.0,WT-like
+12,anidulafungin,ortho,2.0,FLTLSVRDP,tttttgactttgtctgttagagatcca,-0.243795358471422,1.0,1.0,WT-like
+13,anidulafungin,ortho,2.0,FMALSLRDP,tttatggctttgtctttgagagatcca,1.1265655670125392,1.0,2.0,intermediary
+14,anidulafungin,ortho,2.0,YLILSLRDP,tatttgattttgtctttgagagatcca,1.7106970866937463,1.0,2.0,intermediary
+15,anidulafungin,ortho,2.0,YLTLSLRDP,tatttgactttgtctttgagagatcca,1.886509444306563,1.0,0.0,resistant
+16,anidulafungin,ortho,3.0,ALTLSFRDP,gctttgactttgtcttttagagatcca,1.9634330673827047,1.0,0.0,resistant
+17,anidulafungin,ortho,3.0,FLALSFKDP,tttttggctttgtcttttaaagatcca,-0.0259507271363537,1.0,1.0,WT-like
+18,anidulafungin,ortho,3.0,FLALSFRDA,tttttggctttgtcttttagagatgct,1.9952669435702164,1.0,0.0,resistant
+19,anidulafungin,ortho,3.0,FLIKSLIDP,tttttgattaaatctttgattgatcca,-0.0145874045828331,1.0,1.0,WT-like
+20,anidulafungin,ortho,3.0,FLTHSFRDP,tttttgactcattcttttagagatcca,2.044264657761704,1.0,0.0,resistant
+21,anidulafungin,ortho,3.0,FLTLSAKDP,tttttgactttgtctgctaaagatcca,-0.2375334239021738,1.0,1.0,WT-like
+22,anidulafungin,ortho,3.0,FLTLSFKDP,tttttgactttgtcttttaaagatcca,0.0417635825899769,1.0,1.0,WT-like
+23,anidulafungin,ortho,3.0,FLTLSFRDT,tttttgactttgtcttttagagatact,0.4458873312593725,1.0,1.0,WT-like
+24,anidulafungin,ortho,3.0,FLTLSIKDP,tttttgactttgtctattaaagatcca,0.0034385299470005,1.0,1.0,WT-like
+25,anidulafungin,ortho,3.0,YLALSFRDP,tatttggctttgtcttttagagatcca,1.993193935296098,1.0,0.0,resistant
+26,anidulafungin,ortho,3.0,YLILSFRDP,tatttgattttgtcttttagagatcca,1.955658647292132,1.0,0.0,resistant
+27,anidulafungin,ortho,3.0,YLILSIRDP,tatttgattttgtctattagagatcca,1.8918028312059103,1.0,0.0,resistant
+28,anidulafungin,ortho,3.0,YLTLSFRDP,tatttgactttgtcttttagagatcca,1.9731710550040689,1.0,0.0,resistant
+29,anidulafungin,ortho,3.0,YLTLSIRDP,tatttgactttgtctattagagatcca,1.8777355527017,1.0,0.0,resistant
+30,anidulafungin,ortho,4.0,FLALNIKDP,tttttggctttgaatattaaagatcca,0.4982269665804848,1.0,1.0,WT-like
+31,anidulafungin,ortho,4.0,FLALNLSDS,tttttggctttgaatttgtctgattct,2.0783189288167536,1.0,0.0,resistant
+32,anidulafungin,ortho,4.0,FLTLNLADS,tttttgactttgaatttggctgattct,2.0498947950714435,1.0,0.0,resistant
+33,anidulafungin,ortho,4.0,FLTLNLSDS,tttttgactttgaatttgtctgattct,2.075039596581267,1.0,0.0,resistant
+34,anidulafungin,ortho,4.0,FLTLSFENP,tttttgactttgtcttttgaaaatcca,0.1861536468865379,1.0,1.0,WT-like
+35,anidulafungin,ortho,4.0,SLTLSFRDV,tctttgactttgtcttttagagatgtt,1.9441738162948083,1.0,0.0,resistant
+36,anidulafungin,ortho,4.0,YLALSFKDP,tatttggctttgtcttttaaagatcca,1.890267007519841,1.0,0.0,resistant
+37,anidulafungin,ortho,4.0,YLTLSFKDP,tatttgactttgtcttttaaagatcca,1.9637622645995527,1.0,0.0,resistant
+38,anidulafungin,ortho,4.0,YLTLSFRDA,tatttgactttgtcttttagagatgct,2.040216955102218,1.0,0.0,resistant
+39,anidulafungin,ortho,4.0,YLTLSFRDV,tatttgactttgtcttttagagatgtt,1.856206796251917,1.0,0.0,resistant
+40,anidulafungin,ortho,4.0,YLTLSFSDP,tatttgactttgtctttttctgatcca,2.001115680905716,1.0,0.0,resistant
+41,anidulafungin,ortho,4.0,YLTLSIKDP,tatttgactttgtctattaaagatcca,1.675555653864954,1.0,2.0,intermediary
+42,anidulafungin,ortho,4.0,YLTRSFRDP,tatttgactagatcttttagagatcca,1.6140932638366934,1.0,2.0,intermediary
+43,anidulafungin,ortho,5.0,ALALNIKDP,gctttggctttgaatattaaagatcca,-0.4329670910931253,1.0,1.0,WT-like
+44,anidulafungin,ortho,5.0,FLTSSFSSP,tttttgacttcttctttttcttctcca,1.968606867873492,1.0,0.0,resistant
+45,anidulafungin,ortho,5.0,YLTLAFRDS,tatttgactttggcttttagagattct,1.9958905332410743,1.0,0.0,resistant
+46,anidulafungin,ortho,6.0,YLTRAFRDS,tatttgactagagcttttagagattct,1.8946083583423168,1.0,0.0,resistant
+47,anidulafungin,ortho,7.0,AICSDLRED,gctatttgttctgatttgagagaagat,1.6605435762209453,1.0,2.0,intermediary
+48,anidulafungin,ortho,7.0,LQIRPLIAP,ttgcaaattagaccattgattgctcca,2.0411571446455703,1.0,0.0,resistant
+49,anidulafungin,ortho,7.0,LQVKPMIKP,ttgcaagttaaaccaatgattaaacca,2.0473273377235253,1.0,0.0,resistant
+50,anidulafungin,ortho,7.0,VLTLLVTQH,gttttgactttgttggttactcaacat,1.6591048121321808,1.0,2.0,intermediary
+51,anidulafungin,single,0.0,FLVLSLRDP,tttctggttttatctttgagagatcca,0.2707383434950527,1.0,1.0,WT-like
+52,anidulafungin,single,0.0,FLVLSLRDP,tttcttgttttatctttgagagatcca,-0.0867180116250236,1.0,1.0,WT-like
+53,anidulafungin,single,0.0,FLVLSLRDP,tttttagtgttatctttgagagatcca,-0.1653920639205608,1.0,1.0,WT-like
+54,anidulafungin,single,0.0,FLVLSLRDP,tttttagttctgtctttgagagatcca,0.0,1.0,1.0,WT-like
+55,anidulafungin,single,0.0,FLVLSLRDP,tttttagttctttctttgagagatcca,-0.0873654165826904,1.0,1.0,WT-like
+56,anidulafungin,single,0.0,FLVLSLRDP,tttttagttttatcgttgagagatcca,-0.058609526240523,1.0,1.0,WT-like
+57,anidulafungin,single,0.0,FLVLSLRDP,tttttagttttatctctgagagatcca,0.0060595793604913,1.0,1.0,WT-like
+58,anidulafungin,single,0.0,FLVLSLRDP,tttttagttttatctcttagagatcca,0.0197271865084831,1.0,1.0,WT-like
+59,anidulafungin,single,0.0,FLVLSLRDP,tttttagttttatctttgagagatccg,-0.0829245840138226,1.0,1.0,WT-like
+60,anidulafungin,single,0.0,FLVLSLRDP,tttttagttttatctttgagagatcct,0.0,1.0,1.0,WT-like
+61,anidulafungin,single,0.0,FLVLSLRDP,tttttagttttatctttgcgggatcca,-0.2194871638223781,1.0,1.0,WT-like
+62,anidulafungin,single,0.0,FLVLSLRDP,tttttagttttatctttgcgtgatcca,-0.1526855610915964,1.0,1.0,WT-like
+63,anidulafungin,single,0.0,FLVLSLRDP,tttttagttttgtctttgagagatcca,0.5281554993061122,1.0,1.0,WT-like
+64,anidulafungin,single,0.0,FLVLSLRDP,tttttggttttatctttgagagatcca,0.0924977189228835,1.0,1.0,WT-like
+65,anidulafungin,single,1.0,*LVLSLRDP,tagttagttttatctttgagagatcca,-0.0896258055723933,1.0,1.0,WT-like
+66,anidulafungin,single,1.0,CLVLSLRDP,tgtttagttttatctttgagagatcca,1.7703077719160314,2.0,0.0,resistant
+67,anidulafungin,single,1.0,DLVLSLRDP,gatttagttttatctttgagagatcca,1.6043250452797198,3.0,2.0,intermediary
+68,anidulafungin,single,1.0,ELVLSLRDP,gagttagttttatctttgagagatcca,1.5101359470071205,2.0,2.0,intermediary
+69,anidulafungin,single,1.0,FAVLSLRDP,tttgcggttttatctttgagagatcca,1.5262411678617218,2.0,2.0,intermediary
+70,anidulafungin,single,1.0,FAVLSLRDP,tttgctgttttatctttgagagatcca,1.360657195568261,1.0,2.0,intermediary
+71,anidulafungin,single,1.0,FCVLSLRDP,ttttgtgttttatctttgagagatcca,-0.0888151061559454,1.0,1.0,WT-like
+72,anidulafungin,single,1.0,FDVLSLRDP,tttgatgttttatctttgagagatcca,1.4453283039651723,2.0,2.0,intermediary
+73,anidulafungin,single,1.0,FEVLSLRDP,tttgaggttttatctttgagagatcca,0.9964087828459802,1.0,2.0,intermediary
+74,anidulafungin,single,1.0,FFVLSLRDP,ttttttgttttatctttgagagatcca,0.4794345868653038,1.0,1.0,WT-like
+75,anidulafungin,single,1.0,FGVLSLRDP,tttggggttttatctttgagagatcca,1.520243864097005,1.0,2.0,intermediary
+76,anidulafungin,single,1.0,FGVLSLRDP,tttggtgttttatctttgagagatcca,1.5227995105376817,1.0,2.0,intermediary
+77,anidulafungin,single,1.0,FHVLSLRDP,tttcatgttttatctttgagagatcca,1.6043250452797198,2.0,2.0,intermediary
+78,anidulafungin,single,1.0,FIVLSLRDP,tttattgttttatctttgagagatcca,0.0728904785000041,1.0,1.0,WT-like
+79,anidulafungin,single,1.0,FKVLSLRDP,tttaaggttttatctttgagagatcca,0.1429255740489166,1.0,1.0,WT-like
+80,anidulafungin,single,1.0,FL*LSLRDP,tttttatagttatctttgagagatcca,0.3976293091048271,1.0,1.0,WT-like
+81,anidulafungin,single,1.0,FLALSLRDP,tttttagctttatctttgagagatcca,1.079131437959251,2.0,2.0,intermediary
+82,anidulafungin,single,1.0,FLCLSLRDP,tttttatgtttatctttgagagatcca,0.0020792251871784,1.0,1.0,WT-like
+83,anidulafungin,single,1.0,FLDLSLRDP,tttttagatttatctttgagagatcca,-0.4094557061859947,1.0,1.0,WT-like
+84,anidulafungin,single,1.0,FLELSLRDP,tttttagagttatctttgagagatcca,0.1224052584950272,1.0,1.0,WT-like
+85,anidulafungin,single,1.0,FLFLSLRDP,tttttatttttatctttgagagatcca,1.1662075021619152,2.0,2.0,intermediary
+86,anidulafungin,single,1.0,FLHLSLRDP,tttttacatttatctttgagagatcca,1.5101359470071205,2.0,2.0,intermediary
+87,anidulafungin,single,1.0,FLILSLRDP,tttttaattttatctttgagagatcca,-0.1955824908375703,1.0,1.0,WT-like
+88,anidulafungin,single,1.0,FLKLSLRDP,tttttaaagttatctttgagagatcca,1.767367141082355,1.0,0.0,resistant
+89,anidulafungin,single,1.0,FLLLSLRDP,tttttactgttatctttgagagatcca,0.1147570977431173,1.0,1.0,WT-like
+90,anidulafungin,single,1.0,FLLLSLRDP,tttttacttttatctttgagagatcca,1.191186104261081,2.0,2.0,intermediary
+91,anidulafungin,single,1.0,FLLLSLRDP,tttttattgttatctttgagagatcca,-0.0490491201410479,1.0,1.0,WT-like
+92,anidulafungin,single,1.0,FLMLSLRDP,tttttaatgttatctttgagagatcca,-0.1307496443318385,1.0,1.0,WT-like
+93,anidulafungin,single,1.0,FLNLSLRDP,tttttaaatttatctttgagagatcca,-0.061627055875232,1.0,1.0,WT-like
+94,anidulafungin,single,1.0,FLPLSLRDP,tttttaccgttatctttgagagatcca,0.7884217596843545,1.0,1.0,WT-like
+95,anidulafungin,single,1.0,FLPLSLRDP,tttttacctttatctttgagagatcca,1.3436633950320571,2.0,2.0,intermediary
+96,anidulafungin,single,1.0,FLQLSLRDP,tttttacagttatctttgagagatcca,-0.1144185686495626,1.0,1.0,WT-like
+97,anidulafungin,single,1.0,FLRLSLRDP,tttttaaggttatctttgagagatcca,1.806956234926782,1.0,0.0,resistant
+98,anidulafungin,single,1.0,FLRLSLRDP,tttttacggttatctttgagagatcca,1.8387419132956409,1.0,0.0,resistant
+99,anidulafungin,single,1.0,FLSLSLRDP,tttttaagtttatctttgagagatcca,1.485761170800302,1.0,2.0,intermediary
+100,anidulafungin,single,1.0,FLSLSLRDP,tttttatcgttatctttgagagatcca,1.4760841615260374,1.0,2.0,intermediary
+101,anidulafungin,single,1.0,FLSLSLRDP,tttttatctttatctttgagagatcca,1.4081414313935847,1.0,2.0,intermediary
+102,anidulafungin,single,1.0,FLTLSLRDP,tttttaactttatctttgagagatcca,1.097773360782306,2.0,2.0,intermediary
+103,anidulafungin,single,1.0,FLV*SLRDP,tttttagtttagtctttgagagatcca,0.1598898205662218,1.0,1.0,WT-like
+104,anidulafungin,single,1.0,FLVASLRDP,tttttagttgcgtctttgagagatcca,1.5544883482369147,2.0,2.0,intermediary
+105,anidulafungin,single,1.0,FLVDSLRDP,tttttagttgattctttgagagatcca,-0.1338126808676782,1.0,1.0,WT-like
+106,anidulafungin,single,1.0,FLVFSLRDP,tttttagttttttctttgagagatcca,1.7384545376827003,2.0,0.0,resistant
+107,anidulafungin,single,1.0,FLVISLRDP,tttttagttatttctttgagagatcca,-0.146268690100763,1.0,1.0,WT-like
+108,anidulafungin,single,1.0,FLVL*LRDP,tttttagttttatagttgagagatcca,1.7703077719160314,3.0,0.0,resistant
+109,anidulafungin,single,1.0,FLVLALRDP,tttttagttttagcgttgagagatcca,0.2009997999580082,1.0,1.0,WT-like
+110,anidulafungin,single,1.0,FLVLCLRDP,tttttagttttatgtttgagagatcca,1.3938785789606116,2.0,2.0,intermediary
+111,anidulafungin,single,1.0,FLVLELRDP,tttttagttttagagttgagagatcca,1.7083407894909752,2.0,2.0,intermediary
+112,anidulafungin,single,1.0,FLVLFLRDP,tttttagttttatttttgagagatcca,1.971661913673004,1.0,0.0,resistant
+113,anidulafungin,single,1.0,FLVLGLRDP,tttttagttttagggttgagagatcca,0.7398951490433816,1.0,1.0,WT-like
+114,anidulafungin,single,1.0,FLVLHLRDP,tttttagttttacatttgagagatcca,1.900828590942909,2.0,0.0,resistant
+115,anidulafungin,single,1.0,FLVLILRDP,tttttagttttaattttgagagatcca,1.918957482425929,1.0,0.0,resistant
+116,anidulafungin,single,1.0,FLVLKLRDP,tttttagttttaaagttgagagatcca,2.141797114400488,1.0,0.0,resistant
+117,anidulafungin,single,1.0,FLVLLLRDP,tttttagttttactgttgagagatcca,1.8938305159478064,1.0,0.0,resistant
+118,anidulafungin,single,1.0,FLVLLLRDP,tttttagttttacttttgagagatcca,1.8502561298720184,1.0,0.0,resistant
+119,anidulafungin,single,1.0,FLVLLLRDP,tttttagttttattgttgagagatcca,1.846750777975892,1.0,0.0,resistant
+120,anidulafungin,single,1.0,FLVLMLRDP,tttttagttttaatgttgagagatcca,1.8136117730272816,1.0,0.0,resistant
+121,anidulafungin,single,1.0,FLVLNLRDP,tttttagttttaaatttgagagatcca,2.033182201589005,1.0,0.0,resistant
+122,anidulafungin,single,1.0,FLVLPLRDP,tttttagttttaccgttgagagatcca,2.08051331928852,2.0,0.0,resistant
+123,anidulafungin,single,1.0,FLVLPLRDP,tttttagttttacctttgagagatcca,2.066254139530369,1.0,0.0,resistant
+124,anidulafungin,single,1.0,FLVLQLRDP,tttttagttttacagttgagagatcca,1.994826988731001,1.0,0.0,resistant
+125,anidulafungin,single,1.0,FLVLRLRDP,tttttagttttaaggttgagagatcca,2.089786270783787,1.0,0.0,resistant
+126,anidulafungin,single,1.0,FLVLRLRDP,tttttagttttacggttgagagatcca,2.040255959505326,1.0,0.0,resistant
+127,anidulafungin,single,1.0,FLVLRLRDP,tttttagttttacgtttgagagatcca,2.089478985787849,1.0,0.0,resistant
+128,anidulafungin,single,1.0,FLVLS*RDP,tttttagttttatcttagagagatcca,0.114729150453271,1.0,1.0,WT-like
+129,anidulafungin,single,1.0,FLVLSARDP,tttttagttttatctgcgagagatcca,0.0090152453936216,1.0,1.0,WT-like
+130,anidulafungin,single,1.0,FLVLSARDP,tttttagttttatctgctagagatcca,-0.3987120030699487,1.0,1.0,WT-like
+131,anidulafungin,single,1.0,FLVLSDRDP,tttttagttttatctgatagagatcca,-0.1162209877216435,1.0,1.0,WT-like
+132,anidulafungin,single,1.0,FLVLSFRDP,tttttagttttatcttttagagatcca,0.5024384061337042,1.0,1.0,WT-like
+133,anidulafungin,single,1.0,FLVLSHRDP,tttttagttttatctcatagagatcca,1.9833428230935144,1.0,0.0,resistant
+134,anidulafungin,single,1.0,FLVLSIRDP,tttttagttttatctattagagatcca,0.0025850158083651,1.0,1.0,WT-like
+135,anidulafungin,single,1.0,FLVLSL*DP,tttttagttttatctttgtaggatcca,0.2833779333386146,1.0,1.0,WT-like
+136,anidulafungin,single,1.0,FLVLSLCDP,tttttagttttatctttgtgtgatcca,0.7424470723911065,1.0,1.0,WT-like
+137,anidulafungin,single,1.0,FLVLSLGDP,tttttagttttatctttgggggatcca,1.952373283142943,1.0,0.0,resistant
+138,anidulafungin,single,1.0,FLVLSLGDP,tttttagttttatctttgggtgatcca,1.618117010600128,3.0,2.0,intermediary
+139,anidulafungin,single,1.0,FLVLSLHDP,tttttagttttatctttgcatgatcca,0.1061771190214755,1.0,1.0,WT-like
+140,anidulafungin,single,1.0,FLVLSLIDP,tttttagttttatctttgattgatcca,1.4006359069828545,2.0,2.0,intermediary
+141,anidulafungin,single,1.0,FLVLSLKDP,tttttagttttatctttgaaggatcca,0.0803396472912871,1.0,1.0,WT-like
+142,anidulafungin,single,1.0,FLVLSLLDP,tttttagttttatctttgctggatcca,0.5729496757109478,1.0,1.0,WT-like
+143,anidulafungin,single,1.0,FLVLSLLDP,tttttagttttatctttgcttgatcca,1.3436633950320571,3.0,2.0,intermediary
+144,anidulafungin,single,1.0,FLVLSLLDP,tttttagttttatctttgttggatcca,1.8755805022758003,1.0,0.0,resistant
+145,anidulafungin,single,1.0,FLVLSLMDP,tttttagttttatctttgatggatcca,0.2130947538143663,1.0,1.0,WT-like
+146,anidulafungin,single,1.0,FLVLSLNDP,tttttagttttatctttgaatgatcca,0.6415577026111388,1.0,1.0,WT-like
+147,anidulafungin,single,1.0,FLVLSLPDP,tttttagttttatctttgcctgatcca,0.0553523462787504,1.0,1.0,WT-like
+148,anidulafungin,single,1.0,FLVLSLQDP,tttttagttttatctttgcaggatcca,0.4465615040311432,1.0,1.0,WT-like
+149,anidulafungin,single,1.0,FLVLSLR*P,tttttagttttatctttgagatagcca,0.0593269549762156,1.0,1.0,WT-like
+150,anidulafungin,single,1.0,FLVLSLRAP,tttttagttttatctttgagagctcca,1.269517305114605,1.0,2.0,intermediary
+151,anidulafungin,single,1.0,FLVLSLRCP,tttttagttttatctttgagatgtcca,2.028206127720768,1.0,0.0,resistant
+152,anidulafungin,single,1.0,FLVLSLRD*,tttttagttttatctttgagagattag,0.501256148967852,1.0,1.0,WT-like
+153,anidulafungin,single,1.0,FLVLSLRDC,tttttagttttatctttgagagattgt,2.1252057162708384,3.0,0.0,resistant
+154,anidulafungin,single,1.0,FLVLSLRDD,tttttagttttatctttgagagatgat,1.9444820830590943,1.0,0.0,resistant
+155,anidulafungin,single,1.0,FLVLSLRDE,tttttagttttatctttgagagatgag,1.8175008337627168,3.0,0.0,resistant
+156,anidulafungin,single,1.0,FLVLSLRDF,tttttagttttatctttgagagatttt,1.932461335316561,1.0,0.0,resistant
+157,anidulafungin,single,1.0,FLVLSLRDG,tttttagttttatctttgagagatggg,1.9812610652768257,1.0,0.0,resistant
+158,anidulafungin,single,1.0,FLVLSLRDG,tttttagttttatctttgagagatggt,1.9631733990935776,1.0,0.0,resistant
+159,anidulafungin,single,1.0,FLVLSLRDH,tttttagttttatctttgagagatcat,0.7780471632424423,2.0,1.0,WT-like
+160,anidulafungin,single,1.0,FLVLSLRDI,tttttagttttatctttgagagatatt,1.9587140573096928,1.0,0.0,resistant
+161,anidulafungin,single,1.0,FLVLSLRDK,tttttagttttatctttgagagataag,1.961714606061572,1.0,0.0,resistant
+162,anidulafungin,single,1.0,FLVLSLRDL,tttttagttttatctttgagagatctg,1.950472128660509,1.0,0.0,resistant
+163,anidulafungin,single,1.0,FLVLSLRDL,tttttagttttatctttgagagatctt,2.209562654249471,3.0,0.0,resistant
+164,anidulafungin,single,1.0,FLVLSLRDL,tttttagttttatctttgagagatttg,1.93624978016116,1.0,0.0,resistant
+165,anidulafungin,single,1.0,FLVLSLRDM,tttttagttttatctttgagagatatg,2.0003482966144515,1.0,0.0,resistant
+166,anidulafungin,single,1.0,FLVLSLRDN,tttttagttttatctttgagagataat,1.9278793452170688,1.0,0.0,resistant
+167,anidulafungin,single,1.0,FLVLSLRDQ,tttttagttttatctttgagagatcag,1.4518477545087436,3.0,2.0,intermediary
+168,anidulafungin,single,1.0,FLVLSLRDR,tttttagttttatctttgagagatagg,1.6577956264698683,1.0,2.0,intermediary
+169,anidulafungin,single,1.0,FLVLSLRDR,tttttagttttatctttgagagatcgg,2.176841567368448,1.0,0.0,resistant
+170,anidulafungin,single,1.0,FLVLSLRDR,tttttagttttatctttgagagatcgt,1.5101359470071205,2.0,2.0,intermediary
+171,anidulafungin,single,1.0,FLVLSLRDS,tttttagttttatctttgagagatagt,1.6623267083230238,3.0,2.0,intermediary
+172,anidulafungin,single,1.0,FLVLSLRDS,tttttagttttatctttgagagattcg,1.843399657356266,1.0,0.0,resistant
+173,anidulafungin,single,1.0,FLVLSLRDT,tttttagttttatctttgagagatacg,1.9577594784239845,1.0,0.0,resistant
+174,anidulafungin,single,1.0,FLVLSLRDT,tttttagttttatctttgagagatact,2.00353834500306,1.0,0.0,resistant
+175,anidulafungin,single,1.0,FLVLSLRDV,tttttagttttatctttgagagatgtg,2.010719845079496,1.0,0.0,resistant
+176,anidulafungin,single,1.0,FLVLSLRDV,tttttagttttatctttgagagatgtt,1.8776082394901537,1.0,0.0,resistant
+177,anidulafungin,single,1.0,FLVLSLRDY,tttttagttttatctttgagagattat,2.065631144853062,2.0,0.0,resistant
+178,anidulafungin,single,1.0,FLVLSLREP,tttttagttttatctttgagagagcca,1.606102365276966,1.0,2.0,intermediary
+179,anidulafungin,single,1.0,FLVLSLRFP,tttttagttttatctttgagatttcca,1.9622972827621088,1.0,0.0,resistant
+180,anidulafungin,single,1.0,FLVLSLRGP,tttttagttttatctttgagaggtcca,2.3788924918353325,1.0,0.0,resistant
+181,anidulafungin,single,1.0,FLVLSLRHP,tttttagttttatctttgagacatcca,1.9139035193527751,1.0,0.0,resistant
+182,anidulafungin,single,1.0,FLVLSLRIP,tttttagttttatctttgagaattcca,1.2499641220982094,2.0,2.0,intermediary
+183,anidulafungin,single,1.0,FLVLSLRKP,tttttagttttatctttgagaaagcca,1.2856942194839251,2.0,2.0,intermediary
+184,anidulafungin,single,1.0,FLVLSLRLP,tttttagttttatctttgagactgcca,1.1038071500237874,1.0,2.0,intermediary
+185,anidulafungin,single,1.0,FLVLSLRLP,tttttagttttatctttgagacttcca,1.152991137818463,1.0,2.0,intermediary
+186,anidulafungin,single,1.0,FLVLSLRLP,tttttagttttatctttgagattgcca,1.0682435482122277,1.0,2.0,intermediary
+187,anidulafungin,single,1.0,FLVLSLRMP,tttttagttttatctttgagaatgcca,1.7328297253658058,1.0,2.0,intermediary
+188,anidulafungin,single,1.0,FLVLSLRNP,tttttagttttatctttgagaaatcca,1.511251396866893,1.0,2.0,intermediary
+189,anidulafungin,single,1.0,FLVLSLRPP,tttttagttttatctttgagaccgcca,2.020004891155993,1.0,0.0,resistant
+190,anidulafungin,single,1.0,FLVLSLRPP,tttttagttttatctttgagacctcca,1.930461868788232,1.0,0.0,resistant
+191,anidulafungin,single,1.0,FLVLSLRQP,tttttagttttatctttgagacagcca,1.4120890746487753,1.0,2.0,intermediary
+192,anidulafungin,single,1.0,FLVLSLRRP,tttttagttttatctttgagaaggcca,2.0395324266510806,1.0,0.0,resistant
+193,anidulafungin,single,1.0,FLVLSLRRP,tttttagttttatctttgagacgtcca,2.03482330207362,1.0,0.0,resistant
+194,anidulafungin,single,1.0,FLVLSLRSP,tttttagttttatctttgagaagtcca,1.971353275016778,2.0,0.0,resistant
+195,anidulafungin,single,1.0,FLVLSLRSP,tttttagttttatctttgagatcgcca,1.9699456099115475,1.0,0.0,resistant
+196,anidulafungin,single,1.0,FLVLSLRSP,tttttagttttatctttgagatctcca,1.0830017447843945,2.0,2.0,intermediary
+197,anidulafungin,single,1.0,FLVLSLRTP,tttttagttttatctttgagaacgcca,1.8866821666198663,2.0,0.0,resistant
+198,anidulafungin,single,1.0,FLVLSLRTP,tttttagttttatctttgagaactcca,2.03969106773771,1.0,0.0,resistant
+199,anidulafungin,single,1.0,FLVLSLRVP,tttttagttttatctttgagagtgcca,1.99628106022594,1.0,0.0,resistant
+200,anidulafungin,single,1.0,FLVLSLRVP,tttttagttttatctttgagagttcca,2.0138402680887,1.0,0.0,resistant
+201,anidulafungin,single,1.0,FLVLSLRWP,tttttagttttatctttgagatggcca,1.85553346848922,1.0,0.0,resistant
+202,anidulafungin,single,1.0,FLVLSLRYP,tttttagttttatctttgagatatcca,1.979432759211756,1.0,0.0,resistant
+203,anidulafungin,single,1.0,FLVLSLSDP,tttttagttttatctttgagtgatcca,1.6129803317347156,2.0,2.0,intermediary
+204,anidulafungin,single,1.0,FLVLSLSDP,tttttagttttatctttgtcggatcca,1.0665685695017806,1.0,2.0,intermediary
+205,anidulafungin,single,1.0,FLVLSLSDP,tttttagttttatctttgtctgatcca,1.2499641220982094,3.0,2.0,intermediary
+206,anidulafungin,single,1.0,FLVLSLTDP,tttttagttttatctttgacggatcca,0.148224574559044,1.0,1.0,WT-like
+207,anidulafungin,single,1.0,FLVLSLTDP,tttttagttttatctttgactgatcca,-0.0466799732151852,1.0,1.0,WT-like
+208,anidulafungin,single,1.0,FLVLSLVDP,tttttagttttatctttggtggatcca,0.1656995572424071,1.0,1.0,WT-like
+209,anidulafungin,single,1.0,FLVLSLWDP,tttttagttttatctttgtgggatcca,-0.0030297555114948,1.0,1.0,WT-like
+210,anidulafungin,single,1.0,FLVLSMRDP,tttttagttttatctatgagagatcca,0.3581832899461297,1.0,1.0,WT-like
+211,anidulafungin,single,1.0,FLVLSNRDP,tttttagttttatctaatagagatcca,0.3608507412377109,1.0,1.0,WT-like
+212,anidulafungin,single,1.0,FLVLSPRDP,tttttagttttatctccgagagatcca,-0.1931001472917701,1.0,1.0,WT-like
+213,anidulafungin,single,1.0,FLVLSPRDP,tttttagttttatctcctagagatcca,-0.0521298520354649,1.0,1.0,WT-like
+214,anidulafungin,single,1.0,FLVLSQRDP,tttttagttttatctcagagagatcca,2.1318642768859006,2.0,0.0,resistant
+215,anidulafungin,single,1.0,FLVLSRRDP,tttttagttttatctaggagagatcca,1.9694783439084675,1.0,0.0,resistant
+216,anidulafungin,single,1.0,FLVLSRRDP,tttttagttttatctcggagagatcca,1.972407472918323,1.0,0.0,resistant
+217,anidulafungin,single,1.0,FLVLSRRDP,tttttagttttatctcgtagagatcca,1.7935859814797517,1.0,0.0,resistant
+218,anidulafungin,single,1.0,FLVLSSRDP,tttttagttttatctagtagagatcca,1.7308572031244018,2.0,2.0,intermediary
+219,anidulafungin,single,1.0,FLVLSSRDP,tttttagttttatcttcgagagatcca,1.5544883482369147,3.0,2.0,intermediary
+220,anidulafungin,single,1.0,FLVLSSRDP,tttttagttttatcttctagagatcca,-0.0630988983418299,1.0,1.0,WT-like
+221,anidulafungin,single,1.0,FLVLSTRDP,tttttagttttatctacgagagatcca,-0.0139456587769388,1.0,1.0,WT-like
+222,anidulafungin,single,1.0,FLVLSVRDP,tttttagttttatctgtgagagatcca,0.2602220765328984,1.0,1.0,WT-like
+223,anidulafungin,single,1.0,FLVLSVRDP,tttttagttttatctgttagagatcca,-0.0669591455832949,1.0,1.0,WT-like
+224,anidulafungin,single,1.0,FLVLSYRDP,tttttagttttatcttatagagatcca,0.0639294401661572,1.0,1.0,WT-like
+225,anidulafungin,single,1.0,FLVLTLRDP,tttttagttttaacgttgagagatcca,1.7260980741931358,1.0,2.0,intermediary
+226,anidulafungin,single,1.0,FLVLTLRDP,tttttagttttaactttgagagatcca,1.756802336050696,3.0,0.0,resistant
+227,anidulafungin,single,1.0,FLVLVLRDP,tttttagttttagtgttgagagatcca,1.421679397004568,1.0,2.0,intermediary
+228,anidulafungin,single,1.0,FLVLVLRDP,tttttagttttagttttgagagatcca,1.4231020758190946,1.0,2.0,intermediary
+229,anidulafungin,single,1.0,FLVLWLRDP,tttttagttttatggttgagagatcca,1.6043250452797198,2.0,2.0,intermediary
+230,anidulafungin,single,1.0,FLVLYLRDP,tttttagttttatatttgagagatcca,2.046552022887005,1.0,0.0,resistant
+231,anidulafungin,single,1.0,FLVMSLRDP,tttttagttatgtctttgagagatcca,-0.1022052293952888,1.0,1.0,WT-like
+232,anidulafungin,single,1.0,FLVNSLRDP,tttttagttaattctttgagagatcca,1.3436633950320571,2.0,2.0,intermediary
+233,anidulafungin,single,1.0,FLVPSLRDP,tttttagttccttctttgagagatcca,0.3414823297122862,1.0,1.0,WT-like
+234,anidulafungin,single,1.0,FLVQSLRDP,tttttagttcagtctttgagagatcca,0.5502875261579374,1.0,1.0,WT-like
+235,anidulafungin,single,1.0,FLVRSLRDP,tttttagttaggtctttgagagatcca,1.5101359470071205,2.0,2.0,intermediary
+236,anidulafungin,single,1.0,FLVRSLRDP,tttttagttcgttctttgagagatcca,-0.2375334239021738,1.0,1.0,WT-like
+237,anidulafungin,single,1.0,FLVSSLRDP,tttttagttagttctttgagagatcca,1.3436633950320571,3.0,2.0,intermediary
+238,anidulafungin,single,1.0,FLVSSLRDP,tttttagtttcttctttgagagatcca,-0.1476077607269217,1.0,1.0,WT-like
+239,anidulafungin,single,1.0,FLVTSLRDP,tttttagttacgtctttgagagatcca,0.4594163374466475,1.0,1.0,WT-like
+240,anidulafungin,single,1.0,FLVTSLRDP,tttttagttacttctttgagagatcca,-0.148710397044091,1.0,1.0,WT-like
+241,anidulafungin,single,1.0,FLVVSLRDP,tttttagttgtgtctttgagagatcca,0.7002428601184776,1.0,1.0,WT-like
+242,anidulafungin,single,1.0,FLVWSLRDP,tttttagtttggtctttgagagatcca,1.8434919727687555,2.0,0.0,resistant
+243,anidulafungin,single,1.0,FLVYSLRDP,tttttagtttattctttgagagatcca,2.3231327108052184,1.0,0.0,resistant
+244,anidulafungin,single,1.0,FLWLSLRDP,tttttatggttatctttgagagatcca,1.730760849702633,2.0,2.0,intermediary
+245,anidulafungin,single,1.0,FLYLSLRDP,tttttatatttatctttgagagatcca,0.4252389496485804,1.0,1.0,WT-like
+246,anidulafungin,single,1.0,FMVLSLRDP,tttatggttttatctttgagagatcca,0.4266263804937387,1.0,1.0,WT-like
+247,anidulafungin,single,1.0,FPVLSLRDP,tttccggttttatctttgagagatcca,-0.0493277826263653,1.0,1.0,WT-like
+248,anidulafungin,single,1.0,FQVLSLRDP,tttcaggttttatctttgagagatcca,0.138295070296005,1.0,1.0,WT-like
+249,anidulafungin,single,1.0,FRVLSLRDP,tttagggttttatctttgagagatcca,1.717377862316266,1.0,2.0,intermediary
+250,anidulafungin,single,1.0,FRVLSLRDP,tttcgggttttatctttgagagatcca,1.2499641220982094,2.0,2.0,intermediary
+251,anidulafungin,single,1.0,FRVLSLRDP,tttcgtgttttatctttgagagatcca,1.667561012177918,1.0,2.0,intermediary
+252,anidulafungin,single,1.0,FSVLSLRDP,tttagtgttttatctttgagagatcca,1.7585991306890056,1.0,0.0,resistant
+253,anidulafungin,single,1.0,FSVLSLRDP,ttttcggttttatctttgagagatcca,1.7625960063811046,1.0,0.0,resistant
+254,anidulafungin,single,1.0,FSVLSLRDP,ttttctgttttatctttgagagatcca,1.8489819282291216,1.0,0.0,resistant
+255,anidulafungin,single,1.0,FTVLSLRDP,tttacggttttatctttgagagatcca,1.4961406858030333,2.0,2.0,intermediary
+256,anidulafungin,single,1.0,FTVLSLRDP,tttactgttttatctttgagagatcca,2.0113319864313715,2.0,0.0,resistant
+257,anidulafungin,single,1.0,FVVLSLRDP,tttgtggttttatctttgagagatcca,-0.0997306966280433,1.0,1.0,WT-like
+258,anidulafungin,single,1.0,FVVLSLRDP,tttgttgttttatctttgagagatcca,1.2499641220982094,2.0,2.0,intermediary
+259,anidulafungin,single,1.0,FWVLSLRDP,ttttgggttttatctttgagagatcca,1.4122263773286072,2.0,2.0,intermediary
+260,anidulafungin,single,1.0,FYVLSLRDP,ttttatgttttatctttgagagatcca,1.0054595579169092,1.0,2.0,intermediary
+261,anidulafungin,single,1.0,HLVLSLRDP,catttagttttatctttgagagatcca,1.618117010600128,2.0,2.0,intermediary
+262,anidulafungin,single,1.0,ILVLSLRDP,attttagttttatctttgagagatcca,1.4518477545087436,3.0,2.0,intermediary
+263,anidulafungin,single,1.0,KLVLSLRDP,aagttagttttatctttgagagatcca,2.013151051106403,1.0,0.0,resistant
+264,anidulafungin,single,1.0,LLVLSLRDP,ctgttagttttatctttgagagatcca,0.2575494509385614,1.0,1.0,WT-like
+265,anidulafungin,single,1.0,LLVLSLRDP,cttttagttttatctttgagagatcca,0.0751770260403446,1.0,1.0,WT-like
+266,anidulafungin,single,1.0,LLVLSLRDP,ttgttagttttatctttgagagatcca,0.3136262886714898,1.0,1.0,WT-like
+267,anidulafungin,single,1.0,MLVLSLRDP,atgttagttttatctttgagagatcca,-0.0610206269141346,1.0,1.0,WT-like
+268,anidulafungin,single,1.0,NLVLSLRDP,aatttagttttatctttgagagatcca,1.977198109469436,1.0,0.0,resistant
+269,anidulafungin,single,1.0,PLVLSLRDP,ccgttagttttatctttgagagatcca,1.8757713974902723,1.0,0.0,resistant
+270,anidulafungin,single,1.0,PLVLSLRDP,cctttagttttatctttgagagatcca,1.6043250452797198,2.0,2.0,intermediary
+271,anidulafungin,single,1.0,QLVLSLRDP,cagttagttttatctttgagagatcca,-0.0497656898170117,1.0,1.0,WT-like
+272,anidulafungin,single,1.0,RLVLSLRDP,aggttagttttatctttgagagatcca,2.0483180923628206,1.0,0.0,resistant
+273,anidulafungin,single,1.0,RLVLSLRDP,cggttagttttatctttgagagatcca,1.993114940070129,1.0,0.0,resistant
+274,anidulafungin,single,1.0,RLVLSLRDP,cgtttagttttatctttgagagatcca,1.9283593118019224,1.0,0.0,resistant
+275,anidulafungin,single,1.0,SLVLSLRDP,tcgttagttttatctttgagagatcca,2.2343657605425804,1.0,0.0,resistant
+276,anidulafungin,single,1.0,SLVLSLRDP,tctttagttttatctttgagagatcca,2.0095749712683566,1.0,0.0,resistant
+277,anidulafungin,single,1.0,VLVLSLRDP,gtgttagttttatctttgagagatcca,1.979601793166925,1.0,0.0,resistant
+278,anidulafungin,single,1.0,VLVLSLRDP,gttttagttttatctttgagagatcca,1.9483306085125407,1.0,0.0,resistant
+279,anidulafungin,single,1.0,WLVLSLRDP,tggttagttttatctttgagagatcca,1.4777928874350377,2.0,2.0,intermediary
+280,anidulafungin,single,1.0,YLVLSLRDP,tatttagttttatctttgagagatcca,1.888452741731864,1.0,0.0,resistant
+281,caspofungin,WT,0.0,FLVLSLRDP,tttttagttttatctttgagagatcca,0.3481447939997251,1.0,1.0,WT-like
+282,caspofungin,ortho,0.0,FLVLSLRDP,tttttggttttgtctttgagagatcca,0.3603370850340428,1.0,1.0,WT-like
+283,caspofungin,ortho,1.0,FLILSLRDP,tttttgattttgtctttgagagatcca,-0.0986318920911311,1.0,1.0,WT-like
+284,caspofungin,ortho,1.0,FLTLSLRDP,tttttgactttgtctttgagagatcca,0.0551898351202018,1.0,1.0,WT-like
+285,caspofungin,ortho,2.0,FLALSFRDP,tttttggctttgtcttttagagatcca,0.2257950147947729,1.0,1.0,WT-like
+286,caspofungin,ortho,2.0,FLALSIRDP,tttttggctttgtctattagagatcca,-0.209285221776756,1.0,1.0,WT-like
+287,caspofungin,ortho,2.0,FLSLSFRDP,tttttgtctttgtcttttagagatcca,1.384861892889437,1.0,0.0,intermediary
+288,caspofungin,ortho,2.0,FLTLSFRDP,tttttgactttgtcttttagagatcca,0.0274075856466253,1.0,1.0,WT-like
+289,caspofungin,ortho,2.0,FLTLSIRDP,tttttgactttgtctattagagatcca,-0.0111477858628323,1.0,1.0,WT-like
+290,caspofungin,ortho,2.0,FLTLSLKDP,tttttgactttgtctttgaaagatcca,0.1904240187236325,1.0,1.0,WT-like
+291,caspofungin,ortho,2.0,FLTLSLRDA,tttttgactttgtctttgagagatgct,1.7727829410077949,1.0,2.0,resistant
+292,caspofungin,ortho,2.0,FLTLSLVDP,tttttgactttgtctttggttgatcca,0.0779210828283774,1.0,1.0,WT-like
+293,caspofungin,ortho,2.0,FLTLSVRDP,tttttgactttgtctgttagagatcca,0.1577886670231809,1.0,1.0,WT-like
+294,caspofungin,ortho,2.0,FMALSLRDP,tttatggctttgtctttgagagatcca,0.4558059714608993,1.0,1.0,WT-like
+295,caspofungin,ortho,2.0,YLILSLRDP,tatttgattttgtctttgagagatcca,1.7949079049833063,1.0,2.0,resistant
+296,caspofungin,ortho,2.0,YLTLSLRDP,tatttgactttgtctttgagagatcca,1.9116713088449493,1.0,2.0,resistant
+297,caspofungin,ortho,3.0,ALTLSFRDP,gctttgactttgtcttttagagatcca,1.9134124873725464,1.0,2.0,resistant
+298,caspofungin,ortho,3.0,FLALSFKDP,tttttggctttgtcttttaaagatcca,0.0358107564542018,1.0,1.0,WT-like
+299,caspofungin,ortho,3.0,FLALSFRDA,tttttggctttgtcttttagagatgct,1.8727585238607884,1.0,2.0,resistant
+300,caspofungin,ortho,3.0,FLIKSLIDP,tttttgattaaatctttgattgatcca,-0.0642336467751314,1.0,1.0,WT-like
+301,caspofungin,ortho,3.0,FLTHSFRDP,tttttgactcattcttttagagatcca,1.9704823724496288,1.0,2.0,resistant
+302,caspofungin,ortho,3.0,FLTLSAKDP,tttttgactttgtctgctaaagatcca,0.1999507792153774,1.0,1.0,WT-like
+303,caspofungin,ortho,3.0,FLTLSFKDP,tttttgactttgtcttttaaagatcca,0.2471411275654558,1.0,1.0,WT-like
+304,caspofungin,ortho,3.0,FLTLSFRDT,tttttgactttgtcttttagagatact,0.1029003863266513,1.0,1.0,WT-like
+305,caspofungin,ortho,3.0,FLTLSIKDP,tttttgactttgtctattaaagatcca,0.0583351431569125,1.0,1.0,WT-like
+306,caspofungin,ortho,3.0,YLALSFRDP,tatttggctttgtcttttagagatcca,1.8810311753362623,1.0,2.0,resistant
+307,caspofungin,ortho,3.0,YLILSFRDP,tatttgattttgtcttttagagatcca,1.8960223983378133,1.0,2.0,resistant
+308,caspofungin,ortho,3.0,YLILSIRDP,tatttgattttgtctattagagatcca,1.8823422631869229,1.0,2.0,resistant
+309,caspofungin,ortho,3.0,YLTLSFRDP,tatttgactttgtcttttagagatcca,1.941511676289524,1.0,2.0,resistant
+310,caspofungin,ortho,3.0,YLTLSIRDP,tatttgactttgtctattagagatcca,1.8874143872784888,1.0,2.0,resistant
+311,caspofungin,ortho,4.0,FLALNIKDP,tttttggctttgaatattaaagatcca,0.1985947677474173,1.0,1.0,WT-like
+312,caspofungin,ortho,4.0,FLALNLSDS,tttttggctttgaatttgtctgattct,1.934699200613173,1.0,2.0,resistant
+313,caspofungin,ortho,4.0,FLTLNLADS,tttttgactttgaatttggctgattct,1.914699102019598,1.0,2.0,resistant
+314,caspofungin,ortho,4.0,FLTLNLSDS,tttttgactttgaatttgtctgattct,1.8938947063501523,1.0,2.0,resistant
+315,caspofungin,ortho,4.0,FLTLSFENP,tttttgactttgtcttttgaaaatcca,1.1160556078212327,1.0,0.0,intermediary
+316,caspofungin,ortho,4.0,SLTLSFRDV,tctttgactttgtcttttagagatgtt,1.903930440367072,1.0,2.0,resistant
+317,caspofungin,ortho,4.0,YLALSFKDP,tatttggctttgtcttttaaagatcca,1.86333237596263,1.0,2.0,resistant
+318,caspofungin,ortho,4.0,YLTLSFKDP,tatttgactttgtcttttaaagatcca,1.8679675518828496,1.0,2.0,resistant
+319,caspofungin,ortho,4.0,YLTLSFRDA,tatttgactttgtcttttagagatgct,1.956463424883383,1.0,2.0,resistant
+320,caspofungin,ortho,4.0,YLTLSFRDV,tatttgactttgtcttttagagatgtt,1.7719026435086562,1.0,2.0,resistant
+321,caspofungin,ortho,4.0,YLTLSFSDP,tatttgactttgtctttttctgatcca,1.929691368068755,1.0,2.0,resistant
+322,caspofungin,ortho,4.0,YLTLSIKDP,tatttgactttgtctattaaagatcca,1.778673952964002,1.0,2.0,resistant
+323,caspofungin,ortho,4.0,YLTRSFRDP,tatttgactagatcttttagagatcca,1.969896307673538,1.0,2.0,resistant
+324,caspofungin,ortho,5.0,ALALNIKDP,gctttggctttgaatattaaagatcca,1.9597574881981303,1.0,2.0,resistant
+325,caspofungin,ortho,5.0,FLTSSFSSP,tttttgacttcttctttttcttctcca,1.966918911936192,1.0,2.0,resistant
+326,caspofungin,ortho,5.0,YLTLAFRDS,tatttgactttggcttttagagattct,1.869296222697563,1.0,2.0,resistant
+327,caspofungin,ortho,6.0,YLTRAFRDS,tatttgactagagcttttagagattct,1.8879558555195868,1.0,2.0,resistant
+328,caspofungin,ortho,7.0,AICSDLRED,gctatttgttctgatttgagagaagat,1.4386645473889752,1.0,0.0,intermediary
+329,caspofungin,ortho,7.0,LQIRPLIAP,ttgcaaattagaccattgattgctcca,1.9248511317286456,1.0,2.0,resistant
+330,caspofungin,ortho,7.0,LQVKPMIKP,ttgcaagttaaaccaatgattaaacca,1.9740367333395057,1.0,2.0,resistant
+331,caspofungin,ortho,7.0,VLTLLVTQH,gttttgactttgttggttactcaacat,1.4540137575294212,1.0,0.0,intermediary
+332,caspofungin,single,0.0,FLVLSLRDP,tttctggttttatctttgagagatcca,0.2934555950517035,1.0,1.0,WT-like
+333,caspofungin,single,0.0,FLVLSLRDP,tttcttgttttatctttgagagatcca,-0.1107192661540774,1.0,1.0,WT-like
+334,caspofungin,single,0.0,FLVLSLRDP,tttttagtgttatctttgagagatcca,0.1422137234769913,1.0,1.0,WT-like
+335,caspofungin,single,0.0,FLVLSLRDP,tttttagttctgtctttgagagatcca,0.0293586565968069,1.0,1.0,WT-like
+336,caspofungin,single,0.0,FLVLSLRDP,tttttagttctttctttgagagatcca,-0.0040233776792275,1.0,1.0,WT-like
+337,caspofungin,single,0.0,FLVLSLRDP,tttttagttttatcgttgagagatcca,-0.1229907229848001,1.0,1.0,WT-like
+338,caspofungin,single,0.0,FLVLSLRDP,tttttagttttatctctgagagatcca,0.0,1.0,1.0,WT-like
+339,caspofungin,single,0.0,FLVLSLRDP,tttttagttttatctcttagagatcca,-0.0186009598219243,1.0,1.0,WT-like
+340,caspofungin,single,0.0,FLVLSLRDP,tttttagttttatctttgagagatccg,-0.0951811118306609,1.0,1.0,WT-like
+341,caspofungin,single,0.0,FLVLSLRDP,tttttagttttatctttgagagatcct,0.0064455931537619,1.0,1.0,WT-like
+342,caspofungin,single,0.0,FLVLSLRDP,tttttagttttatctttgcgggatcca,0.0,1.0,1.0,WT-like
+343,caspofungin,single,0.0,FLVLSLRDP,tttttagttttatctttgcgtgatcca,0.057655013077386,1.0,1.0,WT-like
+344,caspofungin,single,0.0,FLVLSLRDP,tttttagttttgtctttgagagatcca,-0.0324176015975203,1.0,1.0,WT-like
+345,caspofungin,single,0.0,FLVLSLRDP,tttttggttttatctttgagagatcca,0.151022896459761,1.0,1.0,WT-like
+346,caspofungin,single,1.0,*LVLSLRDP,tagttagttttatctttgagagatcca,0.0322380849423111,1.0,1.0,WT-like
+347,caspofungin,single,1.0,CLVLSLRDP,tgtttagttttatctttgagagatcca,1.445891717307084,2.0,0.0,intermediary
+348,caspofungin,single,1.0,DLVLSLRDP,gatttagttttatctttgagagatcca,1.445891717307084,3.0,0.0,intermediary
+349,caspofungin,single,1.0,ELVLSLRDP,gagttagttttatctttgagagatcca,0.9478869046109866,2.0,0.0,intermediary
+350,caspofungin,single,1.0,FAVLSLRDP,tttgcggttttatctttgagagatcca,1.031540425565599,2.0,0.0,intermediary
+351,caspofungin,single,1.0,FAVLSLRDP,tttgctgttttatctttgagagatcca,0.771088776130438,1.0,0.0,intermediary
+352,caspofungin,single,1.0,FCVLSLRDP,ttttgtgttttatctttgagagatcca,0.0616174606211101,1.0,1.0,WT-like
+353,caspofungin,single,1.0,FDVLSLRDP,tttgatgttttatctttgagagatcca,1.2111641717942851,2.0,0.0,intermediary
+354,caspofungin,single,1.0,FEVLSLRDP,tttgaggttttatctttgagagatcca,0.1598192854299454,1.0,1.0,WT-like
+355,caspofungin,single,1.0,FFVLSLRDP,ttttttgttttatctttgagagatcca,0.4918694319540582,1.0,1.0,WT-like
+356,caspofungin,single,1.0,FGVLSLRDP,tttggggttttatctttgagagatcca,0.5436134586716488,1.0,1.0,WT-like
+357,caspofungin,single,1.0,FGVLSLRDP,tttggtgttttatctttgagagatcca,0.6528525158789897,1.0,0.0,intermediary
+358,caspofungin,single,1.0,FHVLSLRDP,tttcatgttttatctttgagagatcca,1.6993376811978356,2.0,2.0,resistant
+359,caspofungin,single,1.0,FIVLSLRDP,tttattgttttatctttgagagatcca,0.1673347915130594,1.0,1.0,WT-like
+360,caspofungin,single,1.0,FKVLSLRDP,tttaaggttttatctttgagagatcca,0.258898545978331,1.0,1.0,WT-like
+361,caspofungin,single,1.0,FL*LSLRDP,tttttatagttatctttgagagatcca,-0.1079522491426523,1.0,1.0,WT-like
+362,caspofungin,single,1.0,FLALSLRDP,tttttagctttatctttgagagatcca,1.0330346459682571,2.0,0.0,intermediary
+363,caspofungin,single,1.0,FLCLSLRDP,tttttatgtttatctttgagagatcca,0.3024151449046877,1.0,1.0,WT-like
+364,caspofungin,single,1.0,FLDLSLRDP,tttttagatttatctttgagagatcca,-0.0230282177026506,1.0,1.0,WT-like
+365,caspofungin,single,1.0,FLELSLRDP,tttttagagttatctttgagagatcca,-0.1403157756205431,1.0,1.0,WT-like
+366,caspofungin,single,1.0,FLFLSLRDP,tttttatttttatctttgagagatcca,0.878269504332699,2.0,0.0,intermediary
+367,caspofungin,single,1.0,FLHLSLRDP,tttttacatttatctttgagagatcca,1.6751501140307123,2.0,0.0,intermediary
+368,caspofungin,single,1.0,FLILSLRDP,tttttaattttatctttgagagatcca,0.0310586243158375,1.0,1.0,WT-like
+369,caspofungin,single,1.0,FLKLSLRDP,tttttaaagttatctttgagagatcca,1.5190184024454263,1.0,0.0,intermediary
+370,caspofungin,single,1.0,FLLLSLRDP,tttttactgttatctttgagagatcca,-0.0813140222463792,1.0,1.0,WT-like
+371,caspofungin,single,1.0,FLLLSLRDP,tttttacttttatctttgagagatcca,1.2111641717942851,2.0,0.0,intermediary
+372,caspofungin,single,1.0,FLLLSLRDP,tttttattgttatctttgagagatcca,-0.0819887821975231,1.0,1.0,WT-like
+373,caspofungin,single,1.0,FLMLSLRDP,tttttaatgttatctttgagagatcca,0.0901691547220129,1.0,1.0,WT-like
+374,caspofungin,single,1.0,FLNLSLRDP,tttttaaatttatctttgagagatcca,-0.218141489734297,1.0,1.0,WT-like
+375,caspofungin,single,1.0,FLPLSLRDP,tttttaccgttatctttgagagatcca,1.7219889606899044,1.0,2.0,resistant
+376,caspofungin,single,1.0,FLPLSLRDP,tttttacctttatctttgagagatcca,1.6993376811978356,2.0,2.0,resistant
+377,caspofungin,single,1.0,FLQLSLRDP,tttttacagttatctttgagagatcca,0.0417777303249782,1.0,1.0,WT-like
+378,caspofungin,single,1.0,FLRLSLRDP,tttttaaggttatctttgagagatcca,1.6993376811978356,1.0,2.0,resistant
+379,caspofungin,single,1.0,FLRLSLRDP,tttttacggttatctttgagagatcca,1.6960592370644254,1.0,2.0,resistant
+380,caspofungin,single,1.0,FLSLSLRDP,tttttaagtttatctttgagagatcca,0.598478492782706,1.0,0.0,intermediary
+381,caspofungin,single,1.0,FLSLSLRDP,tttttatcgttatctttgagagatcca,0.6835302166594848,1.0,0.0,intermediary
+382,caspofungin,single,1.0,FLSLSLRDP,tttttatctttatctttgagagatcca,0.6580173277237289,1.0,0.0,intermediary
+383,caspofungin,single,1.0,FLTLSLRDP,tttttaactttatctttgagagatcca,1.148246785973816,2.0,0.0,intermediary
+384,caspofungin,single,1.0,FLV*SLRDP,tttttagtttagtctttgagagatcca,0.2647495155872907,1.0,1.0,WT-like
+385,caspofungin,single,1.0,FLVASLRDP,tttttagttgcgtctttgagagatcca,1.46199575125717,2.0,0.0,intermediary
+386,caspofungin,single,1.0,FLVDSLRDP,tttttagttgattctttgagagatcca,0.0032076302514278,1.0,1.0,WT-like
+387,caspofungin,single,1.0,FLVFSLRDP,tttttagttttttctttgagagatcca,1.1586746471160825,2.0,0.0,intermediary
+388,caspofungin,single,1.0,FLVISLRDP,tttttagttatttctttgagagatcca,0.0333592360158176,1.0,1.0,WT-like
+389,caspofungin,single,1.0,FLVL*LRDP,tttttagttttatagttgagagatcca,1.6993376811978356,3.0,2.0,resistant
+390,caspofungin,single,1.0,FLVLALRDP,tttttagttttagcgttgagagatcca,0.0785550919125899,1.0,1.0,WT-like
+391,caspofungin,single,1.0,FLVLCLRDP,tttttagttttatgtttgagagatcca,1.0206105735612785,2.0,0.0,intermediary
+392,caspofungin,single,1.0,FLVLELRDP,tttttagttttagagttgagagatcca,1.3117841522483074,2.0,0.0,intermediary
+393,caspofungin,single,1.0,FLVLFLRDP,tttttagttttatttttgagagatcca,1.8917756979693623,1.0,2.0,resistant
+394,caspofungin,single,1.0,FLVLGLRDP,tttttagttttagggttgagagatcca,0.1932285112390368,1.0,1.0,WT-like
+395,caspofungin,single,1.0,FLVLHLRDP,tttttagttttacatttgagagatcca,1.6751501140307123,2.0,0.0,intermediary
+396,caspofungin,single,1.0,FLVLILRDP,tttttagttttaattttgagagatcca,1.833863494403495,1.0,2.0,resistant
+397,caspofungin,single,1.0,FLVLKLRDP,tttttagttttaaagttgagagatcca,1.9303629937977504,1.0,2.0,resistant
+398,caspofungin,single,1.0,FLVLLLRDP,tttttagttttactgttgagagatcca,1.7399267260549205,1.0,2.0,resistant
+399,caspofungin,single,1.0,FLVLLLRDP,tttttagttttacttttgagagatcca,1.708104468955525,1.0,2.0,resistant
+400,caspofungin,single,1.0,FLVLLLRDP,tttttagttttattgttgagagatcca,1.684674711491867,1.0,0.0,intermediary
+401,caspofungin,single,1.0,FLVLMLRDP,tttttagttttaatgttgagagatcca,1.717633796939391,1.0,2.0,resistant
+402,caspofungin,single,1.0,FLVLNLRDP,tttttagttttaaatttgagagatcca,1.9322449808331048,1.0,2.0,resistant
+403,caspofungin,single,1.0,FLVLPLRDP,tttttagttttaccgttgagagatcca,1.273246102703891,2.0,0.0,intermediary
+404,caspofungin,single,1.0,FLVLPLRDP,tttttagttttacctttgagagatcca,1.9400102444537624,1.0,2.0,resistant
+405,caspofungin,single,1.0,FLVLQLRDP,tttttagttttacagttgagagatcca,1.923672707260623,1.0,2.0,resistant
+406,caspofungin,single,1.0,FLVLRLRDP,tttttagttttaaggttgagagatcca,2.005073886589143,1.0,2.0,resistant
+407,caspofungin,single,1.0,FLVLRLRDP,tttttagttttacggttgagagatcca,1.9848052669978,1.0,2.0,resistant
+408,caspofungin,single,1.0,FLVLRLRDP,tttttagttttacgtttgagagatcca,1.941380994267264,1.0,2.0,resistant
+409,caspofungin,single,1.0,FLVLS*RDP,tttttagttttatcttagagagatcca,-0.0129722489942392,1.0,1.0,WT-like
+410,caspofungin,single,1.0,FLVLSARDP,tttttagttttatctgcgagagatcca,-0.0855964833541558,1.0,1.0,WT-like
+411,caspofungin,single,1.0,FLVLSARDP,tttttagttttatctgctagagatcca,-0.1617321290100917,1.0,1.0,WT-like
+412,caspofungin,single,1.0,FLVLSDRDP,tttttagttttatctgatagagatcca,0.1079281697081082,1.0,1.0,WT-like
+413,caspofungin,single,1.0,FLVLSFRDP,tttttagttttatcttttagagatcca,0.7499699614351734,1.0,0.0,intermediary
+414,caspofungin,single,1.0,FLVLSHRDP,tttttagttttatctcatagagatcca,1.897926383155575,1.0,2.0,resistant
+415,caspofungin,single,1.0,FLVLSIRDP,tttttagttttatctattagagatcca,0.0156155921314558,1.0,1.0,WT-like
+416,caspofungin,single,1.0,FLVLSL*DP,tttttagttttatctttgtaggatcca,0.4592138431299832,1.0,1.0,WT-like
+417,caspofungin,single,1.0,FLVLSLCDP,tttttagttttatctttgtgtgatcca,0.7292113618947238,1.0,0.0,intermediary
+418,caspofungin,single,1.0,FLVLSLGDP,tttttagttttatctttgggggatcca,1.8659521721663377,1.0,2.0,resistant
+419,caspofungin,single,1.0,FLVLSLGDP,tttttagttttatctttgggtgatcca,1.3492282453490891,3.0,0.0,intermediary
+420,caspofungin,single,1.0,FLVLSLHDP,tttttagttttatctttgcatgatcca,-0.4103482177388633,1.0,1.0,WT-like
+421,caspofungin,single,1.0,FLVLSLIDP,tttttagttttatctttgattgatcca,1.445891717307084,2.0,0.0,intermediary
+422,caspofungin,single,1.0,FLVLSLKDP,tttttagttttatctttgaaggatcca,0.3066398097418119,1.0,1.0,WT-like
+423,caspofungin,single,1.0,FLVLSLLDP,tttttagttttatctttgctggatcca,-0.0540278507761662,1.0,1.0,WT-like
+424,caspofungin,single,1.0,FLVLSLLDP,tttttagttttatctttgcttgatcca,1.3117841522483074,3.0,0.0,intermediary
+425,caspofungin,single,1.0,FLVLSLLDP,tttttagttttatctttgttggatcca,0.7292113618947238,1.0,0.0,intermediary
+426,caspofungin,single,1.0,FLVLSLMDP,tttttagttttatctttgatggatcca,-0.101046851877826,1.0,1.0,WT-like
+427,caspofungin,single,1.0,FLVLSLNDP,tttttagttttatctttgaatgatcca,0.6367568877526066,1.0,0.0,intermediary
+428,caspofungin,single,1.0,FLVLSLPDP,tttttagttttatctttgcctgatcca,0.2591152841745938,1.0,1.0,WT-like
+429,caspofungin,single,1.0,FLVLSLQDP,tttttagttttatctttgcaggatcca,0.2502383600190176,1.0,1.0,WT-like
+430,caspofungin,single,1.0,FLVLSLR*P,tttttagttttatctttgagatagcca,0.2752861015538423,1.0,1.0,WT-like
+431,caspofungin,single,1.0,FLVLSLRAP,tttttagttttatctttgagagctcca,1.3577042997245954,1.0,0.0,intermediary
+432,caspofungin,single,1.0,FLVLSLRCP,tttttagttttatctttgagatgtcca,1.9297150586644904,1.0,2.0,resistant
+433,caspofungin,single,1.0,FLVLSLRD*,tttttagttttatctttgagagattag,0.0455455934775346,1.0,1.0,WT-like
+434,caspofungin,single,1.0,FLVLSLRDC,tttttagttttatctttgagagattgt,1.5410425489719357,3.0,0.0,intermediary
+435,caspofungin,single,1.0,FLVLSLRDD,tttttagttttatctttgagagatgat,1.8964996949613029,1.0,2.0,resistant
+436,caspofungin,single,1.0,FLVLSLRDE,tttttagttttatctttgagagatgag,1.3117841522483074,3.0,0.0,intermediary
+437,caspofungin,single,1.0,FLVLSLRDF,tttttagttttatctttgagagatttt,1.856449373198244,1.0,2.0,resistant
+438,caspofungin,single,1.0,FLVLSLRDG,tttttagttttatctttgagagatggg,1.6854729521483791,1.0,0.0,intermediary
+439,caspofungin,single,1.0,FLVLSLRDG,tttttagttttatctttgagagatggt,1.7791809018097495,1.0,2.0,resistant
+440,caspofungin,single,1.0,FLVLSLRDH,tttttagttttatctttgagagatcat,1.0731000982394812,2.0,0.0,intermediary
+441,caspofungin,single,1.0,FLVLSLRDI,tttttagttttatctttgagagatatt,1.89633258969012,1.0,2.0,resistant
+442,caspofungin,single,1.0,FLVLSLRDK,tttttagttttatctttgagagataag,1.78917436036585,1.0,2.0,resistant
+443,caspofungin,single,1.0,FLVLSLRDL,tttttagttttatctttgagagatctg,1.8520016793029528,1.0,2.0,resistant
+444,caspofungin,single,1.0,FLVLSLRDL,tttttagttttatctttgagagatctt,1.8381738100619127,3.0,2.0,resistant
+445,caspofungin,single,1.0,FLVLSLRDL,tttttagttttatctttgagagatttg,1.8354583951545929,1.0,2.0,resistant
+446,caspofungin,single,1.0,FLVLSLRDM,tttttagttttatctttgagagatatg,1.9087506839317216,1.0,2.0,resistant
+447,caspofungin,single,1.0,FLVLSLRDN,tttttagttttatctttgagagataat,1.871537145082056,1.0,2.0,resistant
+448,caspofungin,single,1.0,FLVLSLRDQ,tttttagttttatctttgagagatcag,1.445891717307084,3.0,0.0,intermediary
+449,caspofungin,single,1.0,FLVLSLRDR,tttttagttttatctttgagagatagg,1.768113261838572,1.0,2.0,resistant
+450,caspofungin,single,1.0,FLVLSLRDR,tttttagttttatctttgagagatcgg,1.0858176924524274,1.0,0.0,intermediary
+451,caspofungin,single,1.0,FLVLSLRDR,tttttagttttatctttgagagatcgt,1.3492282453490891,2.0,0.0,intermediary
+452,caspofungin,single,1.0,FLVLSLRDS,tttttagttttatctttgagagatagt,1.5852503380210046,3.0,0.0,intermediary
+453,caspofungin,single,1.0,FLVLSLRDS,tttttagttttatctttgagagattcg,1.692053215533292,1.0,0.0,intermediary
+454,caspofungin,single,1.0,FLVLSLRDT,tttttagttttatctttgagagatacg,1.868941697704387,1.0,2.0,resistant
+455,caspofungin,single,1.0,FLVLSLRDT,tttttagttttatctttgagagatact,1.894806189142712,1.0,2.0,resistant
+456,caspofungin,single,1.0,FLVLSLRDV,tttttagttttatctttgagagatgtg,1.885983779322037,1.0,2.0,resistant
+457,caspofungin,single,1.0,FLVLSLRDV,tttttagttttatctttgagagatgtt,1.9033024385478223,1.0,2.0,resistant
+458,caspofungin,single,1.0,FLVLSLRDY,tttttagttttatctttgagagattat,2.03380190539784,2.0,2.0,resistant
+459,caspofungin,single,1.0,FLVLSLREP,tttttagttttatctttgagagagcca,1.7473541311621523,1.0,2.0,resistant
+460,caspofungin,single,1.0,FLVLSLRFP,tttttagttttatctttgagatttcca,1.9016342658850989,1.0,2.0,resistant
+461,caspofungin,single,1.0,FLVLSLRGP,tttttagttttatctttgagaggtcca,0.8974328605068226,1.0,0.0,intermediary
+462,caspofungin,single,1.0,FLVLSLRHP,tttttagttttatctttgagacatcca,1.9027930569789009,1.0,2.0,resistant
+463,caspofungin,single,1.0,FLVLSLRIP,tttttagttttatctttgagaattcca,1.4471862644662004,2.0,0.0,intermediary
+464,caspofungin,single,1.0,FLVLSLRKP,tttttagttttatctttgagaaagcca,1.6307188324599131,2.0,0.0,intermediary
+465,caspofungin,single,1.0,FLVLSLRLP,tttttagttttatctttgagactgcca,1.4187711514549366,1.0,0.0,intermediary
+466,caspofungin,single,1.0,FLVLSLRLP,tttttagttttatctttgagacttcca,1.4060182553613474,1.0,0.0,intermediary
+467,caspofungin,single,1.0,FLVLSLRLP,tttttagttttatctttgagattgcca,1.4503775521425568,1.0,0.0,intermediary
+468,caspofungin,single,1.0,FLVLSLRMP,tttttagttttatctttgagaatgcca,1.9579380836593183,1.0,2.0,resistant
+469,caspofungin,single,1.0,FLVLSLRNP,tttttagttttatctttgagaaatcca,1.2890019479290928,1.0,0.0,intermediary
+470,caspofungin,single,1.0,FLVLSLRPP,tttttagttttatctttgagaccgcca,1.9131372381652327,1.0,2.0,resistant
+471,caspofungin,single,1.0,FLVLSLRPP,tttttagttttatctttgagacctcca,1.936679611138501,1.0,2.0,resistant
+472,caspofungin,single,1.0,FLVLSLRQP,tttttagttttatctttgagacagcca,1.8179648971334004,1.0,2.0,resistant
+473,caspofungin,single,1.0,FLVLSLRRP,tttttagttttatctttgagaaggcca,1.9054930049210417,1.0,2.0,resistant
+474,caspofungin,single,1.0,FLVLSLRRP,tttttagttttatctttgagacgtcca,1.9504732457738736,1.0,2.0,resistant
+475,caspofungin,single,1.0,FLVLSLRSP,tttttagttttatctttgagaagtcca,1.809257679089489,2.0,2.0,resistant
+476,caspofungin,single,1.0,FLVLSLRSP,tttttagttttatctttgagatcgcca,1.930493935368048,1.0,2.0,resistant
+477,caspofungin,single,1.0,FLVLSLRSP,tttttagttttatctttgagatctcca,1.46199575125717,2.0,0.0,intermediary
+478,caspofungin,single,1.0,FLVLSLRTP,tttttagttttatctttgagaacgcca,1.6751501140307123,2.0,0.0,intermediary
+479,caspofungin,single,1.0,FLVLSLRTP,tttttagttttatctttgagaactcca,1.9589421189773724,1.0,2.0,resistant
+480,caspofungin,single,1.0,FLVLSLRVP,tttttagttttatctttgagagtgcca,1.928857578234761,1.0,2.0,resistant
+481,caspofungin,single,1.0,FLVLSLRVP,tttttagttttatctttgagagttcca,1.9141136571894304,1.0,2.0,resistant
+482,caspofungin,single,1.0,FLVLSLRWP,tttttagttttatctttgagatggcca,2.0194213156338723,1.0,2.0,resistant
+483,caspofungin,single,1.0,FLVLSLRYP,tttttagttttatctttgagatatcca,1.918948071659029,1.0,2.0,resistant
+484,caspofungin,single,1.0,FLVLSLSDP,tttttagttttatctttgagtgatcca,1.1586746471160825,2.0,0.0,intermediary
+485,caspofungin,single,1.0,FLVLSLSDP,tttttagttttatctttgtcggatcca,1.104053610609769,1.0,0.0,intermediary
+486,caspofungin,single,1.0,FLVLSLSDP,tttttagttttatctttgtctgatcca,1.4471862644662004,3.0,0.0,intermediary
+487,caspofungin,single,1.0,FLVLSLTDP,tttttagttttatctttgacggatcca,0.1278314563436389,1.0,1.0,WT-like
+488,caspofungin,single,1.0,FLVLSLTDP,tttttagttttatctttgactgatcca,0.1394726860872763,1.0,1.0,WT-like
+489,caspofungin,single,1.0,FLVLSLVDP,tttttagttttatctttggtggatcca,0.2188108136855828,1.0,1.0,WT-like
+490,caspofungin,single,1.0,FLVLSLWDP,tttttagttttatctttgtgggatcca,0.0878189851453175,1.0,1.0,WT-like
+491,caspofungin,single,1.0,FLVLSMRDP,tttttagttttatctatgagagatcca,0.002937532099503,1.0,1.0,WT-like
+492,caspofungin,single,1.0,FLVLSNRDP,tttttagttttatctaatagagatcca,0.3321587830502797,1.0,1.0,WT-like
+493,caspofungin,single,1.0,FLVLSPRDP,tttttagttttatctccgagagatcca,0.0577162328658253,1.0,1.0,WT-like
+494,caspofungin,single,1.0,FLVLSPRDP,tttttagttttatctcctagagatcca,0.2449434453799595,1.0,1.0,WT-like
+495,caspofungin,single,1.0,FLVLSQRDP,tttttagttttatctcagagagatcca,0.9469815635883502,2.0,0.0,intermediary
+496,caspofungin,single,1.0,FLVLSRRDP,tttttagttttatctaggagagatcca,1.928807723642041,1.0,2.0,resistant
+497,caspofungin,single,1.0,FLVLSRRDP,tttttagttttatctcggagagatcca,1.855167868871908,1.0,2.0,resistant
+498,caspofungin,single,1.0,FLVLSRRDP,tttttagttttatctcgtagagatcca,1.949457661950222,1.0,2.0,resistant
+499,caspofungin,single,1.0,FLVLSSRDP,tttttagttttatctagtagagatcca,1.273246102703891,2.0,0.0,intermediary
+500,caspofungin,single,1.0,FLVLSSRDP,tttttagttttatcttcgagagatcca,1.3492282453490891,3.0,0.0,intermediary
+501,caspofungin,single,1.0,FLVLSSRDP,tttttagttttatcttctagagatcca,-0.0803747741224991,1.0,1.0,WT-like
+502,caspofungin,single,1.0,FLVLSTRDP,tttttagttttatctacgagagatcca,0.2370079513854279,1.0,1.0,WT-like
+503,caspofungin,single,1.0,FLVLSVRDP,tttttagttttatctgtgagagatcca,0.057667374435333,1.0,1.0,WT-like
+504,caspofungin,single,1.0,FLVLSVRDP,tttttagttttatctgttagagatcca,-0.1791879106130822,1.0,1.0,WT-like
+505,caspofungin,single,1.0,FLVLSYRDP,tttttagttttatcttatagagatcca,0.2209778319450543,1.0,1.0,WT-like
+506,caspofungin,single,1.0,FLVLTLRDP,tttttagttttaacgttgagagatcca,1.8002751233966676,1.0,2.0,resistant
+507,caspofungin,single,1.0,FLVLTLRDP,tttttagttttaactttgagagatcca,1.5605015523337584,3.0,0.0,intermediary
+508,caspofungin,single,1.0,FLVLVLRDP,tttttagttttagtgttgagagatcca,1.3407213600860148,1.0,0.0,intermediary
+509,caspofungin,single,1.0,FLVLVLRDP,tttttagttttagttttgagagatcca,1.3192753558486212,1.0,0.0,intermediary
+510,caspofungin,single,1.0,FLVLWLRDP,tttttagttttatggttgagagatcca,1.3855887159144815,2.0,0.0,intermediary
+511,caspofungin,single,1.0,FLVLYLRDP,tttttagttttatatttgagagatcca,1.9212298315107768,1.0,2.0,resistant
+512,caspofungin,single,1.0,FLVMSLRDP,tttttagttatgtctttgagagatcca,-0.0700230775690848,1.0,1.0,WT-like
+513,caspofungin,single,1.0,FLVNSLRDP,tttttagttaattctttgagagatcca,1.1482467859738164,2.0,0.0,intermediary
+514,caspofungin,single,1.0,FLVPSLRDP,tttttagttccttctttgagagatcca,0.534726797228408,1.0,1.0,WT-like
+515,caspofungin,single,1.0,FLVQSLRDP,tttttagttcagtctttgagagatcca,-0.071856039766704,1.0,1.0,WT-like
+516,caspofungin,single,1.0,FLVRSLRDP,tttttagttaggtctttgagagatcca,1.445891717307084,2.0,0.0,intermediary
+517,caspofungin,single,1.0,FLVRSLRDP,tttttagttcgttctttgagagatcca,1.6361388394765106,1.0,0.0,intermediary
+518,caspofungin,single,1.0,FLVSSLRDP,tttttagttagttctttgagagatcca,2.0130866464811894,3.0,2.0,resistant
+519,caspofungin,single,1.0,FLVSSLRDP,tttttagtttcttctttgagagatcca,0.1369865160016261,1.0,1.0,WT-like
+520,caspofungin,single,1.0,FLVTSLRDP,tttttagttacgtctttgagagatcca,0.5485663882174476,1.0,1.0,WT-like
+521,caspofungin,single,1.0,FLVTSLRDP,tttttagttacttctttgagagatcca,-0.0749673190296822,1.0,1.0,WT-like
+522,caspofungin,single,1.0,FLVVSLRDP,tttttagttgtgtctttgagagatcca,0.7118648119390714,1.0,0.0,intermediary
+523,caspofungin,single,1.0,FLVWSLRDP,tttttagtttggtctttgagagatcca,0.8370780055675656,2.0,0.0,intermediary
+524,caspofungin,single,1.0,FLVYSLRDP,tttttagtttattctttgagagatcca,0.9577357066714304,1.0,0.0,intermediary
+525,caspofungin,single,1.0,FLWLSLRDP,tttttatggttatctttgagagatcca,1.5327608133428017,2.0,0.0,intermediary
+526,caspofungin,single,1.0,FLYLSLRDP,tttttatatttatctttgagagatcca,0.4899013970186452,1.0,1.0,WT-like
+527,caspofungin,single,1.0,FMVLSLRDP,tttatggttttatctttgagagatcca,0.2173759343892345,1.0,1.0,WT-like
+528,caspofungin,single,1.0,FPVLSLRDP,tttccggttttatctttgagagatcca,0.4845475949665734,1.0,1.0,WT-like
+529,caspofungin,single,1.0,FQVLSLRDP,tttcaggttttatctttgagagatcca,0.2484667804504485,1.0,1.0,WT-like
+530,caspofungin,single,1.0,FRVLSLRDP,tttagggttttatctttgagagatcca,1.7055074341602543,1.0,2.0,resistant
+531,caspofungin,single,1.0,FRVLSLRDP,tttcgggttttatctttgagagatcca,1.5092681953758065,2.0,0.0,intermediary
+532,caspofungin,single,1.0,FRVLSLRDP,tttcgtgttttatctttgagagatcca,1.7111991939361777,1.0,2.0,resistant
+533,caspofungin,single,1.0,FSVLSLRDP,tttagtgttttatctttgagagatcca,1.1227473585622452,1.0,0.0,intermediary
+534,caspofungin,single,1.0,FSVLSLRDP,ttttcggttttatctttgagagatcca,1.1395497286334282,1.0,0.0,intermediary
+535,caspofungin,single,1.0,FSVLSLRDP,ttttctgttttatctttgagagatcca,0.4271157511333407,1.0,1.0,WT-like
+536,caspofungin,single,1.0,FTVLSLRDP,tttacggttttatctttgagagatcca,1.3492282453490891,2.0,0.0,intermediary
+537,caspofungin,single,1.0,FTVLSLRDP,tttactgttttatctttgagagatcca,1.031540425565599,2.0,0.0,intermediary
+538,caspofungin,single,1.0,FVVLSLRDP,tttgtggttttatctttgagagatcca,0.1452784852681243,1.0,1.0,WT-like
+539,caspofungin,single,1.0,FVVLSLRDP,tttgttgttttatctttgagagatcca,1.1586746471160825,2.0,0.0,intermediary
+540,caspofungin,single,1.0,FWVLSLRDP,ttttgggttttatctttgagagatcca,1.1428286016892866,2.0,0.0,intermediary
+541,caspofungin,single,1.0,FYVLSLRDP,ttttatgttttatctttgagagatcca,0.3697962461443411,1.0,1.0,WT-like
+542,caspofungin,single,1.0,HLVLSLRDP,catttagttttatctttgagagatcca,1.3117841522483074,2.0,0.0,intermediary
+543,caspofungin,single,1.0,ILVLSLRDP,attttagttttatctttgagagatcca,1.6832083571381158,3.0,0.0,intermediary
+544,caspofungin,single,1.0,KLVLSLRDP,aagttagttttatctttgagagatcca,1.926378515530612,1.0,2.0,resistant
+545,caspofungin,single,1.0,LLVLSLRDP,ctgttagttttatctttgagagatcca,1.753911201743844,1.0,2.0,resistant
+546,caspofungin,single,1.0,LLVLSLRDP,cttttagttttatctttgagagatcca,1.774287194758929,1.0,2.0,resistant
+547,caspofungin,single,1.0,LLVLSLRDP,ttgttagttttatctttgagagatcca,1.735065554981609,1.0,2.0,resistant
+548,caspofungin,single,1.0,MLVLSLRDP,atgttagttttatctttgagagatcca,0.2696012112844557,1.0,1.0,WT-like
+549,caspofungin,single,1.0,NLVLSLRDP,aatttagttttatctttgagagatcca,1.9301473255584995,1.0,2.0,resistant
+550,caspofungin,single,1.0,PLVLSLRDP,ccgttagttttatctttgagagatcca,1.7585344598968795,1.0,2.0,resistant
+551,caspofungin,single,1.0,PLVLSLRDP,cctttagttttatctttgagagatcca,1.46199575125717,2.0,0.0,intermediary
+552,caspofungin,single,1.0,QLVLSLRDP,cagttagttttatctttgagagatcca,1.8990139818211045,1.0,2.0,resistant
+553,caspofungin,single,1.0,RLVLSLRDP,aggttagttttatctttgagagatcca,1.9342710758245896,1.0,2.0,resistant
+554,caspofungin,single,1.0,RLVLSLRDP,cggttagttttatctttgagagatcca,1.92616790886262,1.0,2.0,resistant
+555,caspofungin,single,1.0,RLVLSLRDP,cgtttagttttatctttgagagatcca,1.8994820776223984,1.0,2.0,resistant
+556,caspofungin,single,1.0,SLVLSLRDP,tcgttagttttatctttgagagatcca,0.7380649363782527,1.0,0.0,intermediary
+557,caspofungin,single,1.0,SLVLSLRDP,tctttagttttatctttgagagatcca,1.951817848631132,1.0,2.0,resistant
+558,caspofungin,single,1.0,VLVLSLRDP,gtgttagttttatctttgagagatcca,1.886210047977764,1.0,2.0,resistant
+559,caspofungin,single,1.0,VLVLSLRDP,gttttagttttatctttgagagatcca,1.892088174839498,1.0,2.0,resistant
+560,caspofungin,single,1.0,WLVLSLRDP,tggttagttttatctttgagagatcca,1.3117841522483074,2.0,0.0,intermediary
+561,caspofungin,single,1.0,YLVLSLRDP,tatttagttttatctttgagagatcca,1.870288998234552,1.0,2.0,resistant
+562,dox,WT,0.0,FLVLSLRDP,tttttagttttatctttgagagatcca,-0.0071604183916248,1.0,0.0,WT-like
+563,dox,ortho,0.0,FLVLSLRDP,tttttggttttgtctttgagagatcca,0.0116069008243795,1.0,0.0,WT-like
+564,dox,ortho,1.0,FLILSLRDP,tttttgattttgtctttgagagatcca,-0.0144166546728705,1.0,0.0,WT-like
+565,dox,ortho,1.0,FLTLSLRDP,tttttgactttgtctttgagagatcca,0.0031883080125026,1.0,0.0,WT-like
+566,dox,ortho,2.0,FLALSFRDP,tttttggctttgtcttttagagatcca,-0.0064585801092984,1.0,0.0,WT-like
+567,dox,ortho,2.0,FLALSIRDP,tttttggctttgtctattagagatcca,-0.055069675688956,1.0,1.0,slightly deleterious
+568,dox,ortho,2.0,FLSLSFRDP,tttttgtctttgtcttttagagatcca,0.0254341427898416,1.0,0.0,WT-like
+569,dox,ortho,2.0,FLTLSFRDP,tttttgactttgtcttttagagatcca,-0.0385080789136447,1.0,0.0,WT-like
+570,dox,ortho,2.0,FLTLSIRDP,tttttgactttgtctattagagatcca,0.0172072423663545,1.0,0.0,WT-like
+571,dox,ortho,2.0,FLTLSLKDP,tttttgactttgtctttgaaagatcca,-0.1359278927012928,1.0,1.0,slightly deleterious
+572,dox,ortho,2.0,FLTLSLRDA,tttttgactttgtctttgagagatgct,-0.0175001341228177,1.0,0.0,WT-like
+573,dox,ortho,2.0,FLTLSLVDP,tttttgactttgtctttggttgatcca,-0.0043295848532848,1.0,0.0,WT-like
+574,dox,ortho,2.0,FLTLSVRDP,tttttgactttgtctgttagagatcca,-0.0011361429575284,1.0,0.0,WT-like
+575,dox,ortho,2.0,FMALSLRDP,tttatggctttgtctttgagagatcca,0.0128334617990593,1.0,0.0,WT-like
+576,dox,ortho,2.0,YLILSLRDP,tatttgattttgtctttgagagatcca,0.0308396935440606,1.0,0.0,WT-like
+577,dox,ortho,2.0,YLTLSLRDP,tatttgactttgtctttgagagatcca,0.0431473874712019,1.0,0.0,WT-like
+578,dox,ortho,3.0,ALTLSFRDP,gctttgactttgtcttttagagatcca,-0.0171093456155854,1.0,0.0,WT-like
+579,dox,ortho,3.0,FLALSFKDP,tttttggctttgtcttttaaagatcca,0.0129242737032705,1.0,0.0,WT-like
+580,dox,ortho,3.0,FLALSFRDA,tttttggctttgtcttttagagatgct,0.0071975088885745,1.0,0.0,WT-like
+581,dox,ortho,3.0,FLIKSLIDP,tttttgattaaatctttgattgatcca,-0.0193644070381447,1.0,0.0,WT-like
+582,dox,ortho,3.0,FLTHSFRDP,tttttgactcattcttttagagatcca,0.0152419756659797,1.0,0.0,WT-like
+583,dox,ortho,3.0,FLTLSAKDP,tttttgactttgtctgctaaagatcca,-0.0067772987456641,1.0,0.0,WT-like
+584,dox,ortho,3.0,FLTLSFKDP,tttttgactttgtcttttaaagatcca,0.0206330151074079,1.0,0.0,WT-like
+585,dox,ortho,3.0,FLTLSFRDT,tttttgactttgtcttttagagatact,-0.0207556103113838,1.0,0.0,WT-like
+586,dox,ortho,3.0,FLTLSIKDP,tttttgactttgtctattaaagatcca,-0.0136105275891782,1.0,0.0,WT-like
+587,dox,ortho,3.0,YLALSFRDP,tatttggctttgtcttttagagatcca,5.930673542435192e-05,1.0,0.0,WT-like
+588,dox,ortho,3.0,YLILSFRDP,tatttgattttgtcttttagagatcca,-0.0221272069094158,1.0,0.0,WT-like
+589,dox,ortho,3.0,YLILSIRDP,tatttgattttgtctattagagatcca,-0.0396935412364514,1.0,0.0,WT-like
+590,dox,ortho,3.0,YLTLSFRDP,tatttgactttgtcttttagagatcca,0.0139712673205632,1.0,0.0,WT-like
+591,dox,ortho,3.0,YLTLSIRDP,tatttgactttgtctattagagatcca,0.0184018608326837,1.0,0.0,WT-like
+592,dox,ortho,4.0,FLALNIKDP,tttttggctttgaatattaaagatcca,0.0472856559224436,1.0,0.0,WT-like
+593,dox,ortho,4.0,FLALNLSDS,tttttggctttgaatttgtctgattct,-0.0001849578969889,1.0,0.0,WT-like
+594,dox,ortho,4.0,FLTLNLADS,tttttgactttgaatttggctgattct,-0.0052523704298475,1.0,0.0,WT-like
+595,dox,ortho,4.0,FLTLNLSDS,tttttgactttgaatttgtctgattct,-0.0013826789594426,1.0,0.0,WT-like
+596,dox,ortho,4.0,FLTLSFENP,tttttgactttgtcttttgaaaatcca,0.002126384956252,1.0,0.0,WT-like
+597,dox,ortho,4.0,SLTLSFRDV,tctttgactttgtcttttagagatgtt,0.0025505581236344,1.0,0.0,WT-like
+598,dox,ortho,4.0,YLALSFKDP,tatttggctttgtcttttaaagatcca,-0.0052829812378359,1.0,0.0,WT-like
+599,dox,ortho,4.0,YLTLSFKDP,tatttgactttgtcttttaaagatcca,0.0014972221185329,1.0,0.0,WT-like
+600,dox,ortho,4.0,YLTLSFRDA,tatttgactttgtcttttagagatgct,-0.0186356746560921,1.0,0.0,WT-like
+601,dox,ortho,4.0,YLTLSFRDV,tatttgactttgtcttttagagatgtt,-0.1207631340373243,1.0,1.0,slightly deleterious
+602,dox,ortho,4.0,YLTLSFSDP,tatttgactttgtctttttctgatcca,0.0188375992663299,1.0,0.0,WT-like
+603,dox,ortho,4.0,YLTLSIKDP,tatttgactttgtctattaaagatcca,0.0149006120297421,1.0,0.0,WT-like
+604,dox,ortho,4.0,YLTRSFRDP,tatttgactagatcttttagagatcca,0.0168771784528323,1.0,0.0,WT-like
+605,dox,ortho,5.0,ALALNIKDP,gctttggctttgaatattaaagatcca,0.0885528373583905,1.0,1.0,slightly deleterious
+606,dox,ortho,5.0,FLTSSFSSP,tttttgacttcttctttttcttctcca,-0.0147726417309318,1.0,0.0,WT-like
+607,dox,ortho,5.0,YLTLAFRDS,tatttgactttggcttttagagattct,-0.0137119553732675,1.0,0.0,WT-like
+608,dox,ortho,6.0,YLTRAFRDS,tatttgactagagcttttagagattct,-0.017731916771833,1.0,0.0,WT-like
+609,dox,ortho,7.0,AICSDLRED,gctatttgttctgatttgagagaagat,-0.2229152667702097,1.0,1.0,slightly deleterious
+610,dox,ortho,7.0,LQIRPLIAP,ttgcaaattagaccattgattgctcca,-0.0071634858703787,1.0,0.0,WT-like
+611,dox,ortho,7.0,LQVKPMIKP,ttgcaagttaaaccaatgattaaacca,-0.0055886156273199,1.0,0.0,WT-like
+612,dox,ortho,7.0,VLTLLVTQH,gttttgactttgttggttactcaacat,-0.3190203860681685,1.0,1.0,slightly deleterious
+613,dox,single,0.0,FLVLSLRDP,tttctggttttatctttgagagatcca,0.0137809303394451,1.0,0.0,WT-like
+614,dox,single,0.0,FLVLSLRDP,tttcttgttttatctttgagagatcca,-0.014614178651745,1.0,0.0,WT-like
+615,dox,single,0.0,FLVLSLRDP,tttttagtgttatctttgagagatcca,0.0239781227451784,1.0,0.0,WT-like
+616,dox,single,0.0,FLVLSLRDP,tttttagttctgtctttgagagatcca,-0.0040095604165037,1.0,0.0,WT-like
+617,dox,single,0.0,FLVLSLRDP,tttttagttctttctttgagagatcca,0.0013123506321222,1.0,0.0,WT-like
+618,dox,single,0.0,FLVLSLRDP,tttttagttttatcgttgagagatcca,0.0126908305330579,1.0,0.0,WT-like
+619,dox,single,0.0,FLVLSLRDP,tttttagttttatctctgagagatcca,0.0225618379123875,1.0,0.0,WT-like
+620,dox,single,0.0,FLVLSLRDP,tttttagttttatctcttagagatcca,-0.0826037305575741,1.0,1.0,slightly deleterious
+621,dox,single,0.0,FLVLSLRDP,tttttagttttatctttgagagatccg,-0.0087191817449609,1.0,0.0,WT-like
+622,dox,single,0.0,FLVLSLRDP,tttttagttttatctttgagagatcct,0.0,1.0,0.0,WT-like
+623,dox,single,0.0,FLVLSLRDP,tttttagttttatctttgcgggatcca,-0.0031829818132888,1.0,0.0,WT-like
+624,dox,single,0.0,FLVLSLRDP,tttttagttttatctttgcgtgatcca,-0.0288644252390099,1.0,0.0,WT-like
+625,dox,single,0.0,FLVLSLRDP,tttttagttttgtctttgagagatcca,0.0,1.0,0.0,WT-like
+626,dox,single,0.0,FLVLSLRDP,tttttggttttatctttgagagatcca,0.0220353991469977,1.0,0.0,WT-like
+627,dox,single,1.0,*LVLSLRDP,tagttagttttatctttgagagatcca,-1.309896313581337,1.0,2.0,deleterious
+628,dox,single,1.0,CLVLSLRDP,tgtttagttttatctttgagagatcca,0.0788577690209229,2.0,1.0,slightly deleterious
+629,dox,single,1.0,DLVLSLRDP,gatttagttttatctttgagagatcca,-0.3507135544235086,3.0,1.0,slightly deleterious
+630,dox,single,1.0,ELVLSLRDP,gagttagttttatctttgagagatcca,-0.2172267621713952,2.0,1.0,slightly deleterious
+631,dox,single,1.0,FAVLSLRDP,tttgcggttttatctttgagagatcca,-0.5654992161457244,2.0,1.0,slightly deleterious
+632,dox,single,1.0,FAVLSLRDP,tttgctgttttatctttgagagatcca,0.0157224511245237,1.0,0.0,WT-like
+633,dox,single,1.0,FCVLSLRDP,ttttgtgttttatctttgagagatcca,-0.0028172624542678,1.0,0.0,WT-like
+634,dox,single,1.0,FDVLSLRDP,tttgatgttttatctttgagagatcca,-0.4763551122235843,2.0,1.0,slightly deleterious
+635,dox,single,1.0,FEVLSLRDP,tttgaggttttatctttgagagatcca,0.0042874947839587,1.0,0.0,WT-like
+636,dox,single,1.0,FFVLSLRDP,ttttttgttttatctttgagagatcca,-0.0945504921579075,1.0,1.0,slightly deleterious
+637,dox,single,1.0,FGVLSLRDP,tttggggttttatctttgagagatcca,-0.0062114736711371,1.0,0.0,WT-like
+638,dox,single,1.0,FGVLSLRDP,tttggtgttttatctttgagagatcca,-0.0035641728298733,1.0,0.0,WT-like
+639,dox,single,1.0,FHVLSLRDP,tttcatgttttatctttgagagatcca,0.2632429419343598,2.0,1.0,slightly deleterious
+640,dox,single,1.0,FIVLSLRDP,tttattgttttatctttgagagatcca,-0.0684029966320656,1.0,1.0,slightly deleterious
+641,dox,single,1.0,FKVLSLRDP,tttaaggttttatctttgagagatcca,-1.2537951498992077,1.0,2.0,deleterious
+642,dox,single,1.0,FL*LSLRDP,tttttatagttatctttgagagatcca,-1.130247317693212,1.0,2.0,deleterious
+643,dox,single,1.0,FLALSLRDP,tttttagctttatctttgagagatcca,-0.7100835069233558,2.0,1.0,slightly deleterious
+644,dox,single,1.0,FLCLSLRDP,tttttatgtttatctttgagagatcca,-0.0456292083433838,1.0,0.0,WT-like
+645,dox,single,1.0,FLDLSLRDP,tttttagatttatctttgagagatcca,0.0334159629198421,1.0,0.0,WT-like
+646,dox,single,1.0,FLELSLRDP,tttttagagttatctttgagagatcca,0.0146057768433058,1.0,0.0,WT-like
+647,dox,single,1.0,FLFLSLRDP,tttttatttttatctttgagagatcca,-0.415951238810013,2.0,1.0,slightly deleterious
+648,dox,single,1.0,FLHLSLRDP,tttttacatttatctttgagagatcca,0.1336167289951201,2.0,1.0,slightly deleterious
+649,dox,single,1.0,FLILSLRDP,tttttaattttatctttgagagatcca,0.0039638368329532,1.0,0.0,WT-like
+650,dox,single,1.0,FLKLSLRDP,tttttaaagttatctttgagagatcca,-0.2773315641690844,1.0,1.0,slightly deleterious
+651,dox,single,1.0,FLLLSLRDP,tttttactgttatctttgagagatcca,-0.0070887042023781,1.0,0.0,WT-like
+652,dox,single,1.0,FLLLSLRDP,tttttacttttatctttgagagatcca,-0.4763551122235843,2.0,1.0,slightly deleterious
+653,dox,single,1.0,FLLLSLRDP,tttttattgttatctttgagagatcca,0.0011320459442695,1.0,0.0,WT-like
+654,dox,single,1.0,FLMLSLRDP,tttttaatgttatctttgagagatcca,0.0110824883837132,1.0,0.0,WT-like
+655,dox,single,1.0,FLNLSLRDP,tttttaaatttatctttgagagatcca,0.0086621612283534,1.0,0.0,WT-like
+656,dox,single,1.0,FLPLSLRDP,tttttaccgttatctttgagagatcca,-0.0172441710915987,1.0,0.0,WT-like
+657,dox,single,1.0,FLPLSLRDP,tttttacctttatctttgagagatcca,-0.1359278927012928,2.0,1.0,slightly deleterious
+658,dox,single,1.0,FLQLSLRDP,tttttacagttatctttgagagatcca,-0.0093675008595442,1.0,0.0,WT-like
+659,dox,single,1.0,FLRLSLRDP,tttttaaggttatctttgagagatcca,-0.3063589503780251,1.0,1.0,slightly deleterious
+660,dox,single,1.0,FLRLSLRDP,tttttacggttatctttgagagatcca,-0.0601634192161601,1.0,1.0,slightly deleterious
+661,dox,single,1.0,FLSLSLRDP,tttttaagtttatctttgagagatcca,0.0519017846753899,1.0,0.0,WT-like
+662,dox,single,1.0,FLSLSLRDP,tttttatcgttatctttgagagatcca,0.0077495204810831,1.0,0.0,WT-like
+663,dox,single,1.0,FLSLSLRDP,tttttatctttatctttgagagatcca,-0.0028730613800572,1.0,0.0,WT-like
+664,dox,single,1.0,FLTLSLRDP,tttttaactttatctttgagagatcca,-0.4740742489104964,2.0,1.0,slightly deleterious
+665,dox,single,1.0,FLV*SLRDP,tttttagtttagtctttgagagatcca,-1.0272340737439647,1.0,2.0,deleterious
+666,dox,single,1.0,FLVASLRDP,tttttagttgcgtctttgagagatcca,-0.3095782203543963,2.0,1.0,slightly deleterious
+667,dox,single,1.0,FLVDSLRDP,tttttagttgattctttgagagatcca,0.0065960759575136,1.0,0.0,WT-like
+668,dox,single,1.0,FLVFSLRDP,tttttagttttttctttgagagatcca,-0.3093361538801233,2.0,1.0,slightly deleterious
+669,dox,single,1.0,FLVISLRDP,tttttagttatttctttgagagatcca,-0.0259875103221661,1.0,0.0,WT-like
+670,dox,single,1.0,FLVL*LRDP,tttttagttttatagttgagagatcca,0.1480033079082772,3.0,1.0,slightly deleterious
+671,dox,single,1.0,FLVLALRDP,tttttagttttagcgttgagagatcca,0.0516542088362303,1.0,0.0,WT-like
+672,dox,single,1.0,FLVLCLRDP,tttttagttttatgtttgagagatcca,-0.8645490351246304,2.0,2.0,deleterious
+673,dox,single,1.0,FLVLELRDP,tttttagttttagagttgagagatcca,0.1266244723996776,2.0,1.0,slightly deleterious
+674,dox,single,1.0,FLVLFLRDP,tttttagttttatttttgagagatcca,-0.0087626452088438,1.0,0.0,WT-like
+675,dox,single,1.0,FLVLGLRDP,tttttagttttagggttgagagatcca,-0.0025168990784304,1.0,0.0,WT-like
+676,dox,single,1.0,FLVLHLRDP,tttttagttttacatttgagagatcca,-0.0879807456796381,2.0,1.0,slightly deleterious
+677,dox,single,1.0,FLVLILRDP,tttttagttttaattttgagagatcca,-0.0369542481668642,1.0,0.0,WT-like
+678,dox,single,1.0,FLVLKLRDP,tttttagttttaaagttgagagatcca,0.0568390361057378,1.0,1.0,slightly deleterious
+679,dox,single,1.0,FLVLLLRDP,tttttagttttactgttgagagatcca,0.0056174792506076,1.0,0.0,WT-like
+680,dox,single,1.0,FLVLLLRDP,tttttagttttacttttgagagatcca,-0.0383203580810899,1.0,0.0,WT-like
+681,dox,single,1.0,FLVLLLRDP,tttttagttttattgttgagagatcca,0.0049959905472213,1.0,0.0,WT-like
+682,dox,single,1.0,FLVLMLRDP,tttttagttttaatgttgagagatcca,0.0071150841134366,1.0,0.0,WT-like
+683,dox,single,1.0,FLVLNLRDP,tttttagttttaaatttgagagatcca,-0.0246017607402929,1.0,0.0,WT-like
+684,dox,single,1.0,FLVLPLRDP,tttttagttttaccgttgagagatcca,-0.0794318737885716,2.0,1.0,slightly deleterious
+685,dox,single,1.0,FLVLPLRDP,tttttagttttacctttgagagatcca,-0.0001098941444056,1.0,0.0,WT-like
+686,dox,single,1.0,FLVLQLRDP,tttttagttttacagttgagagatcca,0.0120590219732058,1.0,0.0,WT-like
+687,dox,single,1.0,FLVLRLRDP,tttttagttttaaggttgagagatcca,0.0407233978441039,1.0,0.0,WT-like
+688,dox,single,1.0,FLVLRLRDP,tttttagttttacggttgagagatcca,0.0129150515053005,1.0,0.0,WT-like
+689,dox,single,1.0,FLVLRLRDP,tttttagttttacgtttgagagatcca,0.0298500939834762,1.0,0.0,WT-like
+690,dox,single,1.0,FLVLS*RDP,tttttagttttatcttagagagatcca,-1.2598585963986733,1.0,2.0,deleterious
+691,dox,single,1.0,FLVLSARDP,tttttagttttatctgcgagagatcca,0.0037021633637903,1.0,0.0,WT-like
+692,dox,single,1.0,FLVLSARDP,tttttagttttatctgctagagatcca,-0.0150379074892219,1.0,0.0,WT-like
+693,dox,single,1.0,FLVLSDRDP,tttttagttttatctgatagagatcca,0.008308574958721,1.0,0.0,WT-like
+694,dox,single,1.0,FLVLSFRDP,tttttagttttatcttttagagatcca,-0.098130727628693,1.0,1.0,slightly deleterious
+695,dox,single,1.0,FLVLSHRDP,tttttagttttatctcatagagatcca,0.0134821552869926,1.0,0.0,WT-like
+696,dox,single,1.0,FLVLSIRDP,tttttagttttatctattagagatcca,0.010805064315145,1.0,0.0,WT-like
+697,dox,single,1.0,FLVLSL*DP,tttttagttttatctttgtaggatcca,-1.0748545915327223,1.0,2.0,deleterious
+698,dox,single,1.0,FLVLSLCDP,tttttagttttatctttgtgtgatcca,-0.0075972726249726,1.0,0.0,WT-like
+699,dox,single,1.0,FLVLSLGDP,tttttagttttatctttgggggatcca,-0.0272344957687867,1.0,0.0,WT-like
+700,dox,single,1.0,FLVLSLGDP,tttttagttttatctttgggtgatcca,-0.2531031180949708,3.0,1.0,slightly deleterious
+701,dox,single,1.0,FLVLSLHDP,tttttagttttatctttgcatgatcca,-0.0209652515711463,1.0,0.0,WT-like
+702,dox,single,1.0,FLVLSLIDP,tttttagttttatctttgattgatcca,-0.1238432928259392,2.0,1.0,slightly deleterious
+703,dox,single,1.0,FLVLSLKDP,tttttagttttatctttgaaggatcca,-0.0421587706048649,1.0,0.0,WT-like
+704,dox,single,1.0,FLVLSLLDP,tttttagttttatctttgctggatcca,-0.0048086117511587,1.0,0.0,WT-like
+705,dox,single,1.0,FLVLSLLDP,tttttagttttatctttgcttgatcca,-0.1799520074151567,3.0,1.0,slightly deleterious
+706,dox,single,1.0,FLVLSLLDP,tttttagttttatctttgttggatcca,-0.2280372844100209,1.0,1.0,slightly deleterious
+707,dox,single,1.0,FLVLSLMDP,tttttagttttatctttgatggatcca,0.0052177635429466,1.0,0.0,WT-like
+708,dox,single,1.0,FLVLSLNDP,tttttagttttatctttgaatgatcca,-0.0019605931140661,1.0,0.0,WT-like
+709,dox,single,1.0,FLVLSLPDP,tttttagttttatctttgcctgatcca,-0.0194723494257694,1.0,0.0,WT-like
+710,dox,single,1.0,FLVLSLQDP,tttttagttttatctttgcaggatcca,0.033131643904806,1.0,0.0,WT-like
+711,dox,single,1.0,FLVLSLR*P,tttttagttttatctttgagatagcca,-1.287939380788948,1.0,2.0,deleterious
+712,dox,single,1.0,FLVLSLRAP,tttttagttttatctttgagagctcca,-0.5590738548808502,1.0,1.0,slightly deleterious
+713,dox,single,1.0,FLVLSLRCP,tttttagttttatctttgagatgtcca,-0.0582454445010068,1.0,1.0,slightly deleterious
+714,dox,single,1.0,FLVLSLRD*,tttttagttttatctttgagagattag,-1.2673065719073249,1.0,2.0,deleterious
+715,dox,single,1.0,FLVLSLRDC,tttttagttttatctttgagagattgt,-0.2531031180949708,3.0,1.0,slightly deleterious
+716,dox,single,1.0,FLVLSLRDD,tttttagttttatctttgagagatgat,-0.0088267457257641,1.0,0.0,WT-like
+717,dox,single,1.0,FLVLSLRDE,tttttagttttatctttgagagatgag,-0.2531031180949708,3.0,1.0,slightly deleterious
+718,dox,single,1.0,FLVLSLRDF,tttttagttttatctttgagagatttt,0.0070815388153703,1.0,0.0,WT-like
+719,dox,single,1.0,FLVLSLRDG,tttttagttttatctttgagagatggg,-0.1089520379997484,1.0,1.0,slightly deleterious
+720,dox,single,1.0,FLVLSLRDG,tttttagttttatctttgagagatggt,-0.0197715156063464,1.0,0.0,WT-like
+721,dox,single,1.0,FLVLSLRDH,tttttagttttatctttgagagatcat,-0.60199667002366,2.0,1.0,slightly deleterious
+722,dox,single,1.0,FLVLSLRDI,tttttagttttatctttgagagatatt,0.0033596048397014,1.0,0.0,WT-like
+723,dox,single,1.0,FLVLSLRDK,tttttagttttatctttgagagataag,-0.0847125163750335,1.0,1.0,slightly deleterious
+724,dox,single,1.0,FLVLSLRDL,tttttagttttatctttgagagatctg,0.0036150637780989,1.0,0.0,WT-like
+725,dox,single,1.0,FLVLSLRDL,tttttagttttatctttgagagatctt,-0.0879807456796381,3.0,1.0,slightly deleterious
+726,dox,single,1.0,FLVLSLRDL,tttttagttttatctttgagagatttg,0.0142282068079386,1.0,0.0,WT-like
+727,dox,single,1.0,FLVLSLRDM,tttttagttttatctttgagagatatg,0.0115262945496234,1.0,0.0,WT-like
+728,dox,single,1.0,FLVLSLRDN,tttttagttttatctttgagagataat,-0.0121333901027675,1.0,0.0,WT-like
+729,dox,single,1.0,FLVLSLRDQ,tttttagttttatctttgagagatcag,-0.0166422928257426,3.0,0.0,WT-like
+730,dox,single,1.0,FLVLSLRDR,tttttagttttatctttgagagatagg,-0.0250152786081994,1.0,0.0,WT-like
+731,dox,single,1.0,FLVLSLRDR,tttttagttttatctttgagagatcgg,-0.3507135544235086,1.0,1.0,slightly deleterious
+732,dox,single,1.0,FLVLSLRDR,tttttagttttatctttgagagatcgt,-0.3507135544235086,2.0,1.0,slightly deleterious
+733,dox,single,1.0,FLVLSLRDS,tttttagttttatctttgagagatagt,-0.3095782203543963,3.0,1.0,slightly deleterious
+734,dox,single,1.0,FLVLSLRDS,tttttagttttatctttgagagattcg,-0.0025010283520259,1.0,0.0,WT-like
+735,dox,single,1.0,FLVLSLRDT,tttttagttttatctttgagagatacg,-0.019842904287924,1.0,0.0,WT-like
+736,dox,single,1.0,FLVLSLRDT,tttttagttttatctttgagagatact,3.151621935990837e-05,1.0,0.0,WT-like
+737,dox,single,1.0,FLVLSLRDV,tttttagttttatctttgagagatgtg,0.0340621869503351,1.0,0.0,WT-like
+738,dox,single,1.0,FLVLSLRDV,tttttagttttatctttgagagatgtt,0.02091923270989,1.0,0.0,WT-like
+739,dox,single,1.0,FLVLSLRDY,tttttagttttatctttgagagattat,0.0333411671746453,2.0,0.0,WT-like
+740,dox,single,1.0,FLVLSLREP,tttttagttttatctttgagagagcca,-0.0019452639346016,1.0,0.0,WT-like
+741,dox,single,1.0,FLVLSLRFP,tttttagttttatctttgagatttcca,-0.0372558143508526,1.0,0.0,WT-like
+742,dox,single,1.0,FLVLSLRGP,tttttagttttatctttgagaggtcca,-0.1559264577360786,1.0,1.0,slightly deleterious
+743,dox,single,1.0,FLVLSLRHP,tttttagttttatctttgagacatcca,-0.0322559622170363,1.0,0.0,WT-like
+744,dox,single,1.0,FLVLSLRIP,tttttagttttatctttgagaattcca,-0.3448144236414648,2.0,1.0,slightly deleterious
+745,dox,single,1.0,FLVLSLRKP,tttttagttttatctttgagaaagcca,-0.2531031180949708,2.0,1.0,slightly deleterious
+746,dox,single,1.0,FLVLSLRLP,tttttagttttatctttgagactgcca,0.0054071447753381,1.0,0.0,WT-like
+747,dox,single,1.0,FLVLSLRLP,tttttagttttatctttgagacttcca,0.011059050621485,1.0,0.0,WT-like
+748,dox,single,1.0,FLVLSLRLP,tttttagttttatctttgagattgcca,0.0074181502179723,1.0,0.0,WT-like
+749,dox,single,1.0,FLVLSLRMP,tttttagttttatctttgagaatgcca,0.0407233978441039,1.0,0.0,WT-like
+750,dox,single,1.0,FLVLSLRNP,tttttagttttatctttgagaaatcca,0.000256372158854,1.0,0.0,WT-like
+751,dox,single,1.0,FLVLSLRPP,tttttagttttatctttgagaccgcca,0.0279021751484121,1.0,0.0,WT-like
+752,dox,single,1.0,FLVLSLRPP,tttttagttttatctttgagacctcca,0.0208205901368233,1.0,0.0,WT-like
+753,dox,single,1.0,FLVLSLRQP,tttttagttttatctttgagacagcca,0.0187159989484283,1.0,0.0,WT-like
+754,dox,single,1.0,FLVLSLRRP,tttttagttttatctttgagaaggcca,0.0169200555303684,1.0,0.0,WT-like
+755,dox,single,1.0,FLVLSLRRP,tttttagttttatctttgagacgtcca,0.0423603151429873,1.0,0.0,WT-like
+756,dox,single,1.0,FLVLSLRSP,tttttagttttatctttgagaagtcca,-0.1238432928259392,2.0,1.0,slightly deleterious
+757,dox,single,1.0,FLVLSLRSP,tttttagttttatctttgagatcgcca,0.0288374541887089,1.0,0.0,WT-like
+758,dox,single,1.0,FLVLSLRSP,tttttagttttatctttgagatctcca,-0.3095782203543963,2.0,1.0,slightly deleterious
+759,dox,single,1.0,FLVLSLRTP,tttttagttttatctttgagaacgcca,-0.1949801079944875,2.0,1.0,slightly deleterious
+760,dox,single,1.0,FLVLSLRTP,tttttagttttatctttgagaactcca,0.019316646030113,1.0,0.0,WT-like
+761,dox,single,1.0,FLVLSLRVP,tttttagttttatctttgagagtgcca,0.0125013110095745,1.0,0.0,WT-like
+762,dox,single,1.0,FLVLSLRVP,tttttagttttatctttgagagttcca,0.00690232767844,1.0,0.0,WT-like
+763,dox,single,1.0,FLVLSLRWP,tttttagttttatctttgagatggcca,0.0533746323307679,1.0,0.0,WT-like
+764,dox,single,1.0,FLVLSLRYP,tttttagttttatctttgagatatcca,0.0042972644920666,1.0,0.0,WT-like
+765,dox,single,1.0,FLVLSLSDP,tttttagttttatctttgagtgatcca,-0.5241218156023391,2.0,1.0,slightly deleterious
+766,dox,single,1.0,FLVLSLSDP,tttttagttttatctttgtcggatcca,0.0102354896873126,1.0,0.0,WT-like
+767,dox,single,1.0,FLVLSLSDP,tttttagttttatctttgtctgatcca,-0.1238432928259392,3.0,1.0,slightly deleterious
+768,dox,single,1.0,FLVLSLTDP,tttttagttttatctttgacggatcca,-0.0278088678341505,1.0,0.0,WT-like
+769,dox,single,1.0,FLVLSLTDP,tttttagttttatctttgactgatcca,-0.0328395882066018,1.0,0.0,WT-like
+770,dox,single,1.0,FLVLSLVDP,tttttagttttatctttggtggatcca,-0.0390119287540307,1.0,0.0,WT-like
+771,dox,single,1.0,FLVLSLWDP,tttttagttttatctttgtgggatcca,-0.0403650739358811,1.0,0.0,WT-like
+772,dox,single,1.0,FLVLSMRDP,tttttagttttatctatgagagatcca,-0.0325942336395761,1.0,0.0,WT-like
+773,dox,single,1.0,FLVLSNRDP,tttttagttttatctaatagagatcca,0.0051384439599106,1.0,0.0,WT-like
+774,dox,single,1.0,FLVLSPRDP,tttttagttttatctccgagagatcca,-0.0508880899607081,1.0,0.0,WT-like
+775,dox,single,1.0,FLVLSPRDP,tttttagttttatctcctagagatcca,-0.0879807456796381,1.0,1.0,slightly deleterious
+776,dox,single,1.0,FLVLSQRDP,tttttagttttatctcagagagatcca,-0.0321319872794453,2.0,0.0,WT-like
+777,dox,single,1.0,FLVLSRRDP,tttttagttttatctaggagagatcca,-0.0109354597195454,1.0,0.0,WT-like
+778,dox,single,1.0,FLVLSRRDP,tttttagttttatctcggagagatcca,-0.0113089379971228,1.0,0.0,WT-like
+779,dox,single,1.0,FLVLSRRDP,tttttagttttatctcgtagagatcca,0.100338164166388,1.0,1.0,slightly deleterious
+780,dox,single,1.0,FLVLSSRDP,tttttagttttatctagtagagatcca,-0.2155545983724333,2.0,1.0,slightly deleterious
+781,dox,single,1.0,FLVLSSRDP,tttttagttttatcttcgagagatcca,-0.2531031180949708,3.0,1.0,slightly deleterious
+782,dox,single,1.0,FLVLSSRDP,tttttagttttatcttctagagatcca,0.0105381376131329,1.0,0.0,WT-like
+783,dox,single,1.0,FLVLSTRDP,tttttagttttatctacgagagatcca,-0.0067866587095813,1.0,0.0,WT-like
+784,dox,single,1.0,FLVLSVRDP,tttttagttttatctgtgagagatcca,-0.0024164634585857,1.0,0.0,WT-like
+785,dox,single,1.0,FLVLSVRDP,tttttagttttatctgttagagatcca,-0.0241774247076062,1.0,0.0,WT-like
+786,dox,single,1.0,FLVLSYRDP,tttttagttttatcttatagagatcca,-0.0078142059762035,1.0,0.0,WT-like
+787,dox,single,1.0,FLVLTLRDP,tttttagttttaacgttgagagatcca,-0.0815699593125734,1.0,1.0,slightly deleterious
+788,dox,single,1.0,FLVLTLRDP,tttttagttttaactttgagagatcca,-0.3448144236414648,3.0,1.0,slightly deleterious
+789,dox,single,1.0,FLVLVLRDP,tttttagttttagtgttgagagatcca,-0.0278128931895125,1.0,0.0,WT-like
+790,dox,single,1.0,FLVLVLRDP,tttttagttttagttttgagagatcca,-0.0185358088890521,1.0,0.0,WT-like
+791,dox,single,1.0,FLVLWLRDP,tttttagttttatggttgagagatcca,-0.1593191985335335,2.0,1.0,slightly deleterious
+792,dox,single,1.0,FLVLYLRDP,tttttagttttatatttgagagatcca,-0.0019409635080803,1.0,0.0,WT-like
+793,dox,single,1.0,FLVMSLRDP,tttttagttatgtctttgagagatcca,0.0304679331813114,1.0,0.0,WT-like
+794,dox,single,1.0,FLVNSLRDP,tttttagttaattctttgagagatcca,-0.419859093310863,2.0,1.0,slightly deleterious
+795,dox,single,1.0,FLVPSLRDP,tttttagttccttctttgagagatcca,-0.1271985771673263,1.0,1.0,slightly deleterious
+796,dox,single,1.0,FLVQSLRDP,tttttagttcagtctttgagagatcca,0.0248153931786587,1.0,0.0,WT-like
+797,dox,single,1.0,FLVRSLRDP,tttttagttaggtctttgagagatcca,-0.1238432928259392,2.0,1.0,slightly deleterious
+798,dox,single,1.0,FLVRSLRDP,tttttagttcgttctttgagagatcca,-0.001006421836527,1.0,0.0,WT-like
+799,dox,single,1.0,FLVSSLRDP,tttttagttagttctttgagagatcca,0.0788577690209229,3.0,1.0,slightly deleterious
+800,dox,single,1.0,FLVSSLRDP,tttttagtttcttctttgagagatcca,-0.0117695314650908,1.0,0.0,WT-like
+801,dox,single,1.0,FLVTSLRDP,tttttagttacgtctttgagagatcca,-0.0651354879833928,1.0,1.0,slightly deleterious
+802,dox,single,1.0,FLVTSLRDP,tttttagttacttctttgagagatcca,-0.0121243641768482,1.0,0.0,WT-like
+803,dox,single,1.0,FLVVSLRDP,tttttagttgtgtctttgagagatcca,-0.9307292862253967,1.0,2.0,deleterious
+804,dox,single,1.0,FLVWSLRDP,tttttagtttggtctttgagagatcca,-0.4763551122235843,2.0,1.0,slightly deleterious
+805,dox,single,1.0,FLVYSLRDP,tttttagtttattctttgagagatcca,0.0481524503065057,1.0,0.0,WT-like
+806,dox,single,1.0,FLWLSLRDP,tttttatggttatctttgagagatcca,0.3538065955205832,2.0,1.0,slightly deleterious
+807,dox,single,1.0,FLYLSLRDP,tttttatatttatctttgagagatcca,-0.8243052049950536,1.0,2.0,deleterious
+808,dox,single,1.0,FMVLSLRDP,tttatggttttatctttgagagatcca,-0.0004453986090812,1.0,0.0,WT-like
+809,dox,single,1.0,FPVLSLRDP,tttccggttttatctttgagagatcca,-0.0973017584599883,1.0,1.0,slightly deleterious
+810,dox,single,1.0,FQVLSLRDP,tttcaggttttatctttgagagatcca,-0.0081026034603391,1.0,0.0,WT-like
+811,dox,single,1.0,FRVLSLRDP,tttagggttttatctttgagagatcca,-0.0255451009987097,1.0,0.0,WT-like
+812,dox,single,1.0,FRVLSLRDP,tttcgggttttatctttgagagatcca,-0.1238432928259392,2.0,1.0,slightly deleterious
+813,dox,single,1.0,FRVLSLRDP,tttcgtgttttatctttgagagatcca,-0.0469685102207009,1.0,0.0,WT-like
+814,dox,single,1.0,FSVLSLRDP,tttagtgttttatctttgagagatcca,0.026443981547999,1.0,0.0,WT-like
+815,dox,single,1.0,FSVLSLRDP,ttttcggttttatctttgagagatcca,0.0012645135611844,1.0,0.0,WT-like
+816,dox,single,1.0,FSVLSLRDP,ttttctgttttatctttgagagatcca,-0.5090031972330031,1.0,1.0,slightly deleterious
+817,dox,single,1.0,FTVLSLRDP,tttacggttttatctttgagagatcca,-0.3507135544235086,2.0,1.0,slightly deleterious
+818,dox,single,1.0,FTVLSLRDP,tttactgttttatctttgagagatcca,-0.3022454229224885,2.0,1.0,slightly deleterious
+819,dox,single,1.0,FVVLSLRDP,tttgtggttttatctttgagagatcca,-0.0454485638533288,1.0,0.0,WT-like
+820,dox,single,1.0,FVVLSLRDP,tttgttgttttatctttgagagatcca,-0.1462685057649822,2.0,1.0,slightly deleterious
+821,dox,single,1.0,FWVLSLRDP,ttttgggttttatctttgagagatcca,-0.2050734315886472,2.0,1.0,slightly deleterious
+822,dox,single,1.0,FYVLSLRDP,ttttatgttttatctttgagagatcca,-0.1295211049655415,1.0,1.0,slightly deleterious
+823,dox,single,1.0,HLVLSLRDP,catttagttttatctttgagagatcca,-0.2615694505013685,2.0,1.0,slightly deleterious
+824,dox,single,1.0,ILVLSLRDP,attttagttttatctttgagagatcca,-0.1238432928259392,3.0,1.0,slightly deleterious
+825,dox,single,1.0,KLVLSLRDP,aagttagttttatctttgagagatcca,0.0114816807017496,1.0,0.0,WT-like
+826,dox,single,1.0,LLVLSLRDP,ctgttagttttatctttgagagatcca,0.0087168598864746,1.0,0.0,WT-like
+827,dox,single,1.0,LLVLSLRDP,cttttagttttatctttgagagatcca,-0.0225535350136297,1.0,0.0,WT-like
+828,dox,single,1.0,LLVLSLRDP,ttgttagttttatctttgagagatcca,-0.0039151359747396,1.0,0.0,WT-like
+829,dox,single,1.0,MLVLSLRDP,atgttagttttatctttgagagatcca,0.0024133624209501,1.0,0.0,WT-like
+830,dox,single,1.0,NLVLSLRDP,aatttagttttatctttgagagatcca,-0.0156574901826474,1.0,0.0,WT-like
+831,dox,single,1.0,PLVLSLRDP,ccgttagttttatctttgagagatcca,-0.0654963409138707,1.0,1.0,slightly deleterious
+832,dox,single,1.0,PLVLSLRDP,cctttagttttatctttgagagatcca,-0.603334074179528,2.0,1.0,slightly deleterious
+833,dox,single,1.0,QLVLSLRDP,cagttagttttatctttgagagatcca,0.0093734796604489,1.0,0.0,WT-like
+834,dox,single,1.0,RLVLSLRDP,aggttagttttatctttgagagatcca,-0.0148546036692374,1.0,0.0,WT-like
+835,dox,single,1.0,RLVLSLRDP,cggttagttttatctttgagagatcca,0.0012989474765837,1.0,0.0,WT-like
+836,dox,single,1.0,RLVLSLRDP,cgtttagttttatctttgagagatcca,-0.0164895853689314,1.0,0.0,WT-like
+837,dox,single,1.0,SLVLSLRDP,tcgttagttttatctttgagagatcca,-0.1468016473060232,1.0,1.0,slightly deleterious
+838,dox,single,1.0,SLVLSLRDP,tctttagttttatctttgagagatcca,0.0314973919096108,1.0,0.0,WT-like
+839,dox,single,1.0,VLVLSLRDP,gtgttagttttatctttgagagatcca,-0.027255304431988,1.0,0.0,WT-like
+840,dox,single,1.0,VLVLSLRDP,gttttagttttatctttgagagatcca,-0.0529423302866762,1.0,0.0,WT-like
+841,dox,single,1.0,WLVLSLRDP,tggttagttttatctttgagagatcca,-0.5241218156023391,2.0,1.0,slightly deleterious
+842,dox,single,1.0,YLVLSLRDP,tatttagttttatctttgagagatcca,-0.0594190235041614,1.0,1.0,slightly deleterious
+843,micafungin,WT,0.0,FLVLSLRDP,tttttagttttatctttgagagatcca,0.3829757020852691,1.0,1.0,WT-like
+844,micafungin,ortho,0.0,FLVLSLRDP,tttttggttttgtctttgagagatcca,0.344795876969056,1.0,1.0,WT-like
+845,micafungin,ortho,1.0,FLILSLRDP,tttttgattttgtctttgagagatcca,0.1498376765327445,1.0,1.0,WT-like
+846,micafungin,ortho,1.0,FLTLSLRDP,tttttgactttgtctttgagagatcca,-0.0252150401482986,1.0,1.0,WT-like
+847,micafungin,ortho,2.0,FLALSFRDP,tttttggctttgtcttttagagatcca,0.2255503518635744,1.0,1.0,WT-like
+848,micafungin,ortho,2.0,FLALSIRDP,tttttggctttgtctattagagatcca,-0.4174151038347686,1.0,1.0,WT-like
+849,micafungin,ortho,2.0,FLSLSFRDP,tttttgtctttgtcttttagagatcca,1.562976115015994,1.0,0.0,intermediary
+850,micafungin,ortho,2.0,FLTLSFRDP,tttttgactttgtcttttagagatcca,0.291870083948142,1.0,1.0,WT-like
+851,micafungin,ortho,2.0,FLTLSIRDP,tttttgactttgtctattagagatcca,0.1349092700051799,1.0,1.0,WT-like
+852,micafungin,ortho,2.0,FLTLSLKDP,tttttgactttgtctttgaaagatcca,0.4355955211233466,1.0,1.0,WT-like
+853,micafungin,ortho,2.0,FLTLSLRDA,tttttgactttgtctttgagagatgct,1.7071681723720158,1.0,0.0,intermediary
+854,micafungin,ortho,2.0,FLTLSLVDP,tttttgactttgtctttggttgatcca,0.5446858082855299,1.0,1.0,WT-like
+855,micafungin,ortho,2.0,FLTLSVRDP,tttttgactttgtctgttagagatcca,0.1481228413987878,1.0,1.0,WT-like
+856,micafungin,ortho,2.0,FMALSLRDP,tttatggctttgtctttgagagatcca,0.0267020251253855,1.0,1.0,WT-like
+857,micafungin,ortho,2.0,YLILSLRDP,tatttgattttgtctttgagagatcca,1.4305872480787063,1.0,0.0,intermediary
+858,micafungin,ortho,2.0,YLTLSLRDP,tatttgactttgtctttgagagatcca,1.7720967860605013,1.0,0.0,intermediary
+859,micafungin,ortho,3.0,ALTLSFRDP,gctttgactttgtcttttagagatcca,2.095755073446651,1.0,2.0,resistant
+860,micafungin,ortho,3.0,FLALSFKDP,tttttggctttgtcttttaaagatcca,-0.0750267111505615,1.0,1.0,WT-like
+861,micafungin,ortho,3.0,FLALSFRDA,tttttggctttgtcttttagagatgct,2.08820372898112,1.0,2.0,resistant
+862,micafungin,ortho,3.0,FLIKSLIDP,tttttgattaaatctttgattgatcca,0.0112079081788025,1.0,1.0,WT-like
+863,micafungin,ortho,3.0,FLTHSFRDP,tttttgactcattcttttagagatcca,2.119549351474239,1.0,2.0,resistant
+864,micafungin,ortho,3.0,FLTLSAKDP,tttttgactttgtctgctaaagatcca,-0.1308184814190245,1.0,1.0,WT-like
+865,micafungin,ortho,3.0,FLTLSFKDP,tttttgactttgtcttttaaagatcca,0.2848275742260331,1.0,1.0,WT-like
+866,micafungin,ortho,3.0,FLTLSFRDT,tttttgactttgtcttttagagatact,0.3933201395063903,1.0,1.0,WT-like
+867,micafungin,ortho,3.0,FLTLSIKDP,tttttgactttgtctattaaagatcca,-0.2276919608817542,1.0,1.0,WT-like
+868,micafungin,ortho,3.0,YLALSFRDP,tatttggctttgtcttttagagatcca,2.0747087143330365,1.0,2.0,resistant
+869,micafungin,ortho,3.0,YLILSFRDP,tatttgattttgtcttttagagatcca,2.0302120837973376,1.0,2.0,resistant
+870,micafungin,ortho,3.0,YLILSIRDP,tatttgattttgtctattagagatcca,1.76457527062622,1.0,0.0,intermediary
+871,micafungin,ortho,3.0,YLTLSFRDP,tatttgactttgtcttttagagatcca,2.067014498743569,1.0,2.0,resistant
+872,micafungin,ortho,3.0,YLTLSIRDP,tatttgactttgtctattagagatcca,1.7876986354604212,1.0,0.0,intermediary
+873,micafungin,ortho,4.0,FLALNIKDP,tttttggctttgaatattaaagatcca,0.2190888601272529,1.0,1.0,WT-like
+874,micafungin,ortho,4.0,FLALNLSDS,tttttggctttgaatttgtctgattct,2.1611647175435604,1.0,2.0,resistant
+875,micafungin,ortho,4.0,FLTLNLADS,tttttgactttgaatttggctgattct,2.165598601480319,1.0,2.0,resistant
+876,micafungin,ortho,4.0,FLTLNLSDS,tttttgactttgaatttgtctgattct,2.194021661970653,1.0,2.0,resistant
+877,micafungin,ortho,4.0,FLTLSFENP,tttttgactttgtcttttgaaaatcca,0.9580147984739972,1.0,0.0,intermediary
+878,micafungin,ortho,4.0,SLTLSFRDV,tctttgactttgtcttttagagatgtt,2.106363656535472,1.0,2.0,resistant
+879,micafungin,ortho,4.0,YLALSFKDP,tatttggctttgtcttttaaagatcca,2.052912285064499,1.0,2.0,resistant
+880,micafungin,ortho,4.0,YLTLSFKDP,tatttgactttgtcttttaaagatcca,2.062812588909817,1.0,2.0,resistant
+881,micafungin,ortho,4.0,YLTLSFRDA,tatttgactttgtcttttagagatgct,2.1073052962041063,1.0,2.0,resistant
+882,micafungin,ortho,4.0,YLTLSFRDV,tatttgactttgtcttttagagatgtt,1.9324168269030408,1.0,0.0,intermediary
+883,micafungin,ortho,4.0,YLTLSFSDP,tatttgactttgtctttttctgatcca,2.118173857623008,1.0,2.0,resistant
+884,micafungin,ortho,4.0,YLTLSIKDP,tatttgactttgtctattaaagatcca,1.7132155470470036,1.0,0.0,intermediary
+885,micafungin,ortho,4.0,YLTRSFRDP,tatttgactagatcttttagagatcca,2.1540652538499843,1.0,2.0,resistant
+886,micafungin,ortho,5.0,ALALNIKDP,gctttggctttgaatattaaagatcca,1.8836919699548864,1.0,0.0,intermediary
+887,micafungin,ortho,5.0,FLTSSFSSP,tttttgacttcttctttttcttctcca,2.075215536565425,1.0,2.0,resistant
+888,micafungin,ortho,5.0,YLTLAFRDS,tatttgactttggcttttagagattct,2.0869262558553405,1.0,2.0,resistant
+889,micafungin,ortho,6.0,YLTRAFRDS,tatttgactagagcttttagagattct,2.0575058209156016,1.0,2.0,resistant
+890,micafungin,ortho,7.0,AICSDLRED,gctatttgttctgatttgagagaagat,1.7091433202976738,1.0,0.0,intermediary
+891,micafungin,ortho,7.0,LQIRPLIAP,ttgcaaattagaccattgattgctcca,2.1426962329109704,1.0,2.0,resistant
+892,micafungin,ortho,7.0,LQVKPMIKP,ttgcaagttaaaccaatgattaaacca,2.13494616035801,1.0,2.0,resistant
+893,micafungin,ortho,7.0,VLTLLVTQH,gttttgactttgttggttactcaacat,1.6513801087778088,1.0,0.0,intermediary
+894,micafungin,single,0.0,FLVLSLRDP,tttctggttttatctttgagagatcca,-0.1666668692481534,1.0,1.0,WT-like
+895,micafungin,single,0.0,FLVLSLRDP,tttcttgttttatctttgagagatcca,-0.0352582010229989,1.0,1.0,WT-like
+896,micafungin,single,0.0,FLVLSLRDP,tttttagtgttatctttgagagatcca,-0.0354623451267801,1.0,1.0,WT-like
+897,micafungin,single,0.0,FLVLSLRDP,tttttagttctgtctttgagagatcca,0.1540841156508718,1.0,1.0,WT-like
+898,micafungin,single,0.0,FLVLSLRDP,tttttagttctttctttgagagatcca,0.0638150537505273,1.0,1.0,WT-like
+899,micafungin,single,0.0,FLVLSLRDP,tttttagttttatcgttgagagatcca,-0.180997551136377,1.0,1.0,WT-like
+900,micafungin,single,0.0,FLVLSLRDP,tttttagttttatctctgagagatcca,-0.0048440358727062,1.0,1.0,WT-like
+901,micafungin,single,0.0,FLVLSLRDP,tttttagttttatctcttagagatcca,0.1035131324270435,1.0,1.0,WT-like
+902,micafungin,single,0.0,FLVLSLRDP,tttttagttttatctttgagagatccg,-0.1257466472350232,1.0,1.0,WT-like
+903,micafungin,single,0.0,FLVLSLRDP,tttttagttttatctttgagagatcct,0.0,1.0,1.0,WT-like
+904,micafungin,single,0.0,FLVLSLRDP,tttttagttttatctttgcgggatcca,0.0609568657417967,1.0,1.0,WT-like
+905,micafungin,single,0.0,FLVLSLRDP,tttttagttttatctttgcgtgatcca,-0.0702199602982769,1.0,1.0,WT-like
+906,micafungin,single,0.0,FLVLSLRDP,tttttagttttgtctttgagagatcca,0.1409080840498313,1.0,1.0,WT-like
+907,micafungin,single,0.0,FLVLSLRDP,tttttggttttatctttgagagatcca,-0.0360502423031412,1.0,1.0,WT-like
+908,micafungin,single,1.0,*LVLSLRDP,tagttagttttatctttgagagatcca,0.1002764978790438,1.0,1.0,WT-like
+909,micafungin,single,1.0,CLVLSLRDP,tgtttagttttatctttgagagatcca,1.848834560742404,2.0,0.0,intermediary
+910,micafungin,single,1.0,DLVLSLRDP,gatttagttttatctttgagagatcca,1.3726551319575997,3.0,0.0,intermediary
+911,micafungin,single,1.0,ELVLSLRDP,gagttagttttatctttgagagatcca,0.9690537403838572,2.0,0.0,intermediary
+912,micafungin,single,1.0,FAVLSLRDP,tttgcggttttatctttgagagatcca,1.118443702911624,2.0,0.0,intermediary
+913,micafungin,single,1.0,FAVLSLRDP,tttgctgttttatctttgagagatcca,0.3156702651600465,1.0,1.0,WT-like
+914,micafungin,single,1.0,FCVLSLRDP,ttttgtgttttatctttgagagatcca,-0.1188741810750644,1.0,1.0,WT-like
+915,micafungin,single,1.0,FDVLSLRDP,tttgatgttttatctttgagagatcca,1.2487796441648735,2.0,0.0,intermediary
+916,micafungin,single,1.0,FEVLSLRDP,tttgaggttttatctttgagagatcca,0.3168336867086823,1.0,1.0,WT-like
+917,micafungin,single,1.0,FFVLSLRDP,ttttttgttttatctttgagagatcca,0.544785084219491,1.0,1.0,WT-like
+918,micafungin,single,1.0,FGVLSLRDP,tttggggttttatctttgagagatcca,1.0114734169226067,1.0,0.0,intermediary
+919,micafungin,single,1.0,FGVLSLRDP,tttggtgttttatctttgagagatcca,0.9782951531348116,1.0,0.0,intermediary
+920,micafungin,single,1.0,FHVLSLRDP,tttcatgttttatctttgagagatcca,1.881077990049551,2.0,0.0,intermediary
+921,micafungin,single,1.0,FIVLSLRDP,tttattgttttatctttgagagatcca,-0.1284009443877143,1.0,1.0,WT-like
+922,micafungin,single,1.0,FKVLSLRDP,tttaaggttttatctttgagagatcca,-0.0137481067574332,1.0,1.0,WT-like
+923,micafungin,single,1.0,FL*LSLRDP,tttttatagttatctttgagagatcca,0.087885504639926,1.0,1.0,WT-like
+924,micafungin,single,1.0,FLALSLRDP,tttttagctttatctttgagagatcca,1.1674162834740338,2.0,0.0,intermediary
+925,micafungin,single,1.0,FLCLSLRDP,tttttatgtttatctttgagagatcca,0.1531159612559585,1.0,1.0,WT-like
+926,micafungin,single,1.0,FLDLSLRDP,tttttagatttatctttgagagatcca,-0.1305497550523231,1.0,1.0,WT-like
+927,micafungin,single,1.0,FLELSLRDP,tttttagagttatctttgagagatcca,-0.1243586494022377,1.0,1.0,WT-like
+928,micafungin,single,1.0,FLFLSLRDP,tttttatttttatctttgagagatcca,1.001650934588931,2.0,0.0,intermediary
+929,micafungin,single,1.0,FLHLSLRDP,tttttacatttatctttgagagatcca,1.5957909567009128,2.0,0.0,intermediary
+930,micafungin,single,1.0,FLILSLRDP,tttttaattttatctttgagagatcca,-0.0931220399207646,1.0,1.0,WT-like
+931,micafungin,single,1.0,FLKLSLRDP,tttttaaagttatctttgagagatcca,1.6822246444901376,1.0,0.0,intermediary
+932,micafungin,single,1.0,FLLLSLRDP,tttttactgttatctttgagagatcca,-0.1826611106547921,1.0,1.0,WT-like
+933,micafungin,single,1.0,FLLLSLRDP,tttttacttttatctttgagagatcca,1.499547566102368,2.0,0.0,intermediary
+934,micafungin,single,1.0,FLLLSLRDP,tttttattgttatctttgagagatcca,-0.0146230325463536,1.0,1.0,WT-like
+935,micafungin,single,1.0,FLMLSLRDP,tttttaatgttatctttgagagatcca,0.0600283245078128,1.0,1.0,WT-like
+936,micafungin,single,1.0,FLNLSLRDP,tttttaaatttatctttgagagatcca,-0.2408831454131101,1.0,1.0,WT-like
+937,micafungin,single,1.0,FLPLSLRDP,tttttaccgttatctttgagagatcca,-0.0708717648208057,1.0,1.0,WT-like
+938,micafungin,single,1.0,FLPLSLRDP,tttttacctttatctttgagagatcca,1.6462373968195727,2.0,0.0,intermediary
+939,micafungin,single,1.0,FLQLSLRDP,tttttacagttatctttgagagatcca,-0.0229001158624588,1.0,1.0,WT-like
+940,micafungin,single,1.0,FLRLSLRDP,tttttaaggttatctttgagagatcca,1.881077990049551,1.0,0.0,intermediary
+941,micafungin,single,1.0,FLRLSLRDP,tttttacggttatctttgagagatcca,1.807482099174148,1.0,0.0,intermediary
+942,micafungin,single,1.0,FLSLSLRDP,tttttaagtttatctttgagagatcca,0.1113742659419538,1.0,1.0,WT-like
+943,micafungin,single,1.0,FLSLSLRDP,tttttatcgttatctttgagagatcca,-0.17059197563335,1.0,1.0,WT-like
+944,micafungin,single,1.0,FLSLSLRDP,tttttatctttatctttgagagatcca,-0.2465615191728729,1.0,1.0,WT-like
+945,micafungin,single,1.0,FLTLSLRDP,tttttaactttatctttgagagatcca,1.290817330906235,2.0,0.0,intermediary
+946,micafungin,single,1.0,FLV*SLRDP,tttttagtttagtctttgagagatcca,0.3445239232503472,1.0,1.0,WT-like
+947,micafungin,single,1.0,FLVASLRDP,tttttagttgcgtctttgagagatcca,1.6268665610035753,2.0,0.0,intermediary
+948,micafungin,single,1.0,FLVDSLRDP,tttttagttgattctttgagagatcca,0.0643924840089544,1.0,1.0,WT-like
+949,micafungin,single,1.0,FLVFSLRDP,tttttagttttttctttgagagatcca,1.590468511466384,2.0,0.0,intermediary
+950,micafungin,single,1.0,FLVISLRDP,tttttagttatttctttgagagatcca,-0.0195645846018541,1.0,1.0,WT-like
+951,micafungin,single,1.0,FLVL*LRDP,tttttagttttatagttgagagatcca,1.881077990049551,3.0,0.0,intermediary
+952,micafungin,single,1.0,FLVLALRDP,tttttagttttagcgttgagagatcca,-0.1893872209518265,1.0,1.0,WT-like
+953,micafungin,single,1.0,FLVLCLRDP,tttttagttttatgtttgagagatcca,0.7955530061569857,2.0,0.0,intermediary
+954,micafungin,single,1.0,FLVLELRDP,tttttagttttagagttgagagatcca,1.4477699372893085,2.0,0.0,intermediary
+955,micafungin,single,1.0,FLVLFLRDP,tttttagttttatttttgagagatcca,1.9676072516170828,1.0,2.0,resistant
+956,micafungin,single,1.0,FLVLGLRDP,tttttagttttagggttgagagatcca,0.0130813493229247,1.0,1.0,WT-like
+957,micafungin,single,1.0,FLVLHLRDP,tttttagttttacatttgagagatcca,2.01873479545926,2.0,2.0,resistant
+958,micafungin,single,1.0,FLVLILRDP,tttttagttttaattttgagagatcca,1.9454046898179853,1.0,0.0,intermediary
+959,micafungin,single,1.0,FLVLKLRDP,tttttagttttaaagttgagagatcca,2.191201735296454,1.0,2.0,resistant
+960,micafungin,single,1.0,FLVLLLRDP,tttttagttttactgttgagagatcca,1.4164385525790224,1.0,0.0,intermediary
+961,micafungin,single,1.0,FLVLLLRDP,tttttagttttacttttgagagatcca,1.4315734369132973,1.0,0.0,intermediary
+962,micafungin,single,1.0,FLVLLLRDP,tttttagttttattgttgagagatcca,1.372573247768971,1.0,0.0,intermediary
+963,micafungin,single,1.0,FLVLMLRDP,tttttagttttaatgttgagagatcca,1.7019041015224814,1.0,0.0,intermediary
+964,micafungin,single,1.0,FLVLNLRDP,tttttagttttaaatttgagagatcca,2.037584721851152,1.0,2.0,resistant
+965,micafungin,single,1.0,FLVLPLRDP,tttttagttttaccgttgagagatcca,1.7121979881685767,2.0,0.0,intermediary
+966,micafungin,single,1.0,FLVLPLRDP,tttttagttttacctttgagagatcca,2.114082022697376,1.0,2.0,resistant
+967,micafungin,single,1.0,FLVLQLRDP,tttttagttttacagttgagagatcca,2.076502975895317,1.0,2.0,resistant
+968,micafungin,single,1.0,FLVLRLRDP,tttttagttttaaggttgagagatcca,2.160261320339389,1.0,2.0,resistant
+969,micafungin,single,1.0,FLVLRLRDP,tttttagttttacggttgagagatcca,2.149776622959219,1.0,2.0,resistant
+970,micafungin,single,1.0,FLVLRLRDP,tttttagttttacgtttgagagatcca,2.182111524131122,1.0,2.0,resistant
+971,micafungin,single,1.0,FLVLS*RDP,tttttagttttatcttagagagatcca,0.1118032595547147,1.0,1.0,WT-like
+972,micafungin,single,1.0,FLVLSARDP,tttttagttttatctgcgagagatcca,-0.001754045446852,1.0,1.0,WT-like
+973,micafungin,single,1.0,FLVLSARDP,tttttagttttatctgctagagatcca,-0.2609748147630066,1.0,1.0,WT-like
+974,micafungin,single,1.0,FLVLSDRDP,tttttagttttatctgatagagatcca,0.0139931568595124,1.0,1.0,WT-like
+975,micafungin,single,1.0,FLVLSFRDP,tttttagttttatcttttagagatcca,0.6100208448196729,1.0,1.0,WT-like
+976,micafungin,single,1.0,FLVLSHRDP,tttttagttttatctcatagagatcca,2.0419846145298672,1.0,2.0,resistant
+977,micafungin,single,1.0,FLVLSIRDP,tttttagttttatctattagagatcca,-0.1631259593043375,1.0,1.0,WT-like
+978,micafungin,single,1.0,FLVLSL*DP,tttttagttttatctttgtaggatcca,0.5037979598800739,1.0,1.0,WT-like
+979,micafungin,single,1.0,FLVLSLCDP,tttttagttttatctttgtgtgatcca,1.6462373968195727,1.0,0.0,intermediary
+980,micafungin,single,1.0,FLVLSLGDP,tttttagttttatctttgggggatcca,2.1052232213234108,1.0,2.0,resistant
+981,micafungin,single,1.0,FLVLSLGDP,tttttagttttatctttgggtgatcca,1.848834560742404,3.0,0.0,intermediary
+982,micafungin,single,1.0,FLVLSLHDP,tttttagttttatctttgcatgatcca,0.078018061380267,1.0,1.0,WT-like
+983,micafungin,single,1.0,FLVLSLIDP,tttttagttttatctttgattgatcca,1.4781624077569426,2.0,0.0,intermediary
+984,micafungin,single,1.0,FLVLSLKDP,tttttagttttatctttgaaggatcca,0.301001310065524,1.0,1.0,WT-like
+985,micafungin,single,1.0,FLVLSLLDP,tttttagttttatctttgctggatcca,0.0849868104901079,1.0,1.0,WT-like
+986,micafungin,single,1.0,FLVLSLLDP,tttttagttttatctttgcttgatcca,1.395469474882078,3.0,0.0,intermediary
+987,micafungin,single,1.0,FLVLSLLDP,tttttagttttatctttgttggatcca,0.8615135975059898,1.0,0.0,intermediary
+988,micafungin,single,1.0,FLVLSLMDP,tttttagttttatctttgatggatcca,1.4067957380990408,1.0,0.0,intermediary
+989,micafungin,single,1.0,FLVLSLNDP,tttttagttttatctttgaatgatcca,2.0307560930359148,1.0,2.0,resistant
+990,micafungin,single,1.0,FLVLSLPDP,tttttagttttatctttgcctgatcca,1.5820779923143302,1.0,0.0,intermediary
+991,micafungin,single,1.0,FLVLSLQDP,tttttagttttatctttgcaggatcca,2.1174802898056884,1.0,2.0,resistant
+992,micafungin,single,1.0,FLVLSLR*P,tttttagttttatctttgagatagcca,-0.1526134423182541,1.0,1.0,WT-like
+993,micafungin,single,1.0,FLVLSLRAP,tttttagttttatctttgagagctcca,-0.0012716415109736,1.0,1.0,WT-like
+994,micafungin,single,1.0,FLVLSLRCP,tttttagttttatctttgagatgtcca,1.5467913223523655,1.0,0.0,intermediary
+995,micafungin,single,1.0,FLVLSLRD*,tttttagttttatctttgagagattag,0.4077950741233571,1.0,1.0,WT-like
+996,micafungin,single,1.0,FLVLSLRDC,tttttagttttatctttgagagattgt,1.6268665610035753,3.0,0.0,intermediary
+997,micafungin,single,1.0,FLVLSLRDD,tttttagttttatctttgagagatgat,2.011619152703997,1.0,2.0,resistant
+998,micafungin,single,1.0,FLVLSLRDE,tttttagttttatctttgagagatgag,1.4477699372893085,3.0,0.0,intermediary
+999,micafungin,single,1.0,FLVLSLRDF,tttttagttttatctttgagagatttt,1.9673550300225369,1.0,2.0,resistant
+1000,micafungin,single,1.0,FLVLSLRDG,tttttagttttatctttgagagatggg,1.5194136595906589,1.0,0.0,intermediary
+1001,micafungin,single,1.0,FLVLSLRDG,tttttagttttatctttgagagatggt,1.5918001027546378,1.0,0.0,intermediary
+1002,micafungin,single,1.0,FLVLSLRDH,tttttagttttatctttgagagatcat,1.3528577353851636,2.0,0.0,intermediary
+1003,micafungin,single,1.0,FLVLSLRDI,tttttagttttatctttgagagatatt,1.9806337688317548,1.0,2.0,resistant
+1004,micafungin,single,1.0,FLVLSLRDK,tttttagttttatctttgagagataag,1.843977751821361,1.0,0.0,intermediary
+1005,micafungin,single,1.0,FLVLSLRDL,tttttagttttatctttgagagatctg,1.8415330222977115,1.0,0.0,intermediary
+1006,micafungin,single,1.0,FLVLSLRDL,tttttagttttatctttgagagatctt,2.1352894190955265,3.0,2.0,resistant
+1007,micafungin,single,1.0,FLVLSLRDL,tttttagttttatctttgagagatttg,1.826496881279889,1.0,0.0,intermediary
+1008,micafungin,single,1.0,FLVLSLRDM,tttttagttttatctttgagagatatg,2.0446737835596247,1.0,2.0,resistant
+1009,micafungin,single,1.0,FLVLSLRDN,tttttagttttatctttgagagataat,1.8613694869986488,1.0,0.0,intermediary
+1010,micafungin,single,1.0,FLVLSLRDQ,tttttagttttatctttgagagatcag,1.499547566102368,3.0,0.0,intermediary
+1011,micafungin,single,1.0,FLVLSLRDR,tttttagttttatctttgagagatagg,1.3833050682217642,1.0,0.0,intermediary
+1012,micafungin,single,1.0,FLVLSLRDR,tttttagttttatctttgagagatcgg,0.8366601445764413,1.0,0.0,intermediary
+1013,micafungin,single,1.0,FLVLSLRDR,tttttagttttatctttgagagatcgt,1.395469474882078,2.0,0.0,intermediary
+1014,micafungin,single,1.0,FLVLSLRDS,tttttagttttatctttgagagatagt,1.395469474882078,3.0,0.0,intermediary
+1015,micafungin,single,1.0,FLVLSLRDS,tttttagttttatctttgagagattcg,1.523720362386066,1.0,0.0,intermediary
+1016,micafungin,single,1.0,FLVLSLRDT,tttttagttttatctttgagagatacg,1.9924002557238327,1.0,2.0,resistant
+1017,micafungin,single,1.0,FLVLSLRDT,tttttagttttatctttgagagatact,1.9715999058510607,1.0,2.0,resistant
+1018,micafungin,single,1.0,FLVLSLRDV,tttttagttttatctttgagagatgtg,1.9129893749734903,1.0,0.0,intermediary
+1019,micafungin,single,1.0,FLVLSLRDV,tttttagttttatctttgagagatgtt,1.8878927009016209,1.0,0.0,intermediary
+1020,micafungin,single,1.0,FLVLSLRDY,tttttagttttatctttgagagattat,1.9082570568239088,2.0,0.0,intermediary
+1021,micafungin,single,1.0,FLVLSLREP,tttttagttttatctttgagagagcca,0.0293394684632763,1.0,1.0,WT-like
+1022,micafungin,single,1.0,FLVLSLRFP,tttttagttttatctttgagatttcca,1.0872453908251147,1.0,0.0,intermediary
+1023,micafungin,single,1.0,FLVLSLRGP,tttttagttttatctttgagaggtcca,0.9904303340297252,1.0,0.0,intermediary
+1024,micafungin,single,1.0,FLVLSLRHP,tttttagttttatctttgagacatcca,1.706328860392296,1.0,0.0,intermediary
+1025,micafungin,single,1.0,FLVLSLRIP,tttttagttttatctttgagaattcca,1.5957909567009128,2.0,0.0,intermediary
+1026,micafungin,single,1.0,FLVLSLRKP,tttttagttttatctttgagaaagcca,1.4437786807491793,2.0,0.0,intermediary
+1027,micafungin,single,1.0,FLVLSLRLP,tttttagttttatctttgagactgcca,-0.2400090253921256,1.0,1.0,WT-like
+1028,micafungin,single,1.0,FLVLSLRLP,tttttagttttatctttgagacttcca,-0.1267666667661229,1.0,1.0,WT-like
+1029,micafungin,single,1.0,FLVLSLRLP,tttttagttttatctttgagattgcca,-0.016971925911847,1.0,1.0,WT-like
+1030,micafungin,single,1.0,FLVLSLRMP,tttttagttttatctttgagaatgcca,1.1181647594730713,1.0,0.0,intermediary
+1031,micafungin,single,1.0,FLVLSLRNP,tttttagttttatctttgagaaatcca,-0.1343809423125908,1.0,1.0,WT-like
+1032,micafungin,single,1.0,FLVLSLRPP,tttttagttttatctttgagaccgcca,2.0920375486771605,1.0,2.0,resistant
+1033,micafungin,single,1.0,FLVLSLRPP,tttttagttttatctttgagacctcca,2.0457333612731574,1.0,2.0,resistant
+1034,micafungin,single,1.0,FLVLSLRQP,tttttagttttatctttgagacagcca,-0.0320996020609054,1.0,1.0,WT-like
+1035,micafungin,single,1.0,FLVLSLRRP,tttttagttttatctttgagaaggcca,2.1382776949648385,1.0,2.0,resistant
+1036,micafungin,single,1.0,FLVLSLRRP,tttttagttttatctttgagacgtcca,2.129617941121903,1.0,2.0,resistant
+1037,micafungin,single,1.0,FLVLSLRSP,tttttagttttatctttgagaagtcca,1.7121979881685767,2.0,0.0,intermediary
+1038,micafungin,single,1.0,FLVLSLRSP,tttttagttttatctttgagatcgcca,1.4743911707429551,1.0,0.0,intermediary
+1039,micafungin,single,1.0,FLVLSLRSP,tttttagttttatctttgagatctcca,1.3726551319575997,2.0,0.0,intermediary
+1040,micafungin,single,1.0,FLVLSLRTP,tttttagttttatctttgagaacgcca,1.971668714587987,2.0,2.0,resistant
+1041,micafungin,single,1.0,FLVLSLRTP,tttttagttttatctttgagaactcca,2.099375373878265,1.0,2.0,resistant
+1042,micafungin,single,1.0,FLVLSLRVP,tttttagttttatctttgagagtgcca,2.1048742938391425,1.0,2.0,resistant
+1043,micafungin,single,1.0,FLVLSLRVP,tttttagttttatctttgagagttcca,2.117805718751813,1.0,2.0,resistant
+1044,micafungin,single,1.0,FLVLSLRWP,tttttagttttatctttgagatggcca,0.6665072125951423,1.0,0.0,intermediary
+1045,micafungin,single,1.0,FLVLSLRYP,tttttagttttatctttgagatatcca,1.9182381254279592,1.0,0.0,intermediary
+1046,micafungin,single,1.0,FLVLSLSDP,tttttagttttatctttgagtgatcca,1.1930107588116847,2.0,0.0,intermediary
+1047,micafungin,single,1.0,FLVLSLSDP,tttttagttttatctttgtcggatcca,2.137730019320812,1.0,2.0,resistant
+1048,micafungin,single,1.0,FLVLSLSDP,tttttagttttatctttgtctgatcca,1.881077990049551,3.0,0.0,intermediary
+1049,micafungin,single,1.0,FLVLSLTDP,tttttagttttatctttgacggatcca,1.5106422506385864,1.0,0.0,intermediary
+1050,micafungin,single,1.0,FLVLSLTDP,tttttagttttatctttgactgatcca,1.508116090329204,1.0,0.0,intermediary
+1051,micafungin,single,1.0,FLVLSLVDP,tttttagttttatctttggtggatcca,0.2709280323749437,1.0,1.0,WT-like
+1052,micafungin,single,1.0,FLVLSLWDP,tttttagttttatctttgtgggatcca,1.6610733467899246,1.0,0.0,intermediary
+1053,micafungin,single,1.0,FLVLSMRDP,tttttagttttatctatgagagatcca,-0.0449818663283161,1.0,1.0,WT-like
+1054,micafungin,single,1.0,FLVLSNRDP,tttttagttttatctaatagagatcca,0.3102349575222771,1.0,1.0,WT-like
+1055,micafungin,single,1.0,FLVLSPRDP,tttttagttttatctccgagagatcca,0.0924716179954685,1.0,1.0,WT-like
+1056,micafungin,single,1.0,FLVLSPRDP,tttttagttttatctcctagagatcca,0.2702461420340702,1.0,1.0,WT-like
+1057,micafungin,single,1.0,FLVLSQRDP,tttttagttttatctcagagagatcca,1.0752468254643344,2.0,0.0,intermediary
+1058,micafungin,single,1.0,FLVLSRRDP,tttttagttttatctaggagagatcca,2.053130559960496,1.0,2.0,resistant
+1059,micafungin,single,1.0,FLVLSRRDP,tttttagttttatctcggagagatcca,2.0444338762442142,1.0,2.0,resistant
+1060,micafungin,single,1.0,FLVLSRRDP,tttttagttttatctcgtagagatcca,2.02620941677333,1.0,2.0,resistant
+1061,micafungin,single,1.0,FLVLSSRDP,tttttagttttatctagtagagatcca,1.4781624077569426,2.0,0.0,intermediary
+1062,micafungin,single,1.0,FLVLSSRDP,tttttagttttatcttcgagagatcca,1.4477699372893085,3.0,0.0,intermediary
+1063,micafungin,single,1.0,FLVLSSRDP,tttttagttttatcttctagagatcca,-0.1853165236878791,1.0,1.0,WT-like
+1064,micafungin,single,1.0,FLVLSTRDP,tttttagttttatctacgagagatcca,-0.1848231674262386,1.0,1.0,WT-like
+1065,micafungin,single,1.0,FLVLSVRDP,tttttagttttatctgtgagagatcca,-0.0413304634037909,1.0,1.0,WT-like
+1066,micafungin,single,1.0,FLVLSVRDP,tttttagttttatctgttagagatcca,-0.2284367406225276,1.0,1.0,WT-like
+1067,micafungin,single,1.0,FLVLSYRDP,tttttagttttatcttatagagatcca,0.2683874618459081,1.0,1.0,WT-like
+1068,micafungin,single,1.0,FLVLTLRDP,tttttagttttaacgttgagagatcca,1.118494775518366,1.0,0.0,intermediary
+1069,micafungin,single,1.0,FLVLTLRDP,tttttagttttaactttgagagatcca,1.4781624077569426,3.0,0.0,intermediary
+1070,micafungin,single,1.0,FLVLVLRDP,tttttagttttagtgttgagagatcca,0.2126610786040472,1.0,1.0,WT-like
+1071,micafungin,single,1.0,FLVLVLRDP,tttttagttttagttttgagagatcca,0.2684501912134571,1.0,1.0,WT-like
+1072,micafungin,single,1.0,FLVLWLRDP,tttttagttttatggttgagagatcca,1.7992401889981862,2.0,0.0,intermediary
+1073,micafungin,single,1.0,FLVLYLRDP,tttttagttttatatttgagagatcca,2.0807431138707746,1.0,2.0,resistant
+1074,micafungin,single,1.0,FLVMSLRDP,tttttagttatgtctttgagagatcca,-0.0827617258228849,1.0,1.0,WT-like
+1075,micafungin,single,1.0,FLVNSLRDP,tttttagttaattctttgagagatcca,1.063972313576383,2.0,0.0,intermediary
+1076,micafungin,single,1.0,FLVPSLRDP,tttttagttccttctttgagagatcca,0.610745675568495,1.0,1.0,WT-like
+1077,micafungin,single,1.0,FLVQSLRDP,tttttagttcagtctttgagagatcca,-0.005909486453471,1.0,1.0,WT-like
+1078,micafungin,single,1.0,FLVRSLRDP,tttttagttaggtctttgagagatcca,1.5957909567009128,2.0,0.0,intermediary
+1079,micafungin,single,1.0,FLVRSLRDP,tttttagttcgttctttgagagatcca,0.4182157257636341,1.0,1.0,WT-like
+1080,micafungin,single,1.0,FLVSSLRDP,tttttagttagttctttgagagatcca,1.5957909567009128,3.0,0.0,intermediary
+1081,micafungin,single,1.0,FLVSSLRDP,tttttagtttcttctttgagagatcca,-0.0391986798683092,1.0,1.0,WT-like
+1082,micafungin,single,1.0,FLVTSLRDP,tttttagttacgtctttgagagatcca,0.5614846279652561,1.0,1.0,WT-like
+1083,micafungin,single,1.0,FLVTSLRDP,tttttagttacttctttgagagatcca,-0.168043041849824,1.0,1.0,WT-like
+1084,micafungin,single,1.0,FLVVSLRDP,tttttagttgtgtctttgagagatcca,0.7182858184463626,1.0,0.0,intermediary
+1085,micafungin,single,1.0,FLVWSLRDP,tttttagtttggtctttgagagatcca,0.8879017486136266,2.0,0.0,intermediary
+1086,micafungin,single,1.0,FLVYSLRDP,tttttagtttattctttgagagatcca,1.0100823304668711,1.0,0.0,intermediary
+1087,micafungin,single,1.0,FLWLSLRDP,tttttatggttatctttgagagatcca,1.1930107588116847,2.0,0.0,intermediary
+1088,micafungin,single,1.0,FLYLSLRDP,tttttatatttatctttgagagatcca,0.5406181057532327,1.0,1.0,WT-like
+1089,micafungin,single,1.0,FMVLSLRDP,tttatggttttatctttgagagatcca,-0.0716481054025761,1.0,1.0,WT-like
+1090,micafungin,single,1.0,FPVLSLRDP,tttccggttttatctttgagagatcca,0.0946317285092432,1.0,1.0,WT-like
+1091,micafungin,single,1.0,FQVLSLRDP,tttcaggttttatctttgagagatcca,-0.0040954518889568,1.0,1.0,WT-like
+1092,micafungin,single,1.0,FRVLSLRDP,tttagggttttatctttgagagatcca,0.4711512532527906,1.0,1.0,WT-like
+1093,micafungin,single,1.0,FRVLSLRDP,tttcgggttttatctttgagagatcca,1.3427473526594222,2.0,0.0,intermediary
+1094,micafungin,single,1.0,FRVLSLRDP,tttcgtgttttatctttgagagatcca,0.2512584627274909,1.0,1.0,WT-like
+1095,micafungin,single,1.0,FSVLSLRDP,tttagtgttttatctttgagagatcca,1.0568773702234666,1.0,0.0,intermediary
+1096,micafungin,single,1.0,FSVLSLRDP,ttttcggttttatctttgagagatcca,0.9913973935427274,1.0,0.0,intermediary
+1097,micafungin,single,1.0,FSVLSLRDP,ttttctgttttatctttgagagatcca,0.6665145609216838,1.0,0.0,intermediary
+1098,micafungin,single,1.0,FTVLSLRDP,tttacggttttatctttgagagatcca,1.395469474882078,2.0,0.0,intermediary
+1099,micafungin,single,1.0,FTVLSLRDP,tttactgttttatctttgagagatcca,1.1384513534413294,2.0,0.0,intermediary
+1100,micafungin,single,1.0,FVVLSLRDP,tttgtggttttatctttgagagatcca,0.1054383314306801,1.0,1.0,WT-like
+1101,micafungin,single,1.0,FVVLSLRDP,tttgttgttttatctttgagagatcca,1.2239509787109673,2.0,0.0,intermediary
+1102,micafungin,single,1.0,FWVLSLRDP,ttttgggttttatctttgagagatcca,1.2612855072869134,2.0,0.0,intermediary
+1103,micafungin,single,1.0,FYVLSLRDP,ttttatgttttatctttgagagatcca,0.2334790194396361,1.0,1.0,WT-like
+1104,micafungin,single,1.0,HLVLSLRDP,catttagttttatctttgagagatcca,1.4477699372893085,2.0,0.0,intermediary
+1105,micafungin,single,1.0,ILVLSLRDP,attttagttttatctttgagagatcca,1.5957909567009128,3.0,0.0,intermediary
+1106,micafungin,single,1.0,KLVLSLRDP,aagttagttttatctttgagagatcca,2.122744686995917,1.0,2.0,resistant
+1107,micafungin,single,1.0,LLVLSLRDP,ctgttagttttatctttgagagatcca,0.0802518498499842,1.0,1.0,WT-like
+1108,micafungin,single,1.0,LLVLSLRDP,cttttagttttatctttgagagatcca,-0.1431695924069109,1.0,1.0,WT-like
+1109,micafungin,single,1.0,LLVLSLRDP,ttgttagttttatctttgagagatcca,0.2025805579238198,1.0,1.0,WT-like
+1110,micafungin,single,1.0,MLVLSLRDP,atgttagttttatctttgagagatcca,0.0389743375511637,1.0,1.0,WT-like
+1111,micafungin,single,1.0,NLVLSLRDP,aatttagttttatctttgagagatcca,2.115338964974681,1.0,2.0,resistant
+1112,micafungin,single,1.0,PLVLSLRDP,ccgttagttttatctttgagagatcca,1.960147349744384,1.0,2.0,resistant
+1113,micafungin,single,1.0,PLVLSLRDP,cctttagttttatctttgagagatcca,1.6342543672917036,2.0,0.0,intermediary
+1114,micafungin,single,1.0,QLVLSLRDP,cagttagttttatctttgagagatcca,0.0193241323978221,1.0,1.0,WT-like
+1115,micafungin,single,1.0,RLVLSLRDP,aggttagttttatctttgagagatcca,2.144344005186256,1.0,2.0,resistant
+1116,micafungin,single,1.0,RLVLSLRDP,cggttagttttatctttgagagatcca,2.112369253186209,1.0,2.0,resistant
+1117,micafungin,single,1.0,RLVLSLRDP,cgtttagttttatctttgagagatcca,2.014692018387916,1.0,2.0,resistant
+1118,micafungin,single,1.0,SLVLSLRDP,tcgttagttttatctttgagagatcca,1.0675718360482374,1.0,0.0,intermediary
+1119,micafungin,single,1.0,SLVLSLRDP,tctttagttttatctttgagagatcca,2.125877916635864,1.0,2.0,resistant
+1120,micafungin,single,1.0,VLVLSLRDP,gtgttagttttatctttgagagatcca,2.0338312790325483,1.0,2.0,resistant
+1121,micafungin,single,1.0,VLVLSLRDP,gttttagttttatctttgagagatcca,2.032775780198333,1.0,2.0,resistant
+1122,micafungin,single,1.0,WLVLSLRDP,tggttagttttatctttgagagatcca,1.4477699372893085,2.0,0.0,intermediary
+1123,micafungin,single,1.0,YLVLSLRDP,tatttagttttatctttgagagatcca,1.8558270558489696,1.0,0.0,intermediary
+1124,none,WT,0.0,FLVLSLRDP,tttttagttttatctttgagagatcca,0.0079228751573214,1.0,2.0,WT-like
+1125,none,ortho,0.0,FLVLSLRDP,tttttggttttgtctttgagagatcca,-0.0049261641970295,1.0,2.0,WT-like
+1126,none,ortho,1.0,FLILSLRDP,tttttgattttgtctttgagagatcca,-0.0081100548779797,1.0,2.0,WT-like
+1127,none,ortho,1.0,FLTLSLRDP,tttttgactttgtctttgagagatcca,-0.0081176734824208,1.0,2.0,WT-like
+1128,none,ortho,2.0,FLALSFRDP,tttttggctttgtcttttagagatcca,0.0108627688216913,1.0,2.0,WT-like
+1129,none,ortho,2.0,FLALSIRDP,tttttggctttgtctattagagatcca,-0.0076937836910846,1.0,2.0,WT-like
+1130,none,ortho,2.0,FLSLSFRDP,tttttgtctttgtcttttagagatcca,0.0160141372515495,1.0,2.0,WT-like
+1131,none,ortho,2.0,FLTLSFRDP,tttttgactttgtcttttagagatcca,-0.0276463399710161,1.0,2.0,WT-like
+1132,none,ortho,2.0,FLTLSIRDP,tttttgactttgtctattagagatcca,0.009835971032344,1.0,2.0,WT-like
+1133,none,ortho,2.0,FLTLSLKDP,tttttgactttgtctttgaaagatcca,-0.0503188331271278,1.0,1.0,slightly deleterious
+1134,none,ortho,2.0,FLTLSLRDA,tttttgactttgtctttgagagatgct,0.0121159156241819,1.0,2.0,WT-like
+1135,none,ortho,2.0,FLTLSLVDP,tttttgactttgtctttggttgatcca,0.0264255762340233,1.0,2.0,WT-like
+1136,none,ortho,2.0,FLTLSVRDP,tttttgactttgtctgttagagatcca,0.0303124912788279,1.0,2.0,WT-like
+1137,none,ortho,2.0,FMALSLRDP,tttatggctttgtctttgagagatcca,0.0124781029173919,1.0,2.0,WT-like
+1138,none,ortho,2.0,YLILSLRDP,tatttgattttgtctttgagagatcca,0.077273433666317,1.0,1.0,slightly deleterious
+1139,none,ortho,2.0,YLTLSLRDP,tatttgactttgtctttgagagatcca,0.0305954799811152,1.0,2.0,WT-like
+1140,none,ortho,3.0,ALTLSFRDP,gctttgactttgtcttttagagatcca,0.0110376043865146,1.0,2.0,WT-like
+1141,none,ortho,3.0,FLALSFKDP,tttttggctttgtcttttaaagatcca,0.012208721875547,1.0,2.0,WT-like
+1142,none,ortho,3.0,FLALSFRDA,tttttggctttgtcttttagagatgct,0.0250068692093283,1.0,2.0,WT-like
+1143,none,ortho,3.0,FLIKSLIDP,tttttgattaaatctttgattgatcca,0.0127528786927641,1.0,2.0,WT-like
+1144,none,ortho,3.0,FLTHSFRDP,tttttgactcattcttttagagatcca,0.0303399196516906,1.0,2.0,WT-like
+1145,none,ortho,3.0,FLTLSAKDP,tttttgactttgtctgctaaagatcca,0.01603926245936,1.0,2.0,WT-like
+1146,none,ortho,3.0,FLTLSFKDP,tttttgactttgtcttttaaagatcca,0.0509045088777486,1.0,2.0,WT-like
+1147,none,ortho,3.0,FLTLSFRDT,tttttgactttgtcttttagagatact,-0.0174307975876376,1.0,2.0,WT-like
+1148,none,ortho,3.0,FLTLSIKDP,tttttgactttgtctattaaagatcca,-0.0018218619328121,1.0,2.0,WT-like
+1149,none,ortho,3.0,YLALSFRDP,tatttggctttgtcttttagagatcca,0.0018122970498429,1.0,2.0,WT-like
+1150,none,ortho,3.0,YLILSFRDP,tatttgattttgtcttttagagatcca,0.0051553291291727,1.0,2.0,WT-like
+1151,none,ortho,3.0,YLILSIRDP,tatttgattttgtctattagagatcca,0.0185444358935548,1.0,2.0,WT-like
+1152,none,ortho,3.0,YLTLSFRDP,tatttgactttgtcttttagagatcca,0.0327364731677803,1.0,2.0,WT-like
+1153,none,ortho,3.0,YLTLSIRDP,tatttgactttgtctattagagatcca,0.0390117997713956,1.0,2.0,WT-like
+1154,none,ortho,4.0,FLALNIKDP,tttttggctttgaatattaaagatcca,0.0105263080387008,1.0,2.0,WT-like
+1155,none,ortho,4.0,FLALNLSDS,tttttggctttgaatttgtctgattct,-0.0117446983036271,1.0,2.0,WT-like
+1156,none,ortho,4.0,FLTLNLADS,tttttgactttgaatttggctgattct,-0.0129791605001978,1.0,2.0,WT-like
+1157,none,ortho,4.0,FLTLNLSDS,tttttgactttgaatttgtctgattct,0.0198884562765399,1.0,2.0,WT-like
+1158,none,ortho,4.0,FLTLSFENP,tttttgactttgtcttttgaaaatcca,0.0349884983683567,1.0,2.0,WT-like
+1159,none,ortho,4.0,SLTLSFRDV,tctttgactttgtcttttagagatgtt,0.0174394957135494,1.0,2.0,WT-like
+1160,none,ortho,4.0,YLALSFKDP,tatttggctttgtcttttaaagatcca,0.007467113684685,1.0,2.0,WT-like
+1161,none,ortho,4.0,YLTLSFKDP,tatttgactttgtcttttaaagatcca,0.0265578342853847,1.0,2.0,WT-like
+1162,none,ortho,4.0,YLTLSFRDA,tatttgactttgtcttttagagatgct,-0.0273849442697064,1.0,2.0,WT-like
+1163,none,ortho,4.0,YLTLSFRDV,tatttgactttgtcttttagagatgtt,-0.0666931604883562,1.0,1.0,slightly deleterious
+1164,none,ortho,4.0,YLTLSFSDP,tatttgactttgtctttttctgatcca,0.0353924271329058,1.0,2.0,WT-like
+1165,none,ortho,4.0,YLTLSIKDP,tatttgactttgtctattaaagatcca,0.0042836785981142,1.0,2.0,WT-like
+1166,none,ortho,4.0,YLTRSFRDP,tatttgactagatcttttagagatcca,0.0505892391687749,1.0,2.0,WT-like
+1167,none,ortho,5.0,ALALNIKDP,gctttggctttgaatattaaagatcca,0.0931446715042426,1.0,1.0,slightly deleterious
+1168,none,ortho,5.0,FLTSSFSSP,tttttgacttcttctttttcttctcca,-0.025966522190661,1.0,2.0,WT-like
+1169,none,ortho,5.0,YLTLAFRDS,tatttgactttggcttttagagattct,0.0177297792420941,1.0,2.0,WT-like
+1170,none,ortho,6.0,YLTRAFRDS,tatttgactagagcttttagagattct,0.0191257098242904,1.0,2.0,WT-like
+1171,none,ortho,7.0,AICSDLRED,gctatttgttctgatttgagagaagat,-0.0623509872591551,1.0,1.0,slightly deleterious
+1172,none,ortho,7.0,LQIRPLIAP,ttgcaaattagaccattgattgctcca,0.0350740269125778,1.0,2.0,WT-like
+1173,none,ortho,7.0,LQVKPMIKP,ttgcaagttaaaccaatgattaaacca,0.0238645226105699,1.0,2.0,WT-like
+1174,none,ortho,7.0,VLTLLVTQH,gttttgactttgttggttactcaacat,-0.0799229351676362,1.0,1.0,slightly deleterious
+1175,none,single,0.0,FLVLSLRDP,tttctggttttatctttgagagatcca,-0.0192660254019085,1.0,2.0,WT-like
+1176,none,single,0.0,FLVLSLRDP,tttcttgttttatctttgagagatcca,0.0155761315812082,1.0,2.0,WT-like
+1177,none,single,0.0,FLVLSLRDP,tttttagtgttatctttgagagatcca,0.0010914568356303,1.0,2.0,WT-like
+1178,none,single,0.0,FLVLSLRDP,tttttagttctgtctttgagagatcca,-0.0036474210099852,1.0,2.0,WT-like
+1179,none,single,0.0,FLVLSLRDP,tttttagttctttctttgagagatcca,0.0002103476877053,1.0,2.0,WT-like
+1180,none,single,0.0,FLVLSLRDP,tttttagttttatcgttgagagatcca,0.0,1.0,2.0,WT-like
+1181,none,single,0.0,FLVLSLRDP,tttttagttttatctctgagagatcca,0.0093004065516894,1.0,2.0,WT-like
+1182,none,single,0.0,FLVLSLRDP,tttttagttttatctcttagagatcca,-0.0459467301811902,1.0,1.0,slightly deleterious
+1183,none,single,0.0,FLVLSLRDP,tttttagttttatctttgagagatccg,0.0036670870374924,1.0,2.0,WT-like
+1184,none,single,0.0,FLVLSLRDP,tttttagttttatctttgagagatcct,-0.0101829202475361,1.0,2.0,WT-like
+1185,none,single,0.0,FLVLSLRDP,tttttagttttatctttgcgggatcca,0.0108368594029146,1.0,2.0,WT-like
+1186,none,single,0.0,FLVLSLRDP,tttttagttttatctttgcgtgatcca,-0.0195389635933935,1.0,2.0,WT-like
+1187,none,single,0.0,FLVLSLRDP,tttttagttttgtctttgagagatcca,0.0,1.0,2.0,WT-like
+1188,none,single,0.0,FLVLSLRDP,tttttggttttatctttgagagatcca,0.0152267002523155,1.0,2.0,WT-like
+1189,none,single,1.0,*LVLSLRDP,tagttagttttatctttgagagatcca,-0.2655430290497462,1.0,1.0,slightly deleterious
+1190,none,single,1.0,CLVLSLRDP,tgtttagttttatctttgagagatcca,-0.0921890136687705,2.0,1.0,slightly deleterious
+1191,none,single,1.0,DLVLSLRDP,gatttagttttatctttgagagatcca,-0.3174705144933654,3.0,1.0,slightly deleterious
+1192,none,single,1.0,ELVLSLRDP,gagttagttttatctttgagagatcca,-0.3722902949787522,2.0,1.0,slightly deleterious
+1193,none,single,1.0,FAVLSLRDP,tttgcggttttatctttgagagatcca,-0.0487896413834365,2.0,1.0,slightly deleterious
+1194,none,single,1.0,FAVLSLRDP,tttgctgttttatctttgagagatcca,-0.0394909589427358,1.0,2.0,WT-like
+1195,none,single,1.0,FCVLSLRDP,ttttgtgttttatctttgagagatcca,0.0111306125901476,1.0,2.0,WT-like
+1196,none,single,1.0,FDVLSLRDP,tttgatgttttatctttgagagatcca,-0.071552045990648,2.0,1.0,slightly deleterious
+1197,none,single,1.0,FEVLSLRDP,tttgaggttttatctttgagagatcca,0.0446571038384528,1.0,2.0,WT-like
+1198,none,single,1.0,FFVLSLRDP,ttttttgttttatctttgagagatcca,0.0315668085704229,1.0,2.0,WT-like
+1199,none,single,1.0,FGVLSLRDP,tttggggttttatctttgagagatcca,-0.0136758490314436,1.0,2.0,WT-like
+1200,none,single,1.0,FGVLSLRDP,tttggtgttttatctttgagagatcca,-0.0228666888324666,1.0,2.0,WT-like
+1201,none,single,1.0,FHVLSLRDP,tttcatgttttatctttgagagatcca,0.0049237542370836,2.0,2.0,WT-like
+1202,none,single,1.0,FIVLSLRDP,tttattgttttatctttgagagatcca,-0.0127432253527512,1.0,2.0,WT-like
+1203,none,single,1.0,FKVLSLRDP,tttaaggttttatctttgagagatcca,-0.5678042404174415,1.0,0.0,deleterious
+1204,none,single,1.0,FL*LSLRDP,tttttatagttatctttgagagatcca,-0.250301438506268,1.0,1.0,slightly deleterious
+1205,none,single,1.0,FLALSLRDP,tttttagctttatctttgagagatcca,-0.2260653057590314,2.0,1.0,slightly deleterious
+1206,none,single,1.0,FLCLSLRDP,tttttatgtttatctttgagagatcca,0.0146020063806092,1.0,2.0,WT-like
+1207,none,single,1.0,FLDLSLRDP,tttttagatttatctttgagagatcca,0.0144416935721846,1.0,2.0,WT-like
+1208,none,single,1.0,FLELSLRDP,tttttagagttatctttgagagatcca,-0.0333802121793905,1.0,2.0,WT-like
+1209,none,single,1.0,FLFLSLRDP,tttttatttttatctttgagagatcca,-0.2474123360184793,2.0,1.0,slightly deleterious
+1210,none,single,1.0,FLHLSLRDP,tttttacatttatctttgagagatcca,0.0049237542370836,2.0,2.0,WT-like
+1211,none,single,1.0,FLILSLRDP,tttttaattttatctttgagagatcca,0.0166726888545182,1.0,2.0,WT-like
+1212,none,single,1.0,FLKLSLRDP,tttttaaagttatctttgagagatcca,-0.0548643939585216,1.0,1.0,slightly deleterious
+1213,none,single,1.0,FLLLSLRDP,tttttactgttatctttgagagatcca,0.0193838343434491,1.0,2.0,WT-like
+1214,none,single,1.0,FLLLSLRDP,tttttacttttatctttgagagatcca,-0.2005916485257011,2.0,1.0,slightly deleterious
+1215,none,single,1.0,FLLLSLRDP,tttttattgttatctttgagagatcca,0.0109417347020882,1.0,2.0,WT-like
+1216,none,single,1.0,FLMLSLRDP,tttttaatgttatctttgagagatcca,0.033695641448631,1.0,2.0,WT-like
+1217,none,single,1.0,FLNLSLRDP,tttttaaatttatctttgagagatcca,0.0099005501515621,1.0,2.0,WT-like
+1218,none,single,1.0,FLPLSLRDP,tttttaccgttatctttgagagatcca,-0.0078908181726857,1.0,2.0,WT-like
+1219,none,single,1.0,FLPLSLRDP,tttttacctttatctttgagagatcca,0.0738357014410816,2.0,1.0,slightly deleterious
+1220,none,single,1.0,FLQLSLRDP,tttttacagttatctttgagagatcca,0.0158046617161851,1.0,2.0,WT-like
+1221,none,single,1.0,FLRLSLRDP,tttttaaggttatctttgagagatcca,0.0200030090394759,1.0,2.0,WT-like
+1222,none,single,1.0,FLRLSLRDP,tttttacggttatctttgagagatcca,-0.0612120134697148,1.0,1.0,slightly deleterious
+1223,none,single,1.0,FLSLSLRDP,tttttaagtttatctttgagagatcca,0.000846621528445,1.0,2.0,WT-like
+1224,none,single,1.0,FLSLSLRDP,tttttatcgttatctttgagagatcca,0.0253860767338433,1.0,2.0,WT-like
+1225,none,single,1.0,FLSLSLRDP,tttttatctttatctttgagagatcca,0.0086400181791751,1.0,2.0,WT-like
+1226,none,single,1.0,FLTLSLRDP,tttttaactttatctttgagagatcca,-0.0921890136687706,2.0,1.0,slightly deleterious
+1227,none,single,1.0,FLV*SLRDP,tttttagtttagtctttgagagatcca,-0.2541645002520446,1.0,1.0,slightly deleterious
+1228,none,single,1.0,FLVASLRDP,tttttagttgcgtctttgagagatcca,-0.2169094840668318,2.0,1.0,slightly deleterious
+1229,none,single,1.0,FLVDSLRDP,tttttagttgattctttgagagatcca,0.0090195201447011,1.0,2.0,WT-like
+1230,none,single,1.0,FLVFSLRDP,tttttagttttttctttgagagatcca,-0.0290555709903283,2.0,2.0,WT-like
+1231,none,single,1.0,FLVISLRDP,tttttagttatttctttgagagatcca,-0.0125689990971082,1.0,2.0,WT-like
+1232,none,single,1.0,FLVL*LRDP,tttttagttttatagttgagagatcca,0.2267569925409992,3.0,1.0,slightly deleterious
+1233,none,single,1.0,FLVLALRDP,tttttagttttagcgttgagagatcca,0.0608138707187205,1.0,1.0,slightly deleterious
+1234,none,single,1.0,FLVLCLRDP,tttttagttttatgtttgagagatcca,-0.0567470129374718,2.0,1.0,slightly deleterious
+1235,none,single,1.0,FLVLELRDP,tttttagttttagagttgagagatcca,0.1330924871558243,2.0,1.0,slightly deleterious
+1236,none,single,1.0,FLVLFLRDP,tttttagttttatttttgagagatcca,-0.0154526852444183,1.0,2.0,WT-like
+1237,none,single,1.0,FLVLGLRDP,tttttagttttagggttgagagatcca,0.0187717481517146,1.0,2.0,WT-like
+1238,none,single,1.0,FLVLHLRDP,tttttagttttacatttgagagatcca,-0.0871453582455012,2.0,1.0,slightly deleterious
+1239,none,single,1.0,FLVLILRDP,tttttagttttaattttgagagatcca,-0.0348977633559824,1.0,2.0,WT-like
+1240,none,single,1.0,FLVLKLRDP,tttttagttttaaagttgagagatcca,0.0437930300053967,1.0,2.0,WT-like
+1241,none,single,1.0,FLVLLLRDP,tttttagttttactgttgagagatcca,0.0115167627564921,1.0,2.0,WT-like
+1242,none,single,1.0,FLVLLLRDP,tttttagttttacttttgagagatcca,-0.0319937478310362,1.0,2.0,WT-like
+1243,none,single,1.0,FLVLLLRDP,tttttagttttattgttgagagatcca,-0.0247958651652342,1.0,2.0,WT-like
+1244,none,single,1.0,FLVLMLRDP,tttttagttttaatgttgagagatcca,0.0046366860820483,1.0,2.0,WT-like
+1245,none,single,1.0,FLVLNLRDP,tttttagttttaaatttgagagatcca,0.0134568713327456,1.0,2.0,WT-like
+1246,none,single,1.0,FLVLPLRDP,tttttagttttaccgttgagagatcca,0.0780269937222415,2.0,1.0,slightly deleterious
+1247,none,single,1.0,FLVLPLRDP,tttttagttttacctttgagagatcca,0.0279673527513155,1.0,2.0,WT-like
+1248,none,single,1.0,FLVLQLRDP,tttttagttttacagttgagagatcca,0.0006036997716827,1.0,2.0,WT-like
+1249,none,single,1.0,FLVLRLRDP,tttttagttttaaggttgagagatcca,0.0320138993110748,1.0,2.0,WT-like
+1250,none,single,1.0,FLVLRLRDP,tttttagttttacggttgagagatcca,0.0198635958715832,1.0,2.0,WT-like
+1251,none,single,1.0,FLVLRLRDP,tttttagttttacgtttgagagatcca,0.0308623979499846,1.0,2.0,WT-like
+1252,none,single,1.0,FLVLS*RDP,tttttagttttatcttagagagatcca,-0.2535251111790195,1.0,1.0,slightly deleterious
+1253,none,single,1.0,FLVLSARDP,tttttagttttatctgcgagagatcca,0.0045043076333923,1.0,2.0,WT-like
+1254,none,single,1.0,FLVLSARDP,tttttagttttatctgctagagatcca,0.0181371521389892,1.0,2.0,WT-like
+1255,none,single,1.0,FLVLSDRDP,tttttagttttatctgatagagatcca,0.028254823745714,1.0,2.0,WT-like
+1256,none,single,1.0,FLVLSFRDP,tttttagttttatcttttagagatcca,-0.0615286731549115,1.0,1.0,slightly deleterious
+1257,none,single,1.0,FLVLSHRDP,tttttagttttatctcatagagatcca,0.0084401355385856,1.0,2.0,WT-like
+1258,none,single,1.0,FLVLSIRDP,tttttagttttatctattagagatcca,0.0026175498074777,1.0,2.0,WT-like
+1259,none,single,1.0,FLVLSL*DP,tttttagttttatctttgtaggatcca,-0.1899997155492219,1.0,1.0,slightly deleterious
+1260,none,single,1.0,FLVLSLCDP,tttttagttttatctttgtgtgatcca,0.0574875565444051,1.0,1.0,slightly deleterious
+1261,none,single,1.0,FLVLSLGDP,tttttagttttatctttgggggatcca,-0.0076504189546619,1.0,2.0,WT-like
+1262,none,single,1.0,FLVLSLGDP,tttttagttttatctttgggtgatcca,-0.071552045990648,3.0,1.0,slightly deleterious
+1263,none,single,1.0,FLVLSLHDP,tttttagttttatctttgcatgatcca,-0.0090936504154581,1.0,2.0,WT-like
+1264,none,single,1.0,FLVLSLIDP,tttttagttttatctttgattgatcca,-0.1248403715842468,2.0,1.0,slightly deleterious
+1265,none,single,1.0,FLVLSLKDP,tttttagttttatctttgaaggatcca,0.0170147164874881,1.0,2.0,WT-like
+1266,none,single,1.0,FLVLSLLDP,tttttagttttatctttgctggatcca,0.0220139522809792,1.0,2.0,WT-like
+1267,none,single,1.0,FLVLSLLDP,tttttagttttatctttgcttgatcca,-0.071552045990648,3.0,1.0,slightly deleterious
+1268,none,single,1.0,FLVLSLLDP,tttttagttttatctttgttggatcca,-0.1648972975827821,1.0,1.0,slightly deleterious
+1269,none,single,1.0,FLVLSLMDP,tttttagttttatctttgatggatcca,-0.0278850922406043,1.0,2.0,WT-like
+1270,none,single,1.0,FLVLSLNDP,tttttagttttatctttgaatgatcca,-0.0204068897639124,1.0,2.0,WT-like
+1271,none,single,1.0,FLVLSLPDP,tttttagttttatctttgcctgatcca,-0.0718691158925633,1.0,1.0,slightly deleterious
+1272,none,single,1.0,FLVLSLQDP,tttttagttttatctttgcaggatcca,-0.0079472216496696,1.0,2.0,WT-like
+1273,none,single,1.0,FLVLSLR*P,tttttagttttatctttgagatagcca,-0.2789733845282324,1.0,1.0,slightly deleterious
+1274,none,single,1.0,FLVLSLRAP,tttttagttttatctttgagagctcca,-0.1861506223162416,1.0,1.0,slightly deleterious
+1275,none,single,1.0,FLVLSLRCP,tttttagttttatctttgagatgtcca,0.0026478756552539,1.0,2.0,WT-like
+1276,none,single,1.0,FLVLSLRD*,tttttagttttatctttgagagattag,-0.2169094840668318,1.0,1.0,slightly deleterious
+1277,none,single,1.0,FLVLSLRDC,tttttagttttatctttgagagattgt,0.5243987030902715,3.0,0.0,deleterious
+1278,none,single,1.0,FLVLSLRDD,tttttagttttatctttgagagatgat,-0.0165946037878302,1.0,2.0,WT-like
+1279,none,single,1.0,FLVLSLRDE,tttttagttttatctttgagagatgag,-0.2239702437573408,3.0,1.0,slightly deleterious
+1280,none,single,1.0,FLVLSLRDF,tttttagttttatctttgagagatttt,-0.0143304382549033,1.0,2.0,WT-like
+1281,none,single,1.0,FLVLSLRDG,tttttagttttatctttgagagatggg,-0.003581913756998,1.0,2.0,WT-like
+1282,none,single,1.0,FLVLSLRDG,tttttagttttatctttgagagatggt,-0.0387619557650216,1.0,2.0,WT-like
+1283,none,single,1.0,FLVLSLRDH,tttttagttttatctttgagagatcat,-0.2169094840668318,2.0,1.0,slightly deleterious
+1284,none,single,1.0,FLVLSLRDI,tttttagttttatctttgagagatatt,-0.0440956108162669,1.0,1.0,slightly deleterious
+1285,none,single,1.0,FLVLSLRDK,tttttagttttatctttgagagataag,-0.0043725994271073,1.0,2.0,WT-like
+1286,none,single,1.0,FLVLSLRDL,tttttagttttatctttgagagatctg,0.006891529956839,1.0,2.0,WT-like
+1287,none,single,1.0,FLVLSLRDL,tttttagttttatctttgagagatctt,0.0049237542370836,3.0,2.0,WT-like
+1288,none,single,1.0,FLVLSLRDL,tttttagttttatctttgagagatttg,0.0015553520873972,1.0,2.0,WT-like
+1289,none,single,1.0,FLVLSLRDM,tttttagttttatctttgagagatatg,0.0072622590359168,1.0,2.0,WT-like
+1290,none,single,1.0,FLVLSLRDN,tttttagttttatctttgagagataat,-0.0264872218957064,1.0,2.0,WT-like
+1291,none,single,1.0,FLVLSLRDQ,tttttagttttatctttgagagatcag,-0.0921890136687705,3.0,1.0,slightly deleterious
+1292,none,single,1.0,FLVLSLRDR,tttttagttttatctttgagagatagg,0.0266061519768841,1.0,2.0,WT-like
+1293,none,single,1.0,FLVLSLRDR,tttttagttttatctttgagagatcgg,-0.0992434879377915,1.0,1.0,slightly deleterious
+1294,none,single,1.0,FLVLSLRDR,tttttagttttatctttgagagatcgt,-0.2921467035558251,2.0,1.0,slightly deleterious
+1295,none,single,1.0,FLVLSLRDS,tttttagttttatctttgagagatagt,-0.2169094840668318,3.0,1.0,slightly deleterious
+1296,none,single,1.0,FLVLSLRDS,tttttagttttatctttgagagattcg,-0.0039041930944284,1.0,2.0,WT-like
+1297,none,single,1.0,FLVLSLRDT,tttttagttttatctttgagagatacg,0.0097172214074436,1.0,2.0,WT-like
+1298,none,single,1.0,FLVLSLRDT,tttttagttttatctttgagagatact,-0.0116132378335771,1.0,2.0,WT-like
+1299,none,single,1.0,FLVLSLRDV,tttttagttttatctttgagagatgtg,-0.0500888031757104,1.0,1.0,slightly deleterious
+1300,none,single,1.0,FLVLSLRDV,tttttagttttatctttgagagatgtt,-0.0013689405638712,1.0,2.0,WT-like
+1301,none,single,1.0,FLVLSLRDY,tttttagttttatctttgagagattat,0.1330924871558244,2.0,1.0,slightly deleterious
+1302,none,single,1.0,FLVLSLREP,tttttagttttatctttgagagagcca,-0.0099616627050493,1.0,2.0,WT-like
+1303,none,single,1.0,FLVLSLRFP,tttttagttttatctttgagatttcca,-0.0097823968034219,1.0,2.0,WT-like
+1304,none,single,1.0,FLVLSLRGP,tttttagttttatctttgagaggtcca,-0.0920914831684844,1.0,1.0,slightly deleterious
+1305,none,single,1.0,FLVLSLRHP,tttttagttttatctttgagacatcca,-0.0063908214656572,1.0,2.0,WT-like
+1306,none,single,1.0,FLVLSLRIP,tttttagttttatctttgagaattcca,-0.4211863060908783,2.0,0.0,deleterious
+1307,none,single,1.0,FLVLSLRKP,tttttagttttatctttgagaaagcca,-0.2496502285555054,2.0,1.0,slightly deleterious
+1308,none,single,1.0,FLVLSLRLP,tttttagttttatctttgagactgcca,0.0062557050221878,1.0,2.0,WT-like
+1309,none,single,1.0,FLVLSLRLP,tttttagttttatctttgagacttcca,0.0250591742878902,1.0,2.0,WT-like
+1310,none,single,1.0,FLVLSLRLP,tttttagttttatctttgagattgcca,0.0433952277316572,1.0,2.0,WT-like
+1311,none,single,1.0,FLVLSLRMP,tttttagttttatctttgagaatgcca,0.0188406300033644,1.0,2.0,WT-like
+1312,none,single,1.0,FLVLSLRNP,tttttagttttatctttgagaaatcca,-0.0100687792214884,1.0,2.0,WT-like
+1313,none,single,1.0,FLVLSLRPP,tttttagttttatctttgagaccgcca,0.039491981259701,1.0,2.0,WT-like
+1314,none,single,1.0,FLVLSLRPP,tttttagttttatctttgagacctcca,-0.0068220672665591,1.0,2.0,WT-like
+1315,none,single,1.0,FLVLSLRQP,tttttagttttatctttgagacagcca,0.0201567905445294,1.0,2.0,WT-like
+1316,none,single,1.0,FLVLSLRRP,tttttagttttatctttgagaaggcca,0.0080839368630544,1.0,2.0,WT-like
+1317,none,single,1.0,FLVLSLRRP,tttttagttttatctttgagacgtcca,0.0443619512329275,1.0,2.0,WT-like
+1318,none,single,1.0,FLVLSLRSP,tttttagttttatctttgagaagtcca,-0.3631623214081127,2.0,1.0,slightly deleterious
+1319,none,single,1.0,FLVLSLRSP,tttttagttttatctttgagatcgcca,0.0041041949856092,1.0,2.0,WT-like
+1320,none,single,1.0,FLVLSLRSP,tttttagttttatctttgagatctcca,-0.4387427223707474,2.0,0.0,deleterious
+1321,none,single,1.0,FLVLSLRTP,tttttagttttatctttgagaacgcca,-0.2921467035558251,2.0,1.0,slightly deleterious
+1322,none,single,1.0,FLVLSLRTP,tttttagttttatctttgagaactcca,0.0283209041740231,1.0,2.0,WT-like
+1323,none,single,1.0,FLVLSLRVP,tttttagttttatctttgagagtgcca,0.0183087817418613,1.0,2.0,WT-like
+1324,none,single,1.0,FLVLSLRVP,tttttagttttatctttgagagttcca,-0.0009004047578809,1.0,2.0,WT-like
+1325,none,single,1.0,FLVLSLRWP,tttttagttttatctttgagatggcca,0.0738116894676191,1.0,1.0,slightly deleterious
+1326,none,single,1.0,FLVLSLRYP,tttttagttttatctttgagatatcca,-0.0041572017746891,1.0,2.0,WT-like
+1327,none,single,1.0,FLVLSLSDP,tttttagttttatctttgagtgatcca,-0.2496502285555054,2.0,1.0,slightly deleterious
+1328,none,single,1.0,FLVLSLSDP,tttttagttttatctttgtcggatcca,0.0144942027257198,1.0,2.0,WT-like
+1329,none,single,1.0,FLVLSLSDP,tttttagttttatctttgtctgatcca,-0.0921890136687705,3.0,1.0,slightly deleterious
+1330,none,single,1.0,FLVLSLTDP,tttttagttttatctttgacggatcca,0.0008417892634778,1.0,2.0,WT-like
+1331,none,single,1.0,FLVLSLTDP,tttttagttttatctttgactgatcca,-0.0093681991163269,1.0,2.0,WT-like
+1332,none,single,1.0,FLVLSLVDP,tttttagttttatctttggtggatcca,-0.0224165967795283,1.0,2.0,WT-like
+1333,none,single,1.0,FLVLSLWDP,tttttagttttatctttgtgggatcca,-0.0159803884093315,1.0,2.0,WT-like
+1334,none,single,1.0,FLVLSMRDP,tttttagttttatctatgagagatcca,0.0028951753611199,1.0,2.0,WT-like
+1335,none,single,1.0,FLVLSNRDP,tttttagttttatctaatagagatcca,-0.0284120758244666,1.0,2.0,WT-like
+1336,none,single,1.0,FLVLSPRDP,tttttagttttatctccgagagatcca,-0.0146891900187913,1.0,2.0,WT-like
+1337,none,single,1.0,FLVLSPRDP,tttttagttttatctcctagagatcca,-0.0789249815696022,1.0,1.0,slightly deleterious
+1338,none,single,1.0,FLVLSQRDP,tttttagttttatctcagagagatcca,0.1270855737520458,2.0,1.0,slightly deleterious
+1339,none,single,1.0,FLVLSRRDP,tttttagttttatctaggagagatcca,-0.0084836754548681,1.0,2.0,WT-like
+1340,none,single,1.0,FLVLSRRDP,tttttagttttatctcggagagatcca,-0.0001593902566696,1.0,2.0,WT-like
+1341,none,single,1.0,FLVLSRRDP,tttttagttttatctcgtagagatcca,0.1326533041482286,1.0,1.0,slightly deleterious
+1342,none,single,1.0,FLVLSSRDP,tttttagttttatctagtagagatcca,-0.0921890136687705,2.0,1.0,slightly deleterious
+1343,none,single,1.0,FLVLSSRDP,tttttagttttatcttcgagagatcca,-0.2169094840668318,3.0,1.0,slightly deleterious
+1344,none,single,1.0,FLVLSSRDP,tttttagttttatcttctagagatcca,-0.0001303601982479,1.0,2.0,WT-like
+1345,none,single,1.0,FLVLSTRDP,tttttagttttatctacgagagatcca,0.003405866920991,1.0,2.0,WT-like
+1346,none,single,1.0,FLVLSVRDP,tttttagttttatctgtgagagatcca,0.0584774510237156,1.0,1.0,slightly deleterious
+1347,none,single,1.0,FLVLSVRDP,tttttagttttatctgttagagatcca,-0.0204566537700041,1.0,2.0,WT-like
+1348,none,single,1.0,FLVLSYRDP,tttttagttttatcttatagagatcca,-0.0084978208862477,1.0,2.0,WT-like
+1349,none,single,1.0,FLVLTLRDP,tttttagttttaacgttgagagatcca,-0.0284488008951511,1.0,2.0,WT-like
+1350,none,single,1.0,FLVLTLRDP,tttttagttttaactttgagagatcca,-0.071552045990648,3.0,1.0,slightly deleterious
+1351,none,single,1.0,FLVLVLRDP,tttttagttttagtgttgagagatcca,-0.0092459097658781,1.0,2.0,WT-like
+1352,none,single,1.0,FLVLVLRDP,tttttagttttagttttgagagatcca,-0.0011148723237955,1.0,2.0,WT-like
+1353,none,single,1.0,FLVLWLRDP,tttttagttttatggttgagagatcca,0.1126075592678535,2.0,1.0,slightly deleterious
+1354,none,single,1.0,FLVLYLRDP,tttttagttttatatttgagagatcca,-0.0224934659608437,1.0,2.0,WT-like
+1355,none,single,1.0,FLVMSLRDP,tttttagttatgtctttgagagatcca,0.0146200311547659,1.0,2.0,WT-like
+1356,none,single,1.0,FLVNSLRDP,tttttagttaattctttgagagatcca,-0.5101570741606211,2.0,0.0,deleterious
+1357,none,single,1.0,FLVPSLRDP,tttttagttccttctttgagagatcca,0.0049237542370836,1.0,2.0,WT-like
+1358,none,single,1.0,FLVQSLRDP,tttttagttcagtctttgagagatcca,0.0169251241352571,1.0,2.0,WT-like
+1359,none,single,1.0,FLVRSLRDP,tttttagttaggtctttgagagatcca,-0.0921890136687705,2.0,1.0,slightly deleterious
+1360,none,single,1.0,FLVRSLRDP,tttttagttcgttctttgagagatcca,0.023249689653111,1.0,2.0,WT-like
+1361,none,single,1.0,FLVSSLRDP,tttttagttagttctttgagagatcca,0.2056169315296519,3.0,1.0,slightly deleterious
+1362,none,single,1.0,FLVSSLRDP,tttttagtttcttctttgagagatcca,-0.0359163333677775,1.0,2.0,WT-like
+1363,none,single,1.0,FLVTSLRDP,tttttagttacgtctttgagagatcca,0.0813944724492886,1.0,1.0,slightly deleterious
+1364,none,single,1.0,FLVTSLRDP,tttttagttacttctttgagagatcca,0.0080642190895529,1.0,2.0,WT-like
+1365,none,single,1.0,FLVVSLRDP,tttttagttgtgtctttgagagatcca,-0.0707295696274555,1.0,1.0,slightly deleterious
+1366,none,single,1.0,FLVWSLRDP,tttttagtttggtctttgagagatcca,-0.1090365934955771,2.0,1.0,slightly deleterious
+1367,none,single,1.0,FLVYSLRDP,tttttagtttattctttgagagatcca,0.1608310266056692,1.0,1.0,slightly deleterious
+1368,none,single,1.0,FLWLSLRDP,tttttatggttatctttgagagatcca,0.2928872471627584,2.0,0.0,deleterious
+1369,none,single,1.0,FLYLSLRDP,tttttatatttatctttgagagatcca,-0.2239702437573408,1.0,1.0,slightly deleterious
+1370,none,single,1.0,FMVLSLRDP,tttatggttttatctttgagagatcca,0.0125029130889569,1.0,2.0,WT-like
+1371,none,single,1.0,FPVLSLRDP,tttccggttttatctttgagagatcca,-0.0564869301889879,1.0,1.0,slightly deleterious
+1372,none,single,1.0,FQVLSLRDP,tttcaggttttatctttgagagatcca,-0.0083293872400956,1.0,2.0,WT-like
+1373,none,single,1.0,FRVLSLRDP,tttagggttttatctttgagagatcca,-0.015842622917231,1.0,2.0,WT-like
+1374,none,single,1.0,FRVLSLRDP,tttcgggttttatctttgagagatcca,-0.0921890136687705,2.0,1.0,slightly deleterious
+1375,none,single,1.0,FRVLSLRDP,tttcgtgttttatctttgagagatcca,-0.0068962925900545,1.0,2.0,WT-like
+1376,none,single,1.0,FSVLSLRDP,tttagtgttttatctttgagagatcca,0.0175708580052122,1.0,2.0,WT-like
+1377,none,single,1.0,FSVLSLRDP,ttttcggttttatctttgagagatcca,-0.0197549925687583,1.0,2.0,WT-like
+1378,none,single,1.0,FSVLSLRDP,ttttctgttttatctttgagagatcca,-0.1050831163380064,1.0,1.0,slightly deleterious
+1379,none,single,1.0,FTVLSLRDP,tttacggttttatctttgagagatcca,-0.2169094840668318,2.0,1.0,slightly deleterious
+1380,none,single,1.0,FTVLSLRDP,tttactgttttatctttgagagatcca,-0.0487896413834365,2.0,1.0,slightly deleterious
+1381,none,single,1.0,FVVLSLRDP,tttgtggttttatctttgagagatcca,-0.0213569308054812,1.0,2.0,WT-like
+1382,none,single,1.0,FVVLSLRDP,tttgttgttttatctttgagagatcca,0.0419600468619592,2.0,2.0,WT-like
+1383,none,single,1.0,FWVLSLRDP,ttttgggttttatctttgagagatcca,-0.1425676638429355,2.0,1.0,slightly deleterious
+1384,none,single,1.0,FYVLSLRDP,ttttatgttttatctttgagagatcca,-0.1084582021387522,1.0,1.0,slightly deleterious
+1385,none,single,1.0,HLVLSLRDP,catttagttttatctttgagagatcca,-0.2005916485257011,2.0,1.0,slightly deleterious
+1386,none,single,1.0,ILVLSLRDP,attttagttttatctttgagagatcca,-0.0921890136687705,3.0,1.0,slightly deleterious
+1387,none,single,1.0,KLVLSLRDP,aagttagttttatctttgagagatcca,0.0214623697835589,1.0,2.0,WT-like
+1388,none,single,1.0,LLVLSLRDP,ctgttagttttatctttgagagatcca,0.0060113940699864,1.0,2.0,WT-like
+1389,none,single,1.0,LLVLSLRDP,cttttagttttatctttgagagatcca,0.0131074879627406,1.0,2.0,WT-like
+1390,none,single,1.0,LLVLSLRDP,ttgttagttttatctttgagagatcca,0.0172355931794777,1.0,2.0,WT-like
+1391,none,single,1.0,MLVLSLRDP,atgttagttttatctttgagagatcca,0.0215525042103253,1.0,2.0,WT-like
+1392,none,single,1.0,NLVLSLRDP,aatttagttttatctttgagagatcca,-0.0017986904426759,1.0,2.0,WT-like
+1393,none,single,1.0,PLVLSLRDP,ccgttagttttatctttgagagatcca,-0.0346696761838583,1.0,2.0,WT-like
+1394,none,single,1.0,PLVLSLRDP,cctttagttttatctttgagagatcca,-0.568506848192078,2.0,0.0,deleterious
+1395,none,single,1.0,QLVLSLRDP,cagttagttttatctttgagagatcca,0.0259359524435894,1.0,2.0,WT-like
+1396,none,single,1.0,RLVLSLRDP,aggttagttttatctttgagagatcca,0.0041748218824526,1.0,2.0,WT-like
+1397,none,single,1.0,RLVLSLRDP,cggttagttttatctttgagagatcca,0.0108232339641164,1.0,2.0,WT-like
+1398,none,single,1.0,RLVLSLRDP,cgtttagttttatctttgagagatcca,0.0047799399806595,1.0,2.0,WT-like
+1399,none,single,1.0,SLVLSLRDP,tcgttagttttatctttgagagatcca,-0.039805338137902,1.0,2.0,WT-like
+1400,none,single,1.0,SLVLSLRDP,tctttagttttatctttgagagatcca,0.0230390501362943,1.0,2.0,WT-like
+1401,none,single,1.0,VLVLSLRDP,gtgttagttttatctttgagagatcca,-0.0093618352128772,1.0,2.0,WT-like
+1402,none,single,1.0,VLVLSLRDP,gttttagttttatctttgagagatcca,-0.007999268005611,1.0,2.0,WT-like
+1403,none,single,1.0,WLVLSLRDP,tggttagttttatctttgagagatcca,-0.3466736098881623,2.0,1.0,slightly deleterious
+1404,none,single,1.0,YLVLSLRDP,tatttagttttatctttgagagatcca,-0.0338797869460318,1.0,2.0,WT-like

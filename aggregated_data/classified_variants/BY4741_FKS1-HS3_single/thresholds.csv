@@ -1,0 +1,9 @@
+,compound,thresh,val
+0,anidulafungin,low,0.4835937305943738
+1,anidulafungin,up,0.5971473639770042
+2,caspofungin,low,0.29945093150589586
+3,caspofungin,up,0.3012183615985453
+4,micafungin,low,0.47746362988990443
+5,micafungin,up,0.08309782315389946
+6,none,low,-0.11336587458430918
+7,none,up,

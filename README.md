@@ -1,5 +1,12 @@
 # Analysis of FKS hotspots DMS
-Companion repo for [this preprint](https://www.biorxiv.org/content/10.1101/2024.07.21.604487). Contains all scripts related to the analysis of deep mutational scanning data for the hotspots of FKS1 and FKS2 (and other related experiments).
+> [!WARNING]
+> This companion repo only relates to analyses conducted in earlier versions of [this preprint](https://www.biorxiv.org/content/10.1101/2024.07.21.604487)
+
+Some of what is described here, related to analysis of DMS data, ultimately became [gyōza](https://github.com/durr1602/gyoza).
+
+Consequently, all analyses described here were adapted to incorporate gyōza.
+> [!IMPORTANT]
+> [Click here to see the new-and-improved companion repo](https://github.com/Landrylab/Durand_et_al_2026) for the most up-to-date version of the study.
 
 ## Installation instructions
 
